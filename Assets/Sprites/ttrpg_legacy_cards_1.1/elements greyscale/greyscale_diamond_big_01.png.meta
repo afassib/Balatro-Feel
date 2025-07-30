@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: dc051f00f690fd94f80bba928f64d708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 430725287304014539
+    second: greyscale_diamond_big_01_0
+  - first:
+      213: -8624287599766416098
+    second: greyscale_diamond_big_01_1
+  - first:
+      213: 2251626204897344327
+    second: greyscale_diamond_big_01_2
+  - first:
+      213: 8284578993254880897
+    second: greyscale_diamond_big_01_3
+  - first:
+      213: 395121462385779415
+    second: greyscale_diamond_big_01_4
+  - first:
+      213: -6238154004198278149
+    second: greyscale_diamond_big_01_5
+  - first:
+      213: 3738907538369280762
+    second: greyscale_diamond_big_01_6
+  - first:
+      213: 1064897719334987432
+    second: greyscale_diamond_big_01_7
+  - first:
+      213: -2792724837614148820
+    second: greyscale_diamond_big_01_8
+  - first:
+      213: 8108613746709087414
+    second: greyscale_diamond_big_01_9
+  - first:
+      213: 4055289143429788828
+    second: greyscale_diamond_big_01_10
+  - first:
+      213: -1147252908528929979
+    second: greyscale_diamond_big_01_11
+  - first:
+      213: -7533850795581098826
+    second: greyscale_diamond_big_01_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaa881ed5e3af500800000000000000
+      internalID: 430725287304014539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 180
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15dd171f10605880800000000000000
+      internalID: -8624287599766416098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 243
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bfddd8a126f3f10800000000000000
+      internalID: 2251626204897344327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 180
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186de9663bcb8f270800000000000000
+      internalID: 8284578993254880897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d223a860e0cb7500800000000000000
+      internalID: 395121462385779415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 136
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb49dfbff9d69a0800000000000000
+      internalID: -6238154004198278149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaf788b89443e330800000000000000
+      internalID: 3738907538369280762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 121
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e51b65d647ce00800000000000000
+      internalID: 1064897719334987432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 77
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2329928e8f3e39d0800000000000000
+      internalID: -2792724837614148820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 77
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c179cd35978070800000000000000
+      internalID: 8108613746709087414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9471a77df7474830800000000000000
+      internalID: 4055289143429788828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543799fde832410f0800000000000000
+      internalID: -1147252908528929979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greyscale_diamond_big_01_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b438921e92627790800000000000000
+      internalID: -7533850795581098826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      greyscale_diamond_big_01_0: 430725287304014539
+      greyscale_diamond_big_01_1: -8624287599766416098
+      greyscale_diamond_big_01_10: 4055289143429788828
+      greyscale_diamond_big_01_11: -1147252908528929979
+      greyscale_diamond_big_01_12: -7533850795581098826
+      greyscale_diamond_big_01_2: 2251626204897344327
+      greyscale_diamond_big_01_3: 8284578993254880897
+      greyscale_diamond_big_01_4: 395121462385779415
+      greyscale_diamond_big_01_5: -6238154004198278149
+      greyscale_diamond_big_01_6: 3738907538369280762
+      greyscale_diamond_big_01_7: 1064897719334987432
+      greyscale_diamond_big_01_8: -2792724837614148820
+      greyscale_diamond_big_01_9: 8108613746709087414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

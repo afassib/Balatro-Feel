@@ -1,0 +1,41 @@
+Since this pack have too many card to be sorted without being a huge mess of folders, I suggest you to find what you need with the search tool of your OS
+
+You can find your needs with those key word, for a good result, you need a Family Keyword, a Color Keyword, and a Design Keyword - If done correctly, you will always have 22 results (Ace to 10 and all the variation's race of Jack, Queen, King)
+
+--- Family Key word (only One) ---
+
+-Spade
+-Diamond
+-Club
+-Heart
+
+--- Color Key word (only One) ---
+
+-Black
+-Blue
+-Bronze
+-Cyan
+-Gold
+-Green
+-Orange
+-Purple
+-Red
+-Silver
+
+--- Design Key word (only One) ---
+
+-Design_1
+-Design_2
+-Design_3
+-Design_4
+
+--- Race Keyword for Jack / Queen / King (only one)(Optionnal) ---
+
+-Human
+-Goblin
+-Elves
+-Dwarf
+
+For exemple, I want to have all the BLUE SPADE card with the 4TH DESIGN, all I need is to write on the research "spade blue design_4" then copy / past what I need and erase the Jack / Queen / King of other race I don't want to use
+
+With this method, you can build your deck of 52 cards in no time ! Just don't forget to check the folder "extra" for the back of cards and jokers

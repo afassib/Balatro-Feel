@@ -6,13 +6,29 @@ using System.Collections.Generic;
 using System.Collections;
 using UnityEngine.UI;
 
+
+
 public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler, IPointerEnterHandler, IPointerExitHandler, IPointerUpHandler, IPointerDownHandler
 {
+    public enum CardType
+    {
+        Hearts,
+        Diamonds,
+        Spades,
+        Clubs,
+        Joker
+    }
+
     private Canvas canvas;
     private Image imageComponent;
     [SerializeField] private bool instantiateVisual = true;
     private VisualCardsHandler visualHandler;
     private Vector3 offset;
+    public Transform parentTransform;
+
+    [Header("Card informations")]
+    [SerializeField] public int cardNumber = 1 ;
+    [SerializeField] public CardType cardType = CardType.Hearts;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeedLimit = 50;
@@ -41,6 +57,12 @@ public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHand
     [HideInInspector] public UnityEvent<Card> EndDragEvent;
     [HideInInspector] public UnityEvent<Card, bool> SelectEvent;
 
+    private void Awake()
+    {
+        parentTransform = transform.parent;
+        cardNumber = Random.Range(2, 10);
+        cardType = (CardType)Random.Range(0, 4);
+    }
     void Start()
     {
         canvas = GetComponentInParent<Canvas>();
@@ -49,7 +71,7 @@ public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHand
         if (!instantiateVisual)
             return;
 
-        visualHandler = FindObjectOfType<VisualCardsHandler>();
+        visualHandler = FindFirstObjectByType<VisualCardsHandler>();
         cardVisual = Instantiate(cardVisualPrefab, visualHandler ? visualHandler.transform : canvas.transform).GetComponent<CardVisual>();
         cardVisual.Initialize(this);
     }

@@ -382,7 +382,6 @@
     "m_OutputNode": {
         "m_Id": ""
     },
-    "m_SubDatas": [],
     "m_ActiveTargets": [
         {
             "m_Id": "11cb0a02a1a045a6a371a230cf564d09"
@@ -400,7 +399,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_Frequency",
     "m_StageCapability": 2,
-    "m_Value": 300.0,
+    "m_Value": 813.5,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -793,10 +792,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1185.5,
-            "y": 473.5,
-            "width": 231.99993896484376,
-            "height": 375.0
+            "x": -1139.3333740234375,
+            "y": 460.0,
+            "width": 234.0,
+            "height": 376.0
         }
     },
     "m_Slots": [
@@ -1359,10 +1358,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1130.4998779296875,
-            "y": 49.500022888183597,
-            "width": 231.99993896484376,
-            "height": 374.99993896484377
+            "x": -1130.666748046875,
+            "y": 49.333335876464847,
+            "width": 234.0,
+            "height": 376.0
         }
     },
     "m_Slots": [

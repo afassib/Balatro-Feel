@@ -22,31 +22,65 @@ public class HorizontalCardHolder : MonoBehaviour
     bool isCrossing = false;
     [SerializeField] private bool tweenCardReturn = true;
 
+    private void Awake()
+    {
+        rect = GetComponent<RectTransform>();
+        cards = new List<Card>();
+    }
     void Start()
     {
         for (int i = 0; i < cardsToSpawn; i++)
         {
-            Instantiate(slotPrefab, transform);
-        }
-
-        rect = GetComponent<RectTransform>();
-        cards = GetComponentsInChildren<Card>().ToList();
-
-        int cardCount = 0;
-
-        foreach (Card card in cards)
-        {
-            card.PointerEnterEvent.AddListener(CardPointerEnter);
-            card.PointerExitEvent.AddListener(CardPointerExit);
-            card.BeginDragEvent.AddListener(BeginDrag);
-            card.EndDragEvent.AddListener(EndDrag);
-            card.name = cardCount.ToString();
-            cardCount++;
+            AddCard();
         }
 
         StartCoroutine(Frame());
 
-        IEnumerator Frame()
+        
+    }
+
+    public void AddCard()
+    {
+        // instanciate GO
+        GameObject cardGO = Instantiate(slotPrefab, transform);
+
+        Card card = cardGO.GetComponentInChildren<Card>();
+
+        card.PointerEnterEvent.AddListener(CardPointerEnter);
+        card.PointerExitEvent.AddListener(CardPointerExit);
+        card.BeginDragEvent.AddListener(BeginDrag);
+        card.EndDragEvent.AddListener(EndDrag);
+        card.name = "Card " + (1 + cards.Count).ToString();
+        cards.Add(card);
+    }
+
+    public void AddCard(Card card)
+    {
+        card.PointerEnterEvent.AddListener(CardPointerEnter);
+        card.PointerExitEvent.AddListener(CardPointerExit);
+        card.BeginDragEvent.AddListener(BeginDrag);
+        card.EndDragEvent.AddListener(EndDrag);
+        card.name = "Card " + (1 + cards.Count).ToString();
+        card.transform.parent.SetParent(transform);
+        cards.Add(card);
+    }
+
+    public bool RemoveCard(int index, out Card card)
+    {
+        card = null;
+        if(index >= 0 && index < cards.Count)
+        {
+            card = cards[index];
+            card.PointerEnterEvent.RemoveListener(CardPointerEnter);
+            card.PointerExitEvent.RemoveListener(CardPointerExit);
+            card.BeginDragEvent.RemoveListener(BeginDrag);
+            card.EndDragEvent.RemoveListener(EndDrag);
+            cards.RemoveAt(index);
+            return true;
+        }
+        return false;
+    }
+    IEnumerator Frame()
         {
             yield return new WaitForSecondsRealtime(.1f);
             for (int i = 0; i < cards.Count; i++)
@@ -55,8 +89,6 @@ public class HorizontalCardHolder : MonoBehaviour
                     cards[i].cardVisual.UpdateIndex(transform.childCount);
             }
         }
-    }
-
     private void BeginDrag(Card card)
     {
         selectedCard = card;
@@ -159,6 +191,15 @@ public class HorizontalCardHolder : MonoBehaviour
         foreach (Card card in cards)
         {
             card.cardVisual.UpdateIndex(transform.childCount);
+        }
+    }
+
+    public void MoveCard(HorizontalCardHolder from, int index)
+    {
+        Card card = null;
+        if(from.RemoveCard(index, out card))
+        {
+            AddCard(card);
         }
     }
 

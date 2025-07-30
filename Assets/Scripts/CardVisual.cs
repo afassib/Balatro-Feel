@@ -1,17 +1,17 @@
-using System;
 using UnityEngine;
-using DG.Tweening;
-using System.Collections;
-using UnityEngine.EventSystems;
-using Unity.Collections;
 using UnityEngine.UI;
-using Unity.VisualScripting;
+using TMPro;
+using DG.Tweening;
+using System.Collections.Generic;
+using UnityEngine.Events;
 
 public class CardVisual : MonoBehaviour
 {
     private bool initalize = false;
 
     [Header("Card")]
+    [SerializeField] public Card.CardType cardType;
+    [SerializeField] public int cardNumber = 3;
     public Card parentCard;
     private Transform cardTransform;
     private Vector3 rotationDelta;
@@ -27,6 +27,11 @@ public class CardVisual : MonoBehaviour
     [SerializeField] private Transform shakeParent;
     [SerializeField] private Transform tiltParent;
     [SerializeField] private Image cardImage;
+    [SerializeField] private TextMeshProUGUI cardNumber1;
+    [SerializeField] private TextMeshProUGUI cardNumber2;
+
+    [Header("References Assets Hearts/Diamonds/Spades/Clubs/Joker")]
+    public List<Sprite> cardSprites;
 
     [Header("Follow Parameters")]
     [SerializeField] private float followSpeed = 30;
@@ -61,6 +66,9 @@ public class CardVisual : MonoBehaviour
     [Header("Curve")]
     [SerializeField] private CurveParameters curve;
 
+    [Header("Events")]
+    public UnityEvent onInitialize;
+
     private float curveYOffset;
     private float curveRotationOffset;
     private Coroutine pressCoroutine;
@@ -77,6 +85,10 @@ public class CardVisual : MonoBehaviour
         cardTransform = target.transform;
         canvas = GetComponent<Canvas>();
         shadowCanvas = visualShadow.GetComponent<Canvas>();
+        cardNumber = parentCard.cardNumber;
+        cardType = parentCard.cardType;
+        cardNumber1.text = cardNumber.ToString();
+        cardNumber2.text = cardNumber.ToString();
 
         //Event Listening
         parentCard.PointerEnterEvent.AddListener(PointerEnter);
@@ -89,6 +101,7 @@ public class CardVisual : MonoBehaviour
 
         //Initialization
         initalize = true;
+        onInitialize.Invoke();
     }
 
     public void UpdateIndex(int length)

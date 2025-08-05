@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f4fda14a7c3db04468e4d3349f73a90e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8955807960184947612
+    second: satellite-communication_0
+  - first:
+      213: -805089586270918988
+    second: satellite-communication_1
+  - first:
+      213: -7367847988059167958
+    second: satellite-communication_2
+  - first:
+      213: 5430967507145532632
+    second: satellite-communication_3
+  - first:
+      213: 447971577461019818
+    second: satellite-communication_4
+  - first:
+      213: 4284372150775283584
+    second: satellite-communication_5
+  - first:
+      213: 4465733877506153145
+    second: satellite-communication_6
+  - first:
+      213: -4437323283232491995
+    second: satellite-communication_7
+  - first:
+      213: 1134677937545566009
+    second: satellite-communication_8
+  - first:
+      213: 9097316799669721375
+    second: satellite-communication_9
+  - first:
+      213: 4089368846326759879
+    second: satellite-communication_10
+  - first:
+      213: -311290977742750032
+    second: satellite-communication_11
+  - first:
+      213: -4767997633078584922
+    second: satellite-communication_12
+  - first:
+      213: -765883242269422203
+    second: satellite-communication_13
+  - first:
+      213: 866077294822063665
+    second: satellite-communication_14
+  - first:
+      213: 4054478452534376786
+    second: satellite-communication_15
+  - first:
+      213: -983495706192155430
+    second: satellite-communication_16
+  - first:
+      213: 1940512913280988395
+    second: satellite-communication_17
+  - first:
+      213: 2256564066606753865
+    second: satellite-communication_18
+  - first:
+      213: -2145762680501246287
+    second: satellite-communication_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: satellite-communication_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 447
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93807fc3eb694c70800000000000000
+      internalID: 8955807960184947612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 478
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a4fd694fb3d4f0800000000000000
+      internalID: -805089586270918988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 444
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2328a89a4520c990800000000000000
+      internalID: -7367847988059167958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 471
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4291a5c2cae5b40800000000000000
+      internalID: 5430967507145532632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 339
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa41908b6c3873600800000000000000
+      internalID: 447971577461019818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 409
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f798485c5257b30800000000000000
+      internalID: 4284372150775283584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 420
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9e261d4979fd30800000000000000
+      internalID: 4465733877506153145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 320
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267b5ddbf57b62c0800000000000000
+      internalID: -4437323283232491995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 335
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93750e9829f2fbf00800000000000000
+      internalID: 1134677937545566009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 278
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19d18dfd69204e70800000000000000
+      internalID: 9097316799669721375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 231
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c10bd0ac4b50c830800000000000000
+      internalID: 4089368846326759879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 152
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0befbd941821eabf0800000000000000
+      internalID: -311290977742750032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 172
+        width: 101
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a992762a6ba4ddb0800000000000000
+      internalID: -4767997633078584922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 293
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d4b1dbf390f55f0800000000000000
+      internalID: -765883242269422203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e76e106bce40c00800000000000000
+      internalID: 866077294822063665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 286
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25979c8cba6644830800000000000000
+      internalID: 4054478452534376786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 229
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc6b42bddbe952f0800000000000000
+      internalID: -983495706192155430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 59
+        width: 165
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4fb2e96361eea10800000000000000
+      internalID: 1940512913280988395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 58
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a103101de05f10800000000000000
+      internalID: 2256564066606753865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite-communication_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6ee68f538b832e0800000000000000
+      internalID: -2145762680501246287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      satellite-communication_0: 8955807960184947612
+      satellite-communication_1: -805089586270918988
+      satellite-communication_10: 4089368846326759879
+      satellite-communication_11: -311290977742750032
+      satellite-communication_12: -4767997633078584922
+      satellite-communication_13: -765883242269422203
+      satellite-communication_14: 866077294822063665
+      satellite-communication_15: 4054478452534376786
+      satellite-communication_16: -983495706192155430
+      satellite-communication_17: 1940512913280988395
+      satellite-communication_18: 2256564066606753865
+      satellite-communication_19: -2145762680501246287
+      satellite-communication_2: -7367847988059167958
+      satellite-communication_3: 5430967507145532632
+      satellite-communication_4: 447971577461019818
+      satellite-communication_5: 4284372150775283584
+      satellite-communication_6: 4465733877506153145
+      satellite-communication_7: -4437323283232491995
+      satellite-communication_8: 1134677937545566009
+      satellite-communication_9: 9097316799669721375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

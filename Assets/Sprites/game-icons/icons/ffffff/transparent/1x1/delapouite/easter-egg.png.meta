@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 72e7cbda9071ed94cb2f6abe0c58f3f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1337261778347294338
+    second: easter-egg_0
+  - first:
+      213: -2077343285986680045
+    second: easter-egg_1
+  - first:
+      213: -8711589614204550657
+    second: easter-egg_2
+  - first:
+      213: -2078023672149967101
+    second: easter-egg_3
+  - first:
+      213: 2642905602736887280
+    second: easter-egg_4
+  - first:
+      213: 2514894398139725231
+    second: easter-egg_5
+  - first:
+      213: 8028786622368855976
+    second: easter-egg_6
+  - first:
+      213: -2767246596388379274
+    second: easter-egg_7
+  - first:
+      213: -94354572207406618
+    second: easter-egg_8
+  - first:
+      213: -5423935002391517994
+    second: easter-egg_9
+  - first:
+      213: -8467509097932369921
+    second: easter-egg_10
+  - first:
+      213: 756393705231060072
+    second: easter-egg_11
+  - first:
+      213: 8257005557251625108
+    second: easter-egg_12
+  - first:
+      213: -4127066412196164900
+    second: easter-egg_13
+  - first:
+      213: -4394374155282215834
+    second: easter-egg_14
+  - first:
+      213: 7297706529109870371
+    second: easter-egg_15
+  - first:
+      213: 9173975892861344029
+    second: easter-egg_16
+  - first:
+      213: -7753575149484546725
+    second: easter-egg_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: easter-egg_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 406
+        width: 178
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7107e96f77117de0800000000000000
+      internalID: -1337261778347294338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a832a94bcb23e0800000000000000
+      internalID: -2077343285986680045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff10b50e6673a1780800000000000000
+      internalID: -8711589614204550657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ff5a2ea706923e0800000000000000
+      internalID: -2078023672149967101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 360
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5950a94ac7da420800000000000000
+      internalID: 2642905602736887280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 328
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fcb07123b6e220800000000000000
+      internalID: 2514894398139725231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 314
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a734bb05eafb6f60800000000000000
+      internalID: 8028786622368855976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675ac50d1e3c899d0800000000000000
+      internalID: -2767246596388379274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 314
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c4a83409c0bef0800000000000000
+      internalID: -94354572207406618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 314
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d465a14adf4ab4b0800000000000000
+      internalID: -5423935002391517994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 304
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff4a55965d5d7a80800000000000000
+      internalID: -8467509097932369921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 200
+        width: 284
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c83ae31104f7a00800000000000000
+      internalID: 756393705231060072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 79
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d86c8ec6c69270800000000000000
+      internalID: 8257005557251625108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda0a98d6f6b9b6c0800000000000000
+      internalID: -4127066412196164900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c0f38fcfb0403c0800000000000000
+      internalID: -4394374155282215834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 72
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32784ae5c69a64560800000000000000
+      internalID: 7297706529109870371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195ffff772805f70800000000000000
+      internalID: 9173975892861344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: easter-egg_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 206
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556da35b74c56490800000000000000
+      internalID: -7753575149484546725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      easter-egg_0: -1337261778347294338
+      easter-egg_1: -2077343285986680045
+      easter-egg_10: -8467509097932369921
+      easter-egg_11: 756393705231060072
+      easter-egg_12: 8257005557251625108
+      easter-egg_13: -4127066412196164900
+      easter-egg_14: -4394374155282215834
+      easter-egg_15: 7297706529109870371
+      easter-egg_16: 9173975892861344029
+      easter-egg_17: -7753575149484546725
+      easter-egg_2: -8711589614204550657
+      easter-egg_3: -2078023672149967101
+      easter-egg_4: 2642905602736887280
+      easter-egg_5: 2514894398139725231
+      easter-egg_6: 8028786622368855976
+      easter-egg_7: -2767246596388379274
+      easter-egg_8: -94354572207406618
+      easter-egg_9: -5423935002391517994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

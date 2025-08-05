@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: e34417d9cf58d4e42a3c97c285ed7d2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2612031717660002171
+    second: ice-bolt_0
+  - first:
+      213: -6465860135998405060
+    second: ice-bolt_1
+  - first:
+      213: 2497629625089852582
+    second: ice-bolt_2
+  - first:
+      213: -4204430256703749621
+    second: ice-bolt_3
+  - first:
+      213: -8802190189201743868
+    second: ice-bolt_4
+  - first:
+      213: 4398015836376999717
+    second: ice-bolt_5
+  - first:
+      213: 8031277126782146280
+    second: ice-bolt_6
+  - first:
+      213: -9102429778225641560
+    second: ice-bolt_7
+  - first:
+      213: -5331982347726546503
+    second: ice-bolt_8
+  - first:
+      213: -1095769735121117218
+    second: ice-bolt_9
+  - first:
+      213: -5779462275470410691
+    second: ice-bolt_10
+  - first:
+      213: -7215788418933165275
+    second: ice-bolt_11
+  - first:
+      213: 1929255301529434471
+    second: ice-bolt_12
+  - first:
+      213: 3636266045217588013
+    second: ice-bolt_13
+  - first:
+      213: 3189490236911320390
+    second: ice-bolt_14
+  - first:
+      213: -9141708061771992482
+    second: ice-bolt_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-bolt_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 440
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778d21120dcf3420800000000000000
+      internalID: 2612031717660002171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 327
+        width: 117
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c472c676a446a0800000000000000
+      internalID: -6465860135998405060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 458
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a409f739ec59a220800000000000000
+      internalID: 2497629625089852582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 330
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02c44225fcd6a5c0800000000000000
+      internalID: -4204430256703749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 424
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a33fa8a658d580800000000000000
+      internalID: -8802190189201743868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 377
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5272bcbf914e80d30800000000000000
+      internalID: 4398015836376999717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 324
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d19acef3d47f60800000000000000
+      internalID: 8031277126782146280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 372
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74cebe75cada180800000000000000
+      internalID: -9102429778225641560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 316
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b91b170e4ef006b0800000000000000
+      internalID: -5331982347726546503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 321
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf5b764b3b0bc0f0800000000000000
+      internalID: -1095769735121117218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 294
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb0dd6ea93bcfa0800000000000000
+      internalID: -5779462275470410691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 234
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237c13f9ae5cdb90800000000000000
+      internalID: -7215788418933165275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76973b0a97716ca10800000000000000
+      internalID: 1929255301529434471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 106
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23420ec3bc967230800000000000000
+      internalID: 3636266045217588013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 142
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dfca9c878534c20800000000000000
+      internalID: 3189490236911320390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-bolt_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 57
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5271c1e3f0222180800000000000000
+      internalID: -9141708061771992482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ice-bolt_0: 2612031717660002171
+      ice-bolt_1: -6465860135998405060
+      ice-bolt_10: -5779462275470410691
+      ice-bolt_11: -7215788418933165275
+      ice-bolt_12: 1929255301529434471
+      ice-bolt_13: 3636266045217588013
+      ice-bolt_14: 3189490236911320390
+      ice-bolt_15: -9141708061771992482
+      ice-bolt_2: 2497629625089852582
+      ice-bolt_3: -4204430256703749621
+      ice-bolt_4: -8802190189201743868
+      ice-bolt_5: 4398015836376999717
+      ice-bolt_6: 8031277126782146280
+      ice-bolt_7: -9102429778225641560
+      ice-bolt_8: -5331982347726546503
+      ice-bolt_9: -1095769735121117218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

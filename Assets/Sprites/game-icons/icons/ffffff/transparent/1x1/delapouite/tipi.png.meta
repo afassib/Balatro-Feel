@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 58179db4a11459a42a0883b82158f8e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2632067157649609628
+    second: tipi_0
+  - first:
+      213: -6942184168627159674
+    second: tipi_1
+  - first:
+      213: 9050825926750367091
+    second: tipi_2
+  - first:
+      213: -6140807788636029098
+    second: tipi_3
+  - first:
+      213: -544878459574982489
+    second: tipi_4
+  - first:
+      213: -858527839438981069
+    second: tipi_5
+  - first:
+      213: -3537226377359965378
+    second: tipi_6
+  - first:
+      213: -8446132003414442618
+    second: tipi_7
+  - first:
+      213: -5953397593772347064
+    second: tipi_8
+  - first:
+      213: -5386443019361291629
+    second: tipi_9
+  - first:
+      213: -7407519142501218856
+    second: tipi_10
+  - first:
+      213: 2459348335487627950
+    second: tipi_11
+  - first:
+      213: 8542216149924594644
+    second: tipi_12
+  - first:
+      213: -3755321633949005344
+    second: tipi_13
+  - first:
+      213: 5474626382167041258
+    second: tipi_14
+  - first:
+      213: -7942522546930371423
+    second: tipi_15
+  - first:
+      213: -6643584403413152919
+    second: tipi_16
+  - first:
+      213: -958076234325557040
+    second: tipi_17
+  - first:
+      213: -4284288783843027458
+    second: tipi_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tipi_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 428
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935da4722bf68420800000000000000
+      internalID: 2632067157649609628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 368
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d33a7a74868af90800000000000000
+      internalID: -6942184168627159674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 368
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de9df1a3efa9d70800000000000000
+      internalID: 9050825926750367091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 117
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb5640ad777caa0800000000000000
+      internalID: -6140807788636029098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 128
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8654b8de33078f0800000000000000
+      internalID: -544878459574982489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 128
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b47c8a75e514f0800000000000000
+      internalID: -858527839438981069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 117
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33415fc95f39eec0800000000000000
+      internalID: -3537226377359965378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 94
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7c6241bf49ca80800000000000000
+      internalID: -8446132003414442618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 61
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b8805e68416da0800000000000000
+      internalID: -5953397593772347064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392761ccc928f35b0800000000000000
+      internalID: -5386443019361291629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d50f4c2694333990800000000000000
+      internalID: -7407519142501218856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 61
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea230bbe74c512220800000000000000
+      internalID: 2459348335487627950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 94
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34cda645c0c8670800000000000000
+      internalID: 8542216149924594644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 39
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94127deda62ebc0800000000000000
+      internalID: -3755321633949005344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46c0350b7c9fb40800000000000000
+      internalID: 5474626382167041258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 37
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a43fa923dd76c190800000000000000
+      internalID: -7942522546930371423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 37
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bcb3f2f2f3dc3a0800000000000000
+      internalID: -6643584403413152919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00841bdba34b2f0800000000000000
+      internalID: -958076234325557040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tipi_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 39
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef598dbdc062b84c0800000000000000
+      internalID: -4284288783843027458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tipi_0: 2632067157649609628
+      tipi_1: -6942184168627159674
+      tipi_10: -7407519142501218856
+      tipi_11: 2459348335487627950
+      tipi_12: 8542216149924594644
+      tipi_13: -3755321633949005344
+      tipi_14: 5474626382167041258
+      tipi_15: -7942522546930371423
+      tipi_16: -6643584403413152919
+      tipi_17: -958076234325557040
+      tipi_18: -4284288783843027458
+      tipi_2: 9050825926750367091
+      tipi_3: -6140807788636029098
+      tipi_4: -544878459574982489
+      tipi_5: -858527839438981069
+      tipi_6: -3537226377359965378
+      tipi_7: -8446132003414442618
+      tipi_8: -5953397593772347064
+      tipi_9: -5386443019361291629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

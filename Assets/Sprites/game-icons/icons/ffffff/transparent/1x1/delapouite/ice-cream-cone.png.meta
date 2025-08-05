@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 42bba88c160cf8647889d4efa0af4c07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8450409414989500854
+    second: ice-cream-cone_0
+  - first:
+      213: -6877223490822668986
+    second: ice-cream-cone_1
+  - first:
+      213: -1421388426659676353
+    second: ice-cream-cone_2
+  - first:
+      213: 8177842325017322590
+    second: ice-cream-cone_3
+  - first:
+      213: -4538264979535217674
+    second: ice-cream-cone_4
+  - first:
+      213: -5204845582151427834
+    second: ice-cream-cone_5
+  - first:
+      213: 7784264559473286841
+    second: ice-cream-cone_6
+  - first:
+      213: -480547723420163099
+    second: ice-cream-cone_7
+  - first:
+      213: -2301146577769994366
+    second: ice-cream-cone_8
+  - first:
+      213: -8894174858739018701
+    second: ice-cream-cone_9
+  - first:
+      213: 4711676123658012419
+    second: ice-cream-cone_10
+  - first:
+      213: 4345517925186028125
+    second: ice-cream-cone_11
+  - first:
+      213: 6873598299704812403
+    second: ice-cream-cone_12
+  - first:
+      213: 8278461455610757699
+    second: ice-cream-cone_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-cream-cone_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 328
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2fe4c86d1aba80800000000000000
+      internalID: -8450409414989500854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 422
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dfa841ca13f80a0800000000000000
+      internalID: -6877223490822668986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 328
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f391db1c6364ce0800000000000000
+      internalID: -1421388426659676353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54efcb34488d7170800000000000000
+      internalID: 8177842325017322590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 293
+        width: 92
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb353ebb08d401c0800000000000000
+      internalID: -4538264979535217674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 267
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095a1df48ca4c7b0800000000000000
+      internalID: -5204845582151427834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 206
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5111cf53470c60800000000000000
+      internalID: 7784264559473286841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 229
+        width: 114
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e32bef3460c459f0800000000000000
+      internalID: -480547723420163099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 206
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e9e7216fa010e0800000000000000
+      internalID: -2301146577769994366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 169
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33496aed61b819480800000000000000
+      internalID: -8894174858739018701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 151
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307435f887c336140800000000000000
+      internalID: 4711676123658012419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 151
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d524ec787816e4c30800000000000000
+      internalID: 4345517925186028125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37362a65c3de36f50800000000000000
+      internalID: 6873598299704812403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-cream-cone_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342417c25d003e270800000000000000
+      internalID: 8278461455610757699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ice-cream-cone_0: -8450409414989500854
+      ice-cream-cone_1: -6877223490822668986
+      ice-cream-cone_10: 4711676123658012419
+      ice-cream-cone_11: 4345517925186028125
+      ice-cream-cone_12: 6873598299704812403
+      ice-cream-cone_13: 8278461455610757699
+      ice-cream-cone_2: -1421388426659676353
+      ice-cream-cone_3: 8177842325017322590
+      ice-cream-cone_4: -4538264979535217674
+      ice-cream-cone_5: -5204845582151427834
+      ice-cream-cone_6: 7784264559473286841
+      ice-cream-cone_7: -480547723420163099
+      ice-cream-cone_8: -2301146577769994366
+      ice-cream-cone_9: -8894174858739018701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

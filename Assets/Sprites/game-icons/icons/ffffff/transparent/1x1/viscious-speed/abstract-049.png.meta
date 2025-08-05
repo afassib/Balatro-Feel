@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 96fb11bb34130ac40b17230413a33c57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7046095910534523618
+    second: abstract-049_0
+  - first:
+      213: 6196785025719963925
+    second: abstract-049_1
+  - first:
+      213: -8499505438773530936
+    second: abstract-049_2
+  - first:
+      213: -3748745559154249629
+    second: abstract-049_3
+  - first:
+      213: -790817367476461640
+    second: abstract-049_4
+  - first:
+      213: -91950903009403099
+    second: abstract-049_5
+  - first:
+      213: 7060181855353464995
+    second: abstract-049_6
+  - first:
+      213: -278883830575812404
+    second: abstract-049_7
+  - first:
+      213: 8168153263213547946
+    second: abstract-049_8
+  - first:
+      213: 5675294158172673524
+    second: abstract-049_9
+  - first:
+      213: -3177810562835567895
+    second: abstract-049_10
+  - first:
+      213: -2210007238195444770
+    second: abstract-049_11
+  - first:
+      213: 2706307159042528275
+    second: abstract-049_12
+  - first:
+      213: -5649894584913821019
+    second: abstract-049_13
+  - first:
+      213: 4160638144056257047
+    second: abstract-049_14
+  - first:
+      213: -965563045676530507
+    second: abstract-049_15
+  - first:
+      213: -550195486638276603
+    second: abstract-049_16
+  - first:
+      213: -2112965617834240384
+    second: abstract-049_17
+  - first:
+      213: -3131768738441658101
+    second: abstract-049_18
+  - first:
+      213: -1539966329974497738
+    second: abstract-049_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abstract-049_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 374
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d147e91d373e90800000000000000
+      internalID: -7046095910534523618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 286
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5119f7f16276ff550800000000000000
+      internalID: 6196785025719963925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 374
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2763f5d0bb0a80800000000000000
+      internalID: -8499505438773530936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 286
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b94196c7c9fbc0800000000000000
+      internalID: -3748745559154249629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 374
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf1b515bc37605f0800000000000000
+      internalID: -790817367476461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 286
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1951142359bef0800000000000000
+      internalID: -91950903009403099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 374
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86002bdfdcaf160800000000000000
+      internalID: 7060181855353464995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 286
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0bde832a4312cf0800000000000000
+      internalID: -278883830575812404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 197
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19accbd1c1b5170800000000000000
+      internalID: 8168153263213547946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 108
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f55bb5c7f1b2ce40800000000000000
+      internalID: 5675294158172673524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaa3be312626e3d0800000000000000
+      internalID: -3177810562835567895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 108
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed38150402a7451e0800000000000000
+      internalID: -2210007238195444770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 197
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31493d3c50cbe8520800000000000000
+      internalID: 2706307159042528275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20fc73fca8791b0800000000000000
+      internalID: -5649894584913821019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 197
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae967195e8db930800000000000000
+      internalID: 4160638144056257047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c4369681a992f0800000000000000
+      internalID: -965563045676530507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50007e5be105d58f0800000000000000
+      internalID: -550195486638276603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 20
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086506e27fc3da2e0800000000000000
+      internalID: -2112965617834240384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 20
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01038adce8b984d0800000000000000
+      internalID: -3131768738441658101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abstract-049_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 20
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63edecf28c0f0aae0800000000000000
+      internalID: -1539966329974497738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      abstract-049_0: -7046095910534523618
+      abstract-049_1: 6196785025719963925
+      abstract-049_10: -3177810562835567895
+      abstract-049_11: -2210007238195444770
+      abstract-049_12: 2706307159042528275
+      abstract-049_13: -5649894584913821019
+      abstract-049_14: 4160638144056257047
+      abstract-049_15: -965563045676530507
+      abstract-049_16: -550195486638276603
+      abstract-049_17: -2112965617834240384
+      abstract-049_18: -3131768738441658101
+      abstract-049_19: -1539966329974497738
+      abstract-049_2: -8499505438773530936
+      abstract-049_3: -3748745559154249629
+      abstract-049_4: -790817367476461640
+      abstract-049_5: -91950903009403099
+      abstract-049_6: 7060181855353464995
+      abstract-049_7: -278883830575812404
+      abstract-049_8: 8168153263213547946
+      abstract-049_9: 5675294158172673524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

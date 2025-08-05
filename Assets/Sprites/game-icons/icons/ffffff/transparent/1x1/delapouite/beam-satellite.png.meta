@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 581b1b8973576074392d48d17d73f31e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1351317362265116892
+    second: beam-satellite_0
+  - first:
+      213: 5260720697699642674
+    second: beam-satellite_1
+  - first:
+      213: 5786865147481670003
+    second: beam-satellite_2
+  - first:
+      213: 4443649420418526068
+    second: beam-satellite_3
+  - first:
+      213: 4884249448572109386
+    second: beam-satellite_4
+  - first:
+      213: -1622828326048790015
+    second: beam-satellite_5
+  - first:
+      213: 7905666410319372099
+    second: beam-satellite_6
+  - first:
+      213: 1569268368726201305
+    second: beam-satellite_7
+  - first:
+      213: -5022156002756907436
+    second: beam-satellite_8
+  - first:
+      213: -6220459694532050666
+    second: beam-satellite_9
+  - first:
+      213: 2893544241648404962
+    second: beam-satellite_10
+  - first:
+      213: -1723881032011818541
+    second: beam-satellite_11
+  - first:
+      213: -8333246354710805375
+    second: beam-satellite_12
+  - first:
+      213: 1271737841416712928
+    second: beam-satellite_13
+  - first:
+      213: 6110940701620479224
+    second: beam-satellite_14
+  - first:
+      213: 2887705380284112875
+    second: beam-satellite_15
+  - first:
+      213: -2829441972446905348
+    second: beam-satellite_16
+  - first:
+      213: 5258546945368836977
+    second: beam-satellite_17
+  - first:
+      213: 2762510994995962894
+    second: beam-satellite_18
+  - first:
+      213: 4268150201445286025
+    second: beam-satellite_19
+  - first:
+      213: 6293132218602661267
+    second: beam-satellite_20
+  - first:
+      213: -8956276230781821237
+    second: beam-satellite_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beam-satellite_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd051ac3bf7d0c210800000000000000
+      internalID: 1351317362265116892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 472
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23daee02a95d10940800000000000000
+      internalID: 5260720697699642674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 472
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cbb601331f4050800000000000000
+      internalID: 5786865147481670003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 472
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47baa6aba930bad30800000000000000
+      internalID: 4443649420418526068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 472
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42c980eef658c340800000000000000
+      internalID: 4884249448572109386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8b6e4c3e8a79e0800000000000000
+      internalID: -1622828326048790015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd2d3d6b196bd60800000000000000
+      internalID: 7905666410319372099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 424
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d39e2b544927c510800000000000000
+      internalID: 1569268368726201305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 424
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e241959b7bd4ab0800000000000000
+      internalID: -5022156002756907436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 367
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61148cf7ddc7ca9a0800000000000000
+      internalID: -6220459694532050666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 424
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98459382fe72820800000000000000
+      internalID: 2893544241648404962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 424
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d6ebb55b8318e0800000000000000
+      internalID: -1723881032011818541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184c4a1879c5a5c80800000000000000
+      internalID: -8333246354710805375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2b01d24de16a110800000000000000
+      internalID: 1271737841416712928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4a093e03c6ec450800000000000000
+      internalID: 6110940701620479224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef91df5eb0331820800000000000000
+      internalID: 2887705380284112875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 392
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb8bf548dcbb8d0800000000000000
+      internalID: -2829441972446905348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bcc69f59c1af840800000000000000
+      internalID: 5258546945368836977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 392
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0468d01d19665620800000000000000
+      internalID: 2762510994995962894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 272
+        width: 240
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980882d9ef38b3b30800000000000000
+      internalID: 4268150201445286025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 32
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a06e0962b55750800000000000000
+      internalID: 6293132218602661267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam-satellite_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 17
+        width: 349
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce99f1783ae4b380800000000000000
+      internalID: -8956276230781821237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beam-satellite_0: 1351317362265116892
+      beam-satellite_1: 5260720697699642674
+      beam-satellite_10: 2893544241648404962
+      beam-satellite_11: -1723881032011818541
+      beam-satellite_12: -8333246354710805375
+      beam-satellite_13: 1271737841416712928
+      beam-satellite_14: 6110940701620479224
+      beam-satellite_15: 2887705380284112875
+      beam-satellite_16: -2829441972446905348
+      beam-satellite_17: 5258546945368836977
+      beam-satellite_18: 2762510994995962894
+      beam-satellite_19: 4268150201445286025
+      beam-satellite_2: 5786865147481670003
+      beam-satellite_20: 6293132218602661267
+      beam-satellite_21: -8956276230781821237
+      beam-satellite_3: 4443649420418526068
+      beam-satellite_4: 4884249448572109386
+      beam-satellite_5: -1622828326048790015
+      beam-satellite_6: 7905666410319372099
+      beam-satellite_7: 1569268368726201305
+      beam-satellite_8: -5022156002756907436
+      beam-satellite_9: -6220459694532050666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

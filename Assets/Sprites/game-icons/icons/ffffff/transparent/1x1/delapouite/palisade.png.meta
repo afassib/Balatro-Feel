@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 2788b9140ef4cf44aa679ae4065498d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5190323428850552709
+    second: palisade_0
+  - first:
+      213: -9026880473717597810
+    second: palisade_1
+  - first:
+      213: -6249292969928350528
+    second: palisade_2
+  - first:
+      213: 3655981582610990736
+    second: palisade_3
+  - first:
+      213: -6147851167488398179
+    second: palisade_4
+  - first:
+      213: 243064884377794585
+    second: palisade_5
+  - first:
+      213: -8404903639190494273
+    second: palisade_6
+  - first:
+      213: 4098001936121796249
+    second: palisade_7
+  - first:
+      213: -6279634222371359036
+    second: palisade_8
+  - first:
+      213: -5380424445863877075
+    second: palisade_9
+  - first:
+      213: -7785251174936641671
+    second: palisade_10
+  - first:
+      213: 1015057862293395306
+    second: palisade_11
+  - first:
+      213: -7131014184792756978
+    second: palisade_12
+  - first:
+      213: 1030753280677144468
+    second: palisade_13
+  - first:
+      213: 9165603314928143121
+    second: palisade_14
+  - first:
+      213: -6147770504243611425
+    second: palisade_15
+  - first:
+      213: -3738851911127513271
+    second: palisade_16
+  - first:
+      213: 6952652115892522610
+    second: palisade_17
+  - first:
+      213: 3596542513437459374
+    second: palisade_18
+  - first:
+      213: -1825664874151930760
+    second: palisade_19
+  - first:
+      213: 4467767770259575086
+    second: palisade_20
+  - first:
+      213: -6598480819305804482
+    second: palisade_21
+  - first:
+      213: -1038966162040623614
+    second: palisade_22
+  - first:
+      213: 6781917935670357847
+    second: palisade_23
+  - first:
+      213: 5368766913556868824
+    second: palisade_24
+  - first:
+      213: 7711400685568930245
+    second: palisade_25
+  - first:
+      213: -2030095706019230197
+    second: palisade_26
+  - first:
+      213: 2006455302583690615
+    second: palisade_27
+  - first:
+      213: -295588907986753504
+    second: palisade_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: palisade_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f4606b8abb70840800000000000000
+      internalID: 5190323428850552709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89172e19041ab280800000000000000
+      internalID: -9026880473717597810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 20
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4231e672d0649a0800000000000000
+      internalID: -6249292969928350528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 232
+        width: 20
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09606e011e7acb230800000000000000
+      internalID: 3655981582610990736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c22e59fe17eaaa0800000000000000
+      internalID: -6147851167488398179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b5ba793a8f5300800000000000000
+      internalID: 243064884377794585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3a9a6dba8cb5b80800000000000000
+      internalID: -8404903639190494273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996176b7c070fd830800000000000000
+      internalID: 4098001936121796249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63b2812f14ad8a0800000000000000
+      internalID: -6279634222371359036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 232
+        width: 20
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a4732974e455b0800000000000000
+      internalID: -5380424445863877075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 232
+        width: 20
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f75beed4b35f390800000000000000
+      internalID: -7785251174936641671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67177c6fb5361e00800000000000000
+      internalID: 1015057862293395306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de723716c890d90800000000000000
+      internalID: -7131014184792756978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 198
+        width: 141
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49764d9c5a8fd4e00800000000000000
+      internalID: 1030753280677144468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 198
+        width: 164
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b4f6a47a3c23f70800000000000000
+      internalID: 9165603314928143121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 141
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87fe57c4bbeaaa0800000000000000
+      internalID: -6147770504243611425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94744710ffdec1cc0800000000000000
+      internalID: -3738851911127513271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e44ae3348cc7060800000000000000
+      internalID: 6952652115892522610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c7055c5c79e130800000000000000
+      internalID: 3596542513437459374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8741441487fe9a6e0800000000000000
+      internalID: -1825664874151930760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d245ad13b00e30800000000000000
+      internalID: 4467767770259575086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8c04b7ac7d64a0800000000000000
+      internalID: -6598480819305804482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eeae1c7c9d491f0800000000000000
+      internalID: -1038966162040623614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f6b7b2e663e1e50800000000000000
+      internalID: 6781917935670357847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6d6c1011b18a40800000000000000
+      internalID: 5368766913556868824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13a081116640b60800000000000000
+      internalID: 7711400685568930245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8da616b6a3d3e0800000000000000
+      internalID: -2030095706019230197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752330977c58db10800000000000000
+      internalID: 2006455302583690615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palisade_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 24
+        width: 20
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02867eb447bd5ebf0800000000000000
+      internalID: -295588907986753504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      palisade_0: 5190323428850552709
+      palisade_1: -9026880473717597810
+      palisade_10: -7785251174936641671
+      palisade_11: 1015057862293395306
+      palisade_12: -7131014184792756978
+      palisade_13: 1030753280677144468
+      palisade_14: 9165603314928143121
+      palisade_15: -6147770504243611425
+      palisade_16: -3738851911127513271
+      palisade_17: 6952652115892522610
+      palisade_18: 3596542513437459374
+      palisade_19: -1825664874151930760
+      palisade_2: -6249292969928350528
+      palisade_20: 4467767770259575086
+      palisade_21: -6598480819305804482
+      palisade_22: -1038966162040623614
+      palisade_23: 6781917935670357847
+      palisade_24: 5368766913556868824
+      palisade_25: 7711400685568930245
+      palisade_26: -2030095706019230197
+      palisade_27: 2006455302583690615
+      palisade_28: -295588907986753504
+      palisade_3: 3655981582610990736
+      palisade_4: -6147851167488398179
+      palisade_5: 243064884377794585
+      palisade_6: -8404903639190494273
+      palisade_7: 4098001936121796249
+      palisade_8: -6279634222371359036
+      palisade_9: -5380424445863877075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

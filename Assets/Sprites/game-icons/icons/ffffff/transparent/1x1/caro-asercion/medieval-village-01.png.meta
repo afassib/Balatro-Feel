@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 994be73724371bf44bfd9cde3f5a02ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2017661064985474673
+    second: medieval-village-01_0
+  - first:
+      213: -638831810109390702
+    second: medieval-village-01_1
+  - first:
+      213: -5015216829066666307
+    second: medieval-village-01_2
+  - first:
+      213: -1711793779484288255
+    second: medieval-village-01_3
+  - first:
+      213: 8145758078412199276
+    second: medieval-village-01_4
+  - first:
+      213: 608786519005969906
+    second: medieval-village-01_5
+  - first:
+      213: -2698477804641995366
+    second: medieval-village-01_6
+  - first:
+      213: -5796205033168932830
+    second: medieval-village-01_7
+  - first:
+      213: 3458261170673423534
+    second: medieval-village-01_8
+  - first:
+      213: 3249305962362576922
+    second: medieval-village-01_9
+  - first:
+      213: 8334071837293391172
+    second: medieval-village-01_10
+  - first:
+      213: 2876404159928937583
+    second: medieval-village-01_11
+  - first:
+      213: -5820420377126863045
+    second: medieval-village-01_12
+  - first:
+      213: 8841421988445936322
+    second: medieval-village-01_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medieval-village-01_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 439
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176789f6c0c200c10800000000000000
+      internalID: 2017661064985474673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 331
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c5377ad96227f0800000000000000
+      internalID: -638831810109390702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 396
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9bef9dde566ab0800000000000000
+      internalID: -5015216829066666307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 296
+        width: 92
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b9d1580ac7e38e0800000000000000
+      internalID: -1711793779484288255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 186
+        width: 254
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65170270db8b0170800000000000000
+      internalID: 8145758078412199276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 280
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb5611d18d27800800000000000000
+      internalID: 608786519005969906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 246
+        width: 39
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95b90cdbb41d8ad0800000000000000
+      internalID: -2698477804641995366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 74
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22072a06b3ebf8fa0800000000000000
+      internalID: -5796205033168932830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 28
+        width: 20
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4148a46363eff20800000000000000
+      internalID: 3458261170673423534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 28
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a102e25ae8ad71d20800000000000000
+      internalID: 3249305962362576922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 55
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da5722e2298a370800000000000000
+      internalID: 8334071837293391172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 55
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2507f75a0be720800000000000000
+      internalID: 2876404159928937583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f78e14186b93fa0800000000000000
+      internalID: -5820420377126863045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-village-01_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 28
+        width: 19
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cad5a2647a03ba70800000000000000
+      internalID: 8841421988445936322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      medieval-village-01_0: 2017661064985474673
+      medieval-village-01_1: -638831810109390702
+      medieval-village-01_10: 8334071837293391172
+      medieval-village-01_11: 2876404159928937583
+      medieval-village-01_12: -5820420377126863045
+      medieval-village-01_13: 8841421988445936322
+      medieval-village-01_2: -5015216829066666307
+      medieval-village-01_3: -1711793779484288255
+      medieval-village-01_4: 8145758078412199276
+      medieval-village-01_5: 608786519005969906
+      medieval-village-01_6: -2698477804641995366
+      medieval-village-01_7: -5796205033168932830
+      medieval-village-01_8: 3458261170673423534
+      medieval-village-01_9: 3249305962362576922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: c69b308aa9e2d0844a22a3a3e932b43b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8091834725011917787
+    second: carousel_0
+  - first:
+      213: 93927376503017285
+    second: carousel_1
+  - first:
+      213: 4426574928668792982
+    second: carousel_2
+  - first:
+      213: 7936741562959473581
+    second: carousel_3
+  - first:
+      213: -8550428502697581744
+    second: carousel_4
+  - first:
+      213: -7956848987761947168
+    second: carousel_5
+  - first:
+      213: -1189407909187543273
+    second: carousel_6
+  - first:
+      213: 1954625459430960930
+    second: carousel_7
+  - first:
+      213: 5069694024769908788
+    second: carousel_8
+  - first:
+      213: 2519064005449727215
+    second: carousel_9
+  - first:
+      213: 6505754544121517024
+    second: carousel_10
+  - first:
+      213: -633628478342939506
+    second: carousel_11
+  - first:
+      213: 653071725102583163
+    second: carousel_12
+  - first:
+      213: -3074306469476874550
+    second: carousel_13
+  - first:
+      213: 3748410423064808237
+    second: carousel_14
+  - first:
+      213: 9124285425335369710
+    second: carousel_15
+  - first:
+      213: -3862858666046866045
+    second: carousel_16
+  - first:
+      213: -4602744267404869733
+    second: carousel_17
+  - first:
+      213: -2544083272902438808
+    second: carousel_18
+  - first:
+      213: 2461069535077908734
+    second: carousel_19
+  - first:
+      213: -5213433859207465846
+    second: carousel_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carousel_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 392
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb818d5fc8fb4070800000000000000
+      internalID: 8091834725011917787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 392
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f85278372bd4100800000000000000
+      internalID: 93927376503017285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69814f2d17a5e6d30800000000000000
+      internalID: 4426574928668792982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 392
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab274e9668f42e60800000000000000
+      internalID: 7936741562959473581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 328
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e5533496c65980800000000000000
+      internalID: -8550428502697581744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 328
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc509b008939190800000000000000
+      internalID: -7956848987761947168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 328
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f16dfeecf5e7fe0800000000000000
+      internalID: -1189407909187543273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 328
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2152df79302b10800000000000000
+      internalID: 1954625459430960930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 328
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b45aeadb2b5640800000000000000
+      internalID: 5069694024769908788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbd4bcd5385f220800000000000000
+      internalID: 2519064005449727215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 328
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31f36f945194a50800000000000000
+      internalID: 6505754544121517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 117
+        width: 179
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3ccc8146e437f0800000000000000
+      internalID: -633628478342939506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d479b164d201900800000000000000
+      internalID: 653071725102583163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 117
+        width: 179
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6452ced8ed555d0800000000000000
+      internalID: -3074306469476874550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 231
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b462b7b67050430800000000000000
+      internalID: 3748410423064808237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 149
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef73667049ff9e70800000000000000
+      internalID: 9124285425335369710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 106
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbcb0728e546ac0800000000000000
+      internalID: -3862858666046866045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 149
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ffd55a974cf10c0800000000000000
+      internalID: -4602744267404869733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 106
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86013af0eb991bcd0800000000000000
+      internalID: -2544083272902438808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 368
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0cadde3b9772220800000000000000
+      internalID: 2461069535077908734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carousel_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 432
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f1f9e68926a7b0800000000000000
+      internalID: -5213433859207465846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      carousel_0: 8091834725011917787
+      carousel_1: 93927376503017285
+      carousel_10: 6505754544121517024
+      carousel_11: -633628478342939506
+      carousel_12: 653071725102583163
+      carousel_13: -3074306469476874550
+      carousel_14: 3748410423064808237
+      carousel_15: 9124285425335369710
+      carousel_16: -3862858666046866045
+      carousel_17: -4602744267404869733
+      carousel_18: -2544083272902438808
+      carousel_19: 2461069535077908734
+      carousel_2: 4426574928668792982
+      carousel_20: -5213433859207465846
+      carousel_3: 7936741562959473581
+      carousel_4: -8550428502697581744
+      carousel_5: -7956848987761947168
+      carousel_6: -1189407909187543273
+      carousel_7: 1954625459430960930
+      carousel_8: 5069694024769908788
+      carousel_9: 2519064005449727215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

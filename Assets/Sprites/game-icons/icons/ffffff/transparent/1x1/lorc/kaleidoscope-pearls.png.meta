@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: a36b170379484914b87ebeb7721c3862
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5702858351863232753
+    second: kaleidoscope-pearls_0
+  - first:
+      213: -3178101536641154981
+    second: kaleidoscope-pearls_1
+  - first:
+      213: -4902903331777253177
+    second: kaleidoscope-pearls_2
+  - first:
+      213: -6230942846125199547
+    second: kaleidoscope-pearls_3
+  - first:
+      213: 2479564866244090123
+    second: kaleidoscope-pearls_4
+  - first:
+      213: 6444470254024243590
+    second: kaleidoscope-pearls_5
+  - first:
+      213: -7799680530326157639
+    second: kaleidoscope-pearls_6
+  - first:
+      213: -4106613502391890683
+    second: kaleidoscope-pearls_7
+  - first:
+      213: -2585699120833553794
+    second: kaleidoscope-pearls_8
+  - first:
+      213: 8812633598059696180
+    second: kaleidoscope-pearls_9
+  - first:
+      213: -6696555794608967010
+    second: kaleidoscope-pearls_10
+  - first:
+      213: 3647958400444366532
+    second: kaleidoscope-pearls_11
+  - first:
+      213: 2519320107745334845
+    second: kaleidoscope-pearls_12
+  - first:
+      213: -7654056101436996490
+    second: kaleidoscope-pearls_13
+  - first:
+      213: -408663553663955870
+    second: kaleidoscope-pearls_14
+  - first:
+      213: -8876290245260960325
+    second: kaleidoscope-pearls_15
+  - first:
+      213: 8712439531626941838
+    second: kaleidoscope-pearls_16
+  - first:
+      213: 2042160174909525143
+    second: kaleidoscope-pearls_17
+  - first:
+      213: -4126643474082226399
+    second: kaleidoscope-pearls_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 439
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87d2bb47f942f40800000000000000
+      internalID: 5702858351863232753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 391
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b508160ad7d15e3d0800000000000000
+      internalID: -3178101536641154981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 346
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0765d756365fbb0800000000000000
+      internalID: -4902903331777253177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 343
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f22f09e7e3789a0800000000000000
+      internalID: -6230942846125199547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 309
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09940acb1f296220800000000000000
+      internalID: 2479564866244090123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689bfa04d8b5f6950800000000000000
+      internalID: 6444470254024243590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 285
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60164d1e7f1c390800000000000000
+      internalID: -7799680530326157639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 249
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dcb1007c06207c0800000000000000
+      internalID: -4106613502391890683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 179
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1da66950cd1cd0800000000000000
+      internalID: -2585699120833553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 270
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430550ce093cc4a70800000000000000
+      internalID: 8812633598059696180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 181
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92bfb31cfd0113a0800000000000000
+      internalID: -6696555794608967010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce73e566d620a230800000000000000
+      internalID: 3647958400444366532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 180
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d8a14a4c66f220800000000000000
+      internalID: 2519320107745334845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 172
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674cfe6578457c590800000000000000
+      internalID: -7654056101436996490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c0633c9a2245af0800000000000000
+      internalID: -408663553663955870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd94ffec0511d480800000000000000
+      internalID: -8876290245260960325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 86
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc1b1f79dc8e870800000000000000
+      internalID: 8712439531626941838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 105
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c8ee7fbd5375c10800000000000000
+      internalID: 2042160174909525143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaleidoscope-pearls_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 18
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f15accf973bb6c0800000000000000
+      internalID: -4126643474082226399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kaleidoscope-pearls_0: 5702858351863232753
+      kaleidoscope-pearls_1: -3178101536641154981
+      kaleidoscope-pearls_10: -6696555794608967010
+      kaleidoscope-pearls_11: 3647958400444366532
+      kaleidoscope-pearls_12: 2519320107745334845
+      kaleidoscope-pearls_13: -7654056101436996490
+      kaleidoscope-pearls_14: -408663553663955870
+      kaleidoscope-pearls_15: -8876290245260960325
+      kaleidoscope-pearls_16: 8712439531626941838
+      kaleidoscope-pearls_17: 2042160174909525143
+      kaleidoscope-pearls_18: -4126643474082226399
+      kaleidoscope-pearls_2: -4902903331777253177
+      kaleidoscope-pearls_3: -6230942846125199547
+      kaleidoscope-pearls_4: 2479564866244090123
+      kaleidoscope-pearls_5: 6444470254024243590
+      kaleidoscope-pearls_6: -7799680530326157639
+      kaleidoscope-pearls_7: -4106613502391890683
+      kaleidoscope-pearls_8: -2585699120833553794
+      kaleidoscope-pearls_9: 8812633598059696180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

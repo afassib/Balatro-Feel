@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: e41692175a3f68044802f4e9bb2b81a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3501364863550663781
+    second: full-wood-bucket-handle_0
+  - first:
+      213: 7772903608508223230
+    second: full-wood-bucket-handle_1
+  - first:
+      213: 3942523478963411192
+    second: full-wood-bucket-handle_2
+  - first:
+      213: -2027210369757117843
+    second: full-wood-bucket-handle_3
+  - first:
+      213: -3329513584516291334
+    second: full-wood-bucket-handle_4
+  - first:
+      213: 4770451235777296626
+    second: full-wood-bucket-handle_5
+  - first:
+      213: -6278762615998516715
+    second: full-wood-bucket-handle_6
+  - first:
+      213: 4775631961186052351
+    second: full-wood-bucket-handle_7
+  - first:
+      213: -1419480085727826784
+    second: full-wood-bucket-handle_8
+  - first:
+      213: 4096115043220468037
+    second: full-wood-bucket-handle_9
+  - first:
+      213: 6778170415698056576
+    second: full-wood-bucket-handle_10
+  - first:
+      213: -1441693222206042386
+    second: full-wood-bucket-handle_11
+  - first:
+      213: -375623908747486505
+    second: full-wood-bucket-handle_12
+  - first:
+      213: -2266407895187138958
+    second: full-wood-bucket-handle_13
+  - first:
+      213: -5529934976864239544
+    second: full-wood-bucket-handle_14
+  - first:
+      213: 2623060592036987322
+    second: full-wood-bucket-handle_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca8f8dac8579030800000000000000
+      internalID: 3501364863550663781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0c7a36a6eedb60800000000000000
+      internalID: 7772903608508223230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 341
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8504a3738a6b630800000000000000
+      internalID: 3942523478963411192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6283a9c8e6edd3e0800000000000000
+      internalID: -2027210369757117843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 320
+        width: 300
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a11019013bc1d0800000000000000
+      internalID: -3329513584516291334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 306
+        width: 123
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f834debf1c043240800000000000000
+      internalID: 4770451235777296626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512f764caaa5dd8a0800000000000000
+      internalID: -6278762615998516715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 41
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82f7067f3764240800000000000000
+      internalID: 4775631961186052351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 260
+        width: 276
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aca37cf16efc4ce0800000000000000
+      internalID: -1419480085727826784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 149
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413a4efde258d830800000000000000
+      internalID: 4096115043220468037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859ebea416e01e50800000000000000
+      internalID: 6778170415698056576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 64
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee025f17a31efbe0800000000000000
+      internalID: -1441693222206042386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 91
+        width: 55
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da56fd8b0489caf0800000000000000
+      internalID: -375623908747486505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276da3bf60a1c80e0800000000000000
+      internalID: -2266407895187138958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 105
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840cff8ff69b143b0800000000000000
+      internalID: -5529934976864239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-wood-bucket-handle_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 252
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c0bcf5bbf66420800000000000000
+      internalID: 2623060592036987322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      full-wood-bucket-handle_0: 3501364863550663781
+      full-wood-bucket-handle_1: 7772903608508223230
+      full-wood-bucket-handle_10: 6778170415698056576
+      full-wood-bucket-handle_11: -1441693222206042386
+      full-wood-bucket-handle_12: -375623908747486505
+      full-wood-bucket-handle_13: -2266407895187138958
+      full-wood-bucket-handle_14: -5529934976864239544
+      full-wood-bucket-handle_15: 2623060592036987322
+      full-wood-bucket-handle_2: 3942523478963411192
+      full-wood-bucket-handle_3: -2027210369757117843
+      full-wood-bucket-handle_4: -3329513584516291334
+      full-wood-bucket-handle_5: 4770451235777296626
+      full-wood-bucket-handle_6: -6278762615998516715
+      full-wood-bucket-handle_7: 4775631961186052351
+      full-wood-bucket-handle_8: -1419480085727826784
+      full-wood-bucket-handle_9: 4096115043220468037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

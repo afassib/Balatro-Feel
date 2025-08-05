@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 87ca65c5b52532e4aaef4bc7ecaa893e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8640093818773589832
+    second: drum-kit_0
+  - first:
+      213: -1559904533934440329
+    second: drum-kit_1
+  - first:
+      213: 1947951907516793791
+    second: drum-kit_2
+  - first:
+      213: 8198008134172590653
+    second: drum-kit_3
+  - first:
+      213: 8844182091261939135
+    second: drum-kit_4
+  - first:
+      213: -6722228990539916716
+    second: drum-kit_5
+  - first:
+      213: 4192298571660359837
+    second: drum-kit_6
+  - first:
+      213: 6943472577904891389
+    second: drum-kit_7
+  - first:
+      213: -3607277665492067634
+    second: drum-kit_8
+  - first:
+      213: -7481860397588496337
+    second: drum-kit_9
+  - first:
+      213: -7394014631563709169
+    second: drum-kit_10
+  - first:
+      213: -7594288748966198518
+    second: drum-kit_11
+  - first:
+      213: 8887455896520584214
+    second: drum-kit_12
+  - first:
+      213: 8098109011375134116
+    second: drum-kit_13
+  - first:
+      213: -1531811009669110799
+    second: drum-kit_14
+  - first:
+      213: 7528410839872174144
+    second: drum-kit_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drum-kit_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 418
+        width: 174
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f4c0e0d87c7e770800000000000000
+      internalID: 8640093818773589832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 54
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7700153571b1a5ae0800000000000000
+      internalID: -1559904533934440329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 404
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3451f60f3880b10800000000000000
+      internalID: 1947951907516793791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 373
+        width: 135
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ce1f86fc25c170800000000000000
+      internalID: 8198008134172590653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 340
+        width: 135
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0a86e0c8dcba70800000000000000
+      internalID: 8844182091261939135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 305
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a19085958d5b2a0800000000000000
+      internalID: -6722228990539916716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 198
+        width: 121
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987134d6590e2a30800000000000000
+      internalID: 4192298571660359837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 144
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5dfa1858b2c5060800000000000000
+      internalID: 6943472577904891389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 258
+        width: 144
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca152e431060fdc0800000000000000
+      internalID: -3607277665492067634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 198
+        width: 121
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20cca6eb971b2890800000000000000
+      internalID: -7481860397588496337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ba952ede236990800000000000000
+      internalID: -7394014631563709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 23
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03cf1c7e9aab9690800000000000000
+      internalID: -7594288748966198518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 36
+        width: 218
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6f05dc06965b70800000000000000
+      internalID: 8887455896520584214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 68
+        width: 184
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5976f7d33426070800000000000000
+      internalID: 8098109011375134116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e3a9a00aedbae0800000000000000
+      internalID: -1531811009669110799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drum-kit_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 23
+        width: 84
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048f7c985c94a7860800000000000000
+      internalID: 7528410839872174144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      drum-kit_0: 8640093818773589832
+      drum-kit_1: -1559904533934440329
+      drum-kit_10: -7394014631563709169
+      drum-kit_11: -7594288748966198518
+      drum-kit_12: 8887455896520584214
+      drum-kit_13: 8098109011375134116
+      drum-kit_14: -1531811009669110799
+      drum-kit_15: 7528410839872174144
+      drum-kit_2: 1947951907516793791
+      drum-kit_3: 8198008134172590653
+      drum-kit_4: 8844182091261939135
+      drum-kit_5: -6722228990539916716
+      drum-kit_6: 4192298571660359837
+      drum-kit_7: 6943472577904891389
+      drum-kit_8: -3607277665492067634
+      drum-kit_9: -7481860397588496337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

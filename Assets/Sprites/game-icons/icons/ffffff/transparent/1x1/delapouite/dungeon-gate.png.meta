@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: b1e3bd407f1219648934d90e2c9607dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3999867785417676141
+    second: dungeon-gate_0
+  - first:
+      213: -7681905903875910663
+    second: dungeon-gate_1
+  - first:
+      213: -6369660686267501208
+    second: dungeon-gate_2
+  - first:
+      213: 4343059074769634414
+    second: dungeon-gate_3
+  - first:
+      213: -6840649930414162625
+    second: dungeon-gate_4
+  - first:
+      213: -69863718118081912
+    second: dungeon-gate_5
+  - first:
+      213: 3975912440859910964
+    second: dungeon-gate_6
+  - first:
+      213: -5332495874837384291
+    second: dungeon-gate_7
+  - first:
+      213: -8043413611000944929
+    second: dungeon-gate_8
+  - first:
+      213: -3878030943633902078
+    second: dungeon-gate_9
+  - first:
+      213: 2157557960721121370
+    second: dungeon-gate_10
+  - first:
+      213: 1373397248148344115
+    second: dungeon-gate_11
+  - first:
+      213: 7885973357833284603
+    second: dungeon-gate_12
+  - first:
+      213: 7433777540659834648
+    second: dungeon-gate_13
+  - first:
+      213: -2577513629734851905
+    second: dungeon-gate_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon-gate_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 316
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa6adf07d9d78c0800000000000000
+      internalID: -3999867785417676141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 396
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31089e743646590800000000000000
+      internalID: -7681905903875910663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865314f8a5b6a97a0800000000000000
+      internalID: -6369660686267501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 389
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644e2ec735a54c30800000000000000
+      internalID: 4343059074769634414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 314
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dfcd0b1212111a0800000000000000
+      internalID: -6840649930414162625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 239
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a32ea815bc70ff0800000000000000
+      internalID: -69863718118081912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 229
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e287bc474d2730800000000000000
+      internalID: 3975912440859910964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 232
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f41e214b2ff5b0800000000000000
+      internalID: -5332495874837384291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 216
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd62fb6cfed006090800000000000000
+      internalID: -8043413611000944929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067ab847677e2ac0800000000000000
+      internalID: -3878030943633902078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504917b88f21fd10800000000000000
+      internalID: 2157557960721121370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 148
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d816745894f0310800000000000000
+      internalID: 1373397248148344115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe8ddbcfa907d60800000000000000
+      internalID: 7885973357833284603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6e4299451a2760800000000000000
+      internalID: 7433777540659834648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon-gate_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 17
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2def8205da3cd0800000000000000
+      internalID: -2577513629734851905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dungeon-gate_0: -3999867785417676141
+      dungeon-gate_1: -7681905903875910663
+      dungeon-gate_10: 2157557960721121370
+      dungeon-gate_11: 1373397248148344115
+      dungeon-gate_12: 7885973357833284603
+      dungeon-gate_13: 7433777540659834648
+      dungeon-gate_14: -2577513629734851905
+      dungeon-gate_2: -6369660686267501208
+      dungeon-gate_3: 4343059074769634414
+      dungeon-gate_4: -6840649930414162625
+      dungeon-gate_5: -69863718118081912
+      dungeon-gate_6: 3975912440859910964
+      dungeon-gate_7: -5332495874837384291
+      dungeon-gate_8: -8043413611000944929
+      dungeon-gate_9: -3878030943633902078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

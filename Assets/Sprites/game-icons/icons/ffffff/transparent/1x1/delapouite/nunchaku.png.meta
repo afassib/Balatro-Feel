@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 98cdc984eb2a80248be16add3d5ac75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2702717246117093925
+    second: nunchaku_0
+  - first:
+      213: -7318420780442212648
+    second: nunchaku_1
+  - first:
+      213: 2058659856427182264
+    second: nunchaku_2
+  - first:
+      213: 4031453368965167243
+    second: nunchaku_3
+  - first:
+      213: 7141431589619398167
+    second: nunchaku_4
+  - first:
+      213: -1655883750203476476
+    second: nunchaku_5
+  - first:
+      213: -2934077370914733857
+    second: nunchaku_6
+  - first:
+      213: -5536698846806640726
+    second: nunchaku_7
+  - first:
+      213: -12695487119486836
+    second: nunchaku_8
+  - first:
+      213: -5351464342439595792
+    second: nunchaku_9
+  - first:
+      213: -2139124616914489296
+    second: nunchaku_10
+  - first:
+      213: -1602587744114331467
+    second: nunchaku_11
+  - first:
+      213: -1564011377578169081
+    second: nunchaku_12
+  - first:
+      213: -5296273977446850870
+    second: nunchaku_13
+  - first:
+      213: 136016769962810267
+    second: nunchaku_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nunchaku_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 328
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5ed8fbf40e7ad0800000000000000
+      internalID: -2702717246117093925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 386
+        width: 237
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6a7e8231fbf6a90800000000000000
+      internalID: -7318420780442212648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 167
+        width: 97
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8e2bf6b34d19c10800000000000000
+      internalID: 2058659856427182264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 327
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8878b1ca7992f730800000000000000
+      internalID: 4031453368965167243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716740f91367b1360800000000000000
+      internalID: 7141431589619398167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 160
+        width: 69
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406b7cf908e1509e0800000000000000
+      internalID: -1655883750203476476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 113
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08d133d201847d0800000000000000
+      internalID: -2934077370914733857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa776c7cbb1b923b0800000000000000
+      internalID: -5536698846806640726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 88
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801eff8585e2dff0800000000000000
+      internalID: -12695487119486836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 125
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f7b8a887cbb5b0800000000000000
+      internalID: -5351464342439595792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 88
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030b4869e7d4052e0800000000000000
+      internalID: -2139124616914489296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 85
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0bba600f672c9e0800000000000000
+      internalID: -1602587744114331467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 66
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da8c640f38b4ae0800000000000000
+      internalID: -1564011377578169081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace922dd0eadf76b0800000000000000
+      internalID: -5296273977446850870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nunchaku_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 23
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1129188a33e100800000000000000
+      internalID: 136016769962810267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nunchaku_0: -2702717246117093925
+      nunchaku_1: -7318420780442212648
+      nunchaku_10: -2139124616914489296
+      nunchaku_11: -1602587744114331467
+      nunchaku_12: -1564011377578169081
+      nunchaku_13: -5296273977446850870
+      nunchaku_14: 136016769962810267
+      nunchaku_2: 2058659856427182264
+      nunchaku_3: 4031453368965167243
+      nunchaku_4: 7141431589619398167
+      nunchaku_5: -1655883750203476476
+      nunchaku_6: -2934077370914733857
+      nunchaku_7: -5536698846806640726
+      nunchaku_8: -12695487119486836
+      nunchaku_9: -5351464342439595792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

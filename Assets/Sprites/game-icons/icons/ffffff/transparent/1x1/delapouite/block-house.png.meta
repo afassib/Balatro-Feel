@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: cc9dc9cc2a37c17489438b88e10c90c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8514972936766646105
+    second: block-house_0
+  - first:
+      213: 846090769904116006
+    second: block-house_1
+  - first:
+      213: 7100097501439028279
+    second: block-house_2
+  - first:
+      213: -8210019379861749883
+    second: block-house_3
+  - first:
+      213: 2412584132903832037
+    second: block-house_4
+  - first:
+      213: 5760736781940728739
+    second: block-house_5
+  - first:
+      213: 399249859826852122
+    second: block-house_6
+  - first:
+      213: 219879891058069694
+    second: block-house_7
+  - first:
+      213: -4263483808878920041
+    second: block-house_8
+  - first:
+      213: 6646506313723479115
+    second: block-house_9
+  - first:
+      213: 4422049002526848900
+    second: block-house_10
+  - first:
+      213: 589166646519815895
+    second: block-house_11
+  - first:
+      213: 995396005315721414
+    second: block-house_12
+  - first:
+      213: -3405362029645842626
+    second: block-house_13
+  - first:
+      213: 4542060850105159368
+    second: block-house_14
+  - first:
+      213: 2337569442601583514
+    second: block-house_15
+  - first:
+      213: 3073312603568704142
+    second: block-house_16
+  - first:
+      213: -4386034218038849521
+    second: block-house_17
+  - first:
+      213: -7803789673577908975
+    second: block-house_18
+  - first:
+      213: -8461588432784931089
+    second: block-house_19
+  - first:
+      213: 5283536551611301593
+    second: block-house_20
+  - first:
+      213: -550780752916914045
+    second: block-house_21
+  - first:
+      213: 4420807793228284277
+    second: block-house_22
+  - first:
+      213: -4960702958614251364
+    second: block-house_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: block-house_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 376
+        width: 414
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a895ff6a3db4d980800000000000000
+      internalID: -8514972936766646105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6212fdb821bedbb00800000000000000
+      internalID: 846090769904116006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 347
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c69e34f0d988260800000000000000
+      internalID: 7100097501439028279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f74406fd6201e80800000000000000
+      internalID: -8210019379861749883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 347
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e90a788c783b7120800000000000000
+      internalID: 2412584132903832037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3aa1cd49f32ff40800000000000000
+      internalID: 5760736781940728739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 347
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11aa97d1ab6a8500800000000000000
+      internalID: 399249859826852122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb094cf889b2d0300800000000000000
+      internalID: 219879891058069694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 346
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e7422901015d4c0800000000000000
+      internalID: -4263483808878920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4401e217422d3c50800000000000000
+      internalID: 6646506313723479115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 347
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487bbf683264e5d30800000000000000
+      internalID: 4422049002526848900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de525781f32d2800800000000000000
+      internalID: 589166646519815895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 347
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bfab946b50dd00800000000000000
+      internalID: 995396005315721414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 324
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373b53c649bdb0d0800000000000000
+      internalID: -3405362029645842626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 312
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0abe3744a80f30800000000000000
+      internalID: 4542060850105159368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 312
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934318e507b07020800000000000000
+      internalID: 2337569442601583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 312
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a8173a78996aa20800000000000000
+      internalID: 3073312603568704142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 312
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00161ded1da123c0800000000000000
+      internalID: -4386034218038849521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 312
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115f68c53ae53b390800000000000000
+      internalID: -7803789673577908975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 312
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6cc4cd626629a80800000000000000
+      internalID: -8461588432784931089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 368
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de75941084e25940800000000000000
+      internalID: 5283536551611301593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e349c2db3b58f0800000000000000
+      internalID: -550780752916914045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57186a7f34dd95d30800000000000000
+      internalID: 4420807793228284277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-house_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98719b21fa082bb0800000000000000
+      internalID: -4960702958614251364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      block-house_0: -8514972936766646105
+      block-house_1: 846090769904116006
+      block-house_10: 4422049002526848900
+      block-house_11: 589166646519815895
+      block-house_12: 995396005315721414
+      block-house_13: -3405362029645842626
+      block-house_14: 4542060850105159368
+      block-house_15: 2337569442601583514
+      block-house_16: 3073312603568704142
+      block-house_17: -4386034218038849521
+      block-house_18: -7803789673577908975
+      block-house_19: -8461588432784931089
+      block-house_2: 7100097501439028279
+      block-house_20: 5283536551611301593
+      block-house_21: -550780752916914045
+      block-house_22: 4420807793228284277
+      block-house_23: -4960702958614251364
+      block-house_3: -8210019379861749883
+      block-house_4: 2412584132903832037
+      block-house_5: 5760736781940728739
+      block-house_6: 399249859826852122
+      block-house_7: 219879891058069694
+      block-house_8: -4263483808878920041
+      block-house_9: 6646506313723479115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

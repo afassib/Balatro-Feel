@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: fa498086c45ca654b8cdf4ada6c43b52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2027847558865121018
+    second: rope-coil_0
+  - first:
+      213: 6029272553175058057
+    second: rope-coil_1
+  - first:
+      213: 2091980967499989944
+    second: rope-coil_2
+  - first:
+      213: -1853733937424021850
+    second: rope-coil_3
+  - first:
+      213: -4599288085994102765
+    second: rope-coil_4
+  - first:
+      213: 5355678323817440304
+    second: rope-coil_5
+  - first:
+      213: -151287056463321613
+    second: rope-coil_6
+  - first:
+      213: 6067721188067254716
+    second: rope-coil_7
+  - first:
+      213: 2175856602074623648
+    second: rope-coil_8
+  - first:
+      213: -7379086618221445368
+    second: rope-coil_9
+  - first:
+      213: -4165004035190760004
+    second: rope-coil_10
+  - first:
+      213: 1223741251800297155
+    second: rope-coil_11
+  - first:
+      213: -4876540470108052035
+    second: rope-coil_12
+  - first:
+      213: -9218169864306218877
+    second: rope-coil_13
+  - first:
+      213: 2523101224046834267
+    second: rope-coil_14
+  - first:
+      213: -2368175209737433940
+    second: rope-coil_15
+  - first:
+      213: 7199917449801001402
+    second: rope-coil_16
+  - first:
+      213: -8930067659047217344
+    second: rope-coil_17
+  - first:
+      213: 9174446544988644650
+    second: rope-coil_18
+  - first:
+      213: 2025038019320331613
+    second: rope-coil_19
+  - first:
+      213: -2119115902236762993
+    second: rope-coil_20
+  - first:
+      213: -6849415663556864207
+    second: rope-coil_21
+  - first:
+      213: -7873711596992778963
+    second: rope-coil_22
+  - first:
+      213: 904334877978630800
+    second: rope-coil_23
+  - first:
+      213: -4722662843227127304
+    second: rope-coil_24
+  - first:
+      213: 8261980390967614779
+    second: rope-coil_25
+  - first:
+      213: 5892462069770141895
+    second: rope-coil_26
+  - first:
+      213: 1846027376625179977
+    second: rope-coil_27
+  - first:
+      213: 9090136888582165835
+    second: rope-coil_28
+  - first:
+      213: -8494132516452210862
+    second: rope-coil_29
+  - first:
+      213: -8486757268324455616
+    second: rope-coil_30
+  - first:
+      213: -4900136554762840582
+    second: rope-coil_31
+  - first:
+      213: 6024653541738353582
+    second: rope-coil_32
+  - first:
+      213: -7882058908967154335
+    second: rope-coil_33
+  - first:
+      213: -2011960715637653824
+    second: rope-coil_34
+  - first:
+      213: -5051303590878375220
+    second: rope-coil_35
+  - first:
+      213: 3922296293618135814
+    second: rope-coil_36
+  - first:
+      213: 8453795661811592188
+    second: rope-coil_37
+  - first:
+      213: 1346181575781616469
+    second: rope-coil_38
+  - first:
+      213: 492941370665084408
+    second: rope-coil_39
+  - first:
+      213: -7788200362266117896
+    second: rope-coil_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rope-coil_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 428
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019333a363abd3e0800000000000000
+      internalID: -2027847558865121018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 438
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986030251774ca350800000000000000
+      internalID: 6029272553175058057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 425
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b307bc2b95380d10800000000000000
+      internalID: 2091980967499989944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 340
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a641cf2ec63646e0800000000000000
+      internalID: -1853733937424021850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 376
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a2a69adb0c20c0800000000000000
+      internalID: -4599288085994102765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 312
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034e5665f01335a40800000000000000
+      internalID: 5355678323817440304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 356
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a364493586edf0800000000000000
+      internalID: -151287056463321613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 356
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb12cdab540e43450800000000000000
+      internalID: 6067721188067254716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 369
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea8d82d02323e10800000000000000
+      internalID: 2175856602074623648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 330
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f721a11d7389990800000000000000
+      internalID: -7379086618221445368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 287
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdd26aa5eee236c0800000000000000
+      internalID: -4165004035190760004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 291
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce6c825f2a9bf010800000000000000
+      internalID: 1223741251800297155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 318
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5a46a874c035cb0800000000000000
+      internalID: -4876540470108052035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 312
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38821de295b721080800000000000000
+      internalID: -9218169864306218877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 313
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b523aaff13bd30320800000000000000
+      internalID: 2523101224046834267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 274
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc6b1a13d822fd0800000000000000
+      internalID: -2368175209737433940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 302
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9668716ce3be360800000000000000
+      internalID: 7199917449801001402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047594217c6021480800000000000000
+      internalID: -8930067659047217344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 252
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25abdc368e225f70800000000000000
+      internalID: 9174446544988644650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 242
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dbf3679516a1c10800000000000000
+      internalID: 2025038019320331613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 271
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cdb4180536792e0800000000000000
+      internalID: -2119115902236762993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 269
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13752b66ebcf1f0a0800000000000000
+      internalID: -6849415663556864207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 235
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2f5de405fab290800000000000000
+      internalID: -7873711596992778963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a99e7b7c7dc8c00800000000000000
+      internalID: 904334877978630800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 249
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c2837a2bb57eb0800000000000000
+      internalID: -4722662843227127304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d1ed8446378a270800000000000000
+      internalID: 8261980390967614779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 232
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0cc19680b36c150800000000000000
+      internalID: 5892462069770141895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dd36d4e186e9910800000000000000
+      internalID: 1846027376625179977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 225
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455d9ba657a62e70800000000000000
+      internalID: 9090136888582165835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 209
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25765c9ea77ce1a80800000000000000
+      internalID: -8494132516452210862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 162
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b6e8eaa3bf83a80800000000000000
+      internalID: -8486757268324455616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 184
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af55476f3c73ffbb0800000000000000
+      internalID: -4900136554762840582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 182
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31d1ae97edb9350800000000000000
+      internalID: 6024653541738353582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 186
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4f48ee2d4d9290800000000000000
+      internalID: -7882058908967154335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce706293641414e0800000000000000
+      internalID: -2011960715637653824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 130
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc21a05a52a26e9b0800000000000000
+      internalID: -5051303590878375220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b0f4a2bbce6630800000000000000
+      internalID: 3922296293618135814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfba4024d5ae15570800000000000000
+      internalID: 8453795661811592188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_38
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 122
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b83a3c2099ea210800000000000000
+      internalID: 1346181575781616469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 81
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5269d909747d600800000000000000
+      internalID: 492941370665084408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rope-coil_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83f8fb801cae390800000000000000
+      internalID: -7788200362266117896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rope-coil_0: -2027847558865121018
+      rope-coil_1: 6029272553175058057
+      rope-coil_10: -4165004035190760004
+      rope-coil_11: 1223741251800297155
+      rope-coil_12: -4876540470108052035
+      rope-coil_13: -9218169864306218877
+      rope-coil_14: 2523101224046834267
+      rope-coil_15: -2368175209737433940
+      rope-coil_16: 7199917449801001402
+      rope-coil_17: -8930067659047217344
+      rope-coil_18: 9174446544988644650
+      rope-coil_19: 2025038019320331613
+      rope-coil_2: 2091980967499989944
+      rope-coil_20: -2119115902236762993
+      rope-coil_21: -6849415663556864207
+      rope-coil_22: -7873711596992778963
+      rope-coil_23: 904334877978630800
+      rope-coil_24: -4722662843227127304
+      rope-coil_25: 8261980390967614779
+      rope-coil_26: 5892462069770141895
+      rope-coil_27: 1846027376625179977
+      rope-coil_28: 9090136888582165835
+      rope-coil_29: -8494132516452210862
+      rope-coil_3: -1853733937424021850
+      rope-coil_30: -8486757268324455616
+      rope-coil_31: -4900136554762840582
+      rope-coil_32: 6024653541738353582
+      rope-coil_33: -7882058908967154335
+      rope-coil_34: -2011960715637653824
+      rope-coil_35: -5051303590878375220
+      rope-coil_36: 3922296293618135814
+      rope-coil_37: 8453795661811592188
+      rope-coil_38: 1346181575781616469
+      rope-coil_39: 492941370665084408
+      rope-coil_4: -4599288085994102765
+      rope-coil_40: -7788200362266117896
+      rope-coil_5: 5355678323817440304
+      rope-coil_6: -151287056463321613
+      rope-coil_7: 6067721188067254716
+      rope-coil_8: 2175856602074623648
+      rope-coil_9: -7379086618221445368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

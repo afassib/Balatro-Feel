@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0cfaa579b9375964bafcfba1ca766bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1095298609542193819
+    second: steam-locomotive_0
+  - first:
+      213: 493884225242471623
+    second: steam-locomotive_1
+  - first:
+      213: -7598219492666208415
+    second: steam-locomotive_2
+  - first:
+      213: -4634962644589381444
+    second: steam-locomotive_3
+  - first:
+      213: 3574257600389676730
+    second: steam-locomotive_4
+  - first:
+      213: 2332885929461035595
+    second: steam-locomotive_5
+  - first:
+      213: 3486996016211741706
+    second: steam-locomotive_6
+  - first:
+      213: 6201760365504659838
+    second: steam-locomotive_7
+  - first:
+      213: 3384932123682505372
+    second: steam-locomotive_8
+  - first:
+      213: -634607825755813670
+    second: steam-locomotive_9
+  - first:
+      213: -2822867461308501345
+    second: steam-locomotive_10
+  - first:
+      213: -5575419878653030273
+    second: steam-locomotive_11
+  - first:
+      213: 511439964325396278
+    second: steam-locomotive_12
+  - first:
+      213: -7308911010021595068
+    second: steam-locomotive_13
+  - first:
+      213: -5953543884096496780
+    second: steam-locomotive_14
+  - first:
+      213: 1304772553642670127
+    second: steam-locomotive_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: steam-locomotive_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 311
+        width: 432
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92edb04848433f00800000000000000
+      internalID: 1095298609542193819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc1fbd0611aad600800000000000000
+      internalID: 493884225242471623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 224
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8e26e0a3bd8690800000000000000
+      internalID: -7598219492666208415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 224
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87b06280e4dafb0800000000000000
+      internalID: -4634962644589381444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 308
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe77fea9505a9130800000000000000
+      internalID: 3574257600389676730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4238078463106020800000000000000
+      internalID: 2332885929461035595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc08fd66c446030800000000000000
+      internalID: 3486996016211741706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e718000b134111650800000000000000
+      internalID: 6201760365504659838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9287e415d1b9fe20800000000000000
+      internalID: 3384932123682505372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad844267b8b6137f0800000000000000
+      internalID: -634607825755813670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 48
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b2b8000923d8d0800000000000000
+      internalID: -2822867461308501345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 48
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701c33092120a2b0800000000000000
+      internalID: -5575419878653030273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 14
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fbd8510fff81700800000000000000
+      internalID: 511439964325396278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 32
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448a8b02928819a90800000000000000
+      internalID: -7308911010021595068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b9ab17163c06da0800000000000000
+      internalID: -5953543884096496780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steam-locomotive_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 14
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fc8c79bb7b1210800000000000000
+      internalID: 1304772553642670127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      steam-locomotive_0: 1095298609542193819
+      steam-locomotive_1: 493884225242471623
+      steam-locomotive_10: -2822867461308501345
+      steam-locomotive_11: -5575419878653030273
+      steam-locomotive_12: 511439964325396278
+      steam-locomotive_13: -7308911010021595068
+      steam-locomotive_14: -5953543884096496780
+      steam-locomotive_15: 1304772553642670127
+      steam-locomotive_2: -7598219492666208415
+      steam-locomotive_3: -4634962644589381444
+      steam-locomotive_4: 3574257600389676730
+      steam-locomotive_5: 2332885929461035595
+      steam-locomotive_6: 3486996016211741706
+      steam-locomotive_7: 6201760365504659838
+      steam-locomotive_8: 3384932123682505372
+      steam-locomotive_9: -634607825755813670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

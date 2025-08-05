@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 82caa73f121755349b6534e6aac9dfc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4679523323848359504
+    second: sharp-smile_0
+  - first:
+      213: -7938830651527715406
+    second: sharp-smile_1
+  - first:
+      213: -6048534945229835118
+    second: sharp-smile_2
+  - first:
+      213: -6032755849939053682
+    second: sharp-smile_3
+  - first:
+      213: 7984874347513438723
+    second: sharp-smile_4
+  - first:
+      213: -8247225393600892242
+    second: sharp-smile_5
+  - first:
+      213: -5760587146595476646
+    second: sharp-smile_6
+  - first:
+      213: -3961984556143920563
+    second: sharp-smile_7
+  - first:
+      213: -366406568800950297
+    second: sharp-smile_8
+  - first:
+      213: -7991539338576652362
+    second: sharp-smile_9
+  - first:
+      213: 5743086061391802948
+    second: sharp-smile_10
+  - first:
+      213: -665179737143917983
+    second: sharp-smile_11
+  - first:
+      213: -5765007014010497543
+    second: sharp-smile_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sharp-smile_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 412
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ef22c7ba101f040800000000000000
+      internalID: 4679523323848359504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 414
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b525bb859b93d190800000000000000
+      internalID: -7938830651527715406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 183
+        width: 69
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f90a83894f0ca0800000000000000
+      internalID: -6048534945229835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 61
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8319b37488574ca0800000000000000
+      internalID: -6032755849939053682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 71
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302eaa3d9e8ffce60800000000000000
+      internalID: 7984874347513438723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 28
+        width: 77
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea276df3338fb8d80800000000000000
+      internalID: -8247225393600892242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 58
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bde75d2884e00b0800000000000000
+      internalID: -5760587146595476646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 22
+        width: 80
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3575a9043409c0800000000000000
+      internalID: -3961984556143920563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 62
+        width: 62
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ef3fba234aeaf0800000000000000
+      internalID: -366406568800950297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 25
+        width: 61
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b714930059581190800000000000000
+      internalID: -7991539338576652362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 57
+        width: 65
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44271cb385a83bf40800000000000000
+      internalID: 5743086061391802948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 55
+        width: 56
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162cfb7ad8ec4c6f0800000000000000
+      internalID: -665179737143917983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-smile_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 66
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d4424aa49effa0800000000000000
+      internalID: -5765007014010497543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sharp-smile_0: 4679523323848359504
+      sharp-smile_1: -7938830651527715406
+      sharp-smile_10: 5743086061391802948
+      sharp-smile_11: -665179737143917983
+      sharp-smile_12: -5765007014010497543
+      sharp-smile_2: -6048534945229835118
+      sharp-smile_3: -6032755849939053682
+      sharp-smile_4: 7984874347513438723
+      sharp-smile_5: -8247225393600892242
+      sharp-smile_6: -5760587146595476646
+      sharp-smile_7: -3961984556143920563
+      sharp-smile_8: -366406568800950297
+      sharp-smile_9: -7991539338576652362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

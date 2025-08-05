@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 9e6fc57f93102db49a643d1ae81e8ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1583121548947587433
+    second: usa-flag_0
+  - first:
+      213: -5262259906043490134
+    second: usa-flag_1
+  - first:
+      213: 2810283466845404575
+    second: usa-flag_2
+  - first:
+      213: 1467372712164114289
+    second: usa-flag_3
+  - first:
+      213: -1571457162646233530
+    second: usa-flag_4
+  - first:
+      213: 391176129680990118
+    second: usa-flag_5
+  - first:
+      213: -1947548618881806398
+    second: usa-flag_6
+  - first:
+      213: 8365660136019615830
+    second: usa-flag_7
+  - first:
+      213: 2320633214016107728
+    second: usa-flag_8
+  - first:
+      213: 8595146871736699468
+    second: usa-flag_9
+  - first:
+      213: -6505952599662390539
+    second: usa-flag_10
+  - first:
+      213: 2957004063482572978
+    second: usa-flag_11
+  - first:
+      213: 6115995564481445105
+    second: usa-flag_12
+  - first:
+      213: 5135827846572746862
+    second: usa-flag_13
+  - first:
+      213: 7398450508164171691
+    second: usa-flag_14
+  - first:
+      213: 5231565114171351189
+    second: usa-flag_15
+  - first:
+      213: -4873203990553787138
+    second: usa-flag_16
+  - first:
+      213: 454755316148658987
+    second: usa-flag_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: usa-flag_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 435
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961894939a068f510800000000000000
+      internalID: 1583121548947587433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 435
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05f700f72b8f6b0800000000000000
+      internalID: -5262259906043490134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 435
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d397f6ce1200720800000000000000
+      internalID: 2810283466845404575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 464
+        width: 240
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb4ad05b72d5410800000000000000
+      internalID: 1467372712164114289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 378
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e5ab85900113ae0800000000000000
+      internalID: -1571457162646233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 380
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5f3e0e9cbd6500800000000000000
+      internalID: 391176129680990118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 400
+        width: 240
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf4fb489dae8f4e0800000000000000
+      internalID: -1947548618881806398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650681f029bc81470800000000000000
+      internalID: 8365660136019615830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 323
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43767ec9b843020800000000000000
+      internalID: 2320633214016107728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 323
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0d227a88184770800000000000000
+      internalID: 8595146871736699468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 240
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f21893a49636b5a0800000000000000
+      internalID: -6505952599662390539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 266
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f3436783690920800000000000000
+      internalID: 2957004063482572978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf7ccdf8160e450800000000000000
+      internalID: 6115995564481445105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 240
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6827863730264740800000000000000
+      internalID: 5135827846572746862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 478
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70f6bd9839ca660800000000000000
+      internalID: 7398450508164171691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 478
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906289d0c04a9840800000000000000
+      internalID: 5231565114171351189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 478
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef486093ac6ee5cb0800000000000000
+      internalID: -4873203990553787138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usa-flag_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 478
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23e2c6fc8d9f4600800000000000000
+      internalID: 454755316148658987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      usa-flag_0: 1583121548947587433
+      usa-flag_1: -5262259906043490134
+      usa-flag_10: -6505952599662390539
+      usa-flag_11: 2957004063482572978
+      usa-flag_12: 6115995564481445105
+      usa-flag_13: 5135827846572746862
+      usa-flag_14: 7398450508164171691
+      usa-flag_15: 5231565114171351189
+      usa-flag_16: -4873203990553787138
+      usa-flag_17: 454755316148658987
+      usa-flag_2: 2810283466845404575
+      usa-flag_3: 1467372712164114289
+      usa-flag_4: -1571457162646233530
+      usa-flag_5: 391176129680990118
+      usa-flag_6: -1947548618881806398
+      usa-flag_7: 8365660136019615830
+      usa-flag_8: 2320633214016107728
+      usa-flag_9: 8595146871736699468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

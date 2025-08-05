@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 4e2a70db03377354ead582790817c88c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4137765858632541054
+    second: traffic-lights-orange_0
+  - first:
+      213: 3270396703999094589
+    second: traffic-lights-orange_1
+  - first:
+      213: 853986602794263379
+    second: traffic-lights-orange_2
+  - first:
+      213: 64552265017529675
+    second: traffic-lights-orange_3
+  - first:
+      213: -5333086991842124498
+    second: traffic-lights-orange_4
+  - first:
+      213: -3313351113590877327
+    second: traffic-lights-orange_5
+  - first:
+      213: -6712601508114209610
+    second: traffic-lights-orange_6
+  - first:
+      213: 5195773734129272639
+    second: traffic-lights-orange_7
+  - first:
+      213: 8815929417027883157
+    second: traffic-lights-orange_8
+  - first:
+      213: -234358309936358494
+    second: traffic-lights-orange_9
+  - first:
+      213: 496954714224990337
+    second: traffic-lights-orange_10
+  - first:
+      213: 4541864639744425347
+    second: traffic-lights-orange_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traffic-lights-orange_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 421
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e732887202c4c6930800000000000000
+      internalID: 4137765858632541054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 421
+        width: 176
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f69789978c26d20800000000000000
+      internalID: 3270396703999094589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 274
+        width: 176
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ae766a48f9db00800000000000000
+      internalID: 853986602794263379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 421
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4511d961f555e000800000000000000
+      internalID: 64552265017529675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5ef603a11df5b0800000000000000
+      internalID: -5333086991842124498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 133
+        width: 176
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173554297bc9402d0800000000000000
+      internalID: -3313351113590877327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 222
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e9164e7c08d2a0800000000000000
+      internalID: -6712601508114209610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 273
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37841ccea81b1840800000000000000
+      internalID: 5195773734129272639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5901dd29819785a70800000000000000
+      internalID: 8815929417027883157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab151adb546fbcf0800000000000000
+      internalID: -234358309936358494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 132
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18816dafda985e600800000000000000
+      internalID: 496954714224990337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traffic-lights-orange_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbfd573d1f70f30800000000000000
+      internalID: 4541864639744425347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      traffic-lights-orange_0: 4137765858632541054
+      traffic-lights-orange_1: 3270396703999094589
+      traffic-lights-orange_10: 496954714224990337
+      traffic-lights-orange_11: 4541864639744425347
+      traffic-lights-orange_2: 853986602794263379
+      traffic-lights-orange_3: 64552265017529675
+      traffic-lights-orange_4: -5333086991842124498
+      traffic-lights-orange_5: -3313351113590877327
+      traffic-lights-orange_6: -6712601508114209610
+      traffic-lights-orange_7: 5195773734129272639
+      traffic-lights-orange_8: 8815929417027883157
+      traffic-lights-orange_9: -234358309936358494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

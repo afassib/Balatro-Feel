@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 638f398a752846247a4a95f41bd1358c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4094012310009323779
+    second: spinal-coil_0
+  - first:
+      213: 880003917263628326
+    second: spinal-coil_1
+  - first:
+      213: -2885066062982910747
+    second: spinal-coil_2
+  - first:
+      213: 7997399888027036131
+    second: spinal-coil_3
+  - first:
+      213: 7557705761724674826
+    second: spinal-coil_4
+  - first:
+      213: 1980040704505073144
+    second: spinal-coil_5
+  - first:
+      213: 4961794817364944839
+    second: spinal-coil_6
+  - first:
+      213: 3954021588622229133
+    second: spinal-coil_7
+  - first:
+      213: 3912580700927897820
+    second: spinal-coil_8
+  - first:
+      213: 7708819999183263025
+    second: spinal-coil_9
+  - first:
+      213: -9019486108357561960
+    second: spinal-coil_10
+  - first:
+      213: -4833767048176439682
+    second: spinal-coil_11
+  - first:
+      213: 3402926531750355599
+    second: spinal-coil_12
+  - first:
+      213: -745819268795566748
+    second: spinal-coil_13
+  - first:
+      213: 5929088703015000477
+    second: spinal-coil_14
+  - first:
+      213: -2497096352602973602
+    second: spinal-coil_15
+  - first:
+      213: -7773687714851875065
+    second: spinal-coil_16
+  - first:
+      213: -6264553474749286278
+    second: spinal-coil_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spinal-coil_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 348
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ae24418ad0d830800000000000000
+      internalID: 4094012310009323779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 382
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628637976e6663c00800000000000000
+      internalID: 880003917263628326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 397
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec6e5293bf26f7d0800000000000000
+      internalID: -2885066062982910747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 376
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9a99c73d87cfe60800000000000000
+      internalID: 7997399888027036131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 334
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03b58c095d52e860800000000000000
+      internalID: 7557705761724674826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdc6d0b7848a7b10800000000000000
+      internalID: 1980040704505073144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 294
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c769610916dbd440800000000000000
+      internalID: 4961794817364944839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 272
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebd008fa18fd630800000000000000
+      internalID: 3954021588622229133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 280
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd03bd1fa674c4630800000000000000
+      internalID: 3912580700927897820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 237
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135deb832fa3bfa60800000000000000
+      internalID: 7708819999183263025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 287
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f6c6fb2954d280800000000000000
+      internalID: -9019486108357561960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e6476ea720becb0800000000000000
+      internalID: -4833767048176439682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 178
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f826bb1b6af993f20800000000000000
+      internalID: 3402926531750355599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4657cc8935156a5f0800000000000000
+      internalID: -745819268795566748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 26
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999df003ca584250800000000000000
+      internalID: 5929088703015000477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 41
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1d25f818885dd0800000000000000
+      internalID: -2497096352602973602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 108
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079f69c5305e1490800000000000000
+      internalID: -7773687714851875065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinal-coil_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7831254ec5df09a0800000000000000
+      internalID: -6264553474749286278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spinal-coil_0: 4094012310009323779
+      spinal-coil_1: 880003917263628326
+      spinal-coil_10: -9019486108357561960
+      spinal-coil_11: -4833767048176439682
+      spinal-coil_12: 3402926531750355599
+      spinal-coil_13: -745819268795566748
+      spinal-coil_14: 5929088703015000477
+      spinal-coil_15: -2497096352602973602
+      spinal-coil_16: -7773687714851875065
+      spinal-coil_17: -6264553474749286278
+      spinal-coil_2: -2885066062982910747
+      spinal-coil_3: 7997399888027036131
+      spinal-coil_4: 7557705761724674826
+      spinal-coil_5: 1980040704505073144
+      spinal-coil_6: 4961794817364944839
+      spinal-coil_7: 3954021588622229133
+      spinal-coil_8: 3912580700927897820
+      spinal-coil_9: 7708819999183263025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

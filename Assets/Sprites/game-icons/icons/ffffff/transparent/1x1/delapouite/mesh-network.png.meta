@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 23818bef6c7a1cc4c9a1a1afd54c6307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1231485909048324753
+    second: mesh-network_0
+  - first:
+      213: -8362531231190252649
+    second: mesh-network_1
+  - first:
+      213: -1263337771262502715
+    second: mesh-network_2
+  - first:
+      213: -669222610914407565
+    second: mesh-network_3
+  - first:
+      213: 4003673044598848774
+    second: mesh-network_4
+  - first:
+      213: 6595119839475912331
+    second: mesh-network_5
+  - first:
+      213: -8803423653899957565
+    second: mesh-network_6
+  - first:
+      213: -2868403261218658562
+    second: mesh-network_7
+  - first:
+      213: -9152109783464524590
+    second: mesh-network_8
+  - first:
+      213: 6288978709136036723
+    second: mesh-network_9
+  - first:
+      213: 1148966143512543542
+    second: mesh-network_10
+  - first:
+      213: 4971310171460385099
+    second: mesh-network_11
+  - first:
+      213: 2121406100082212940
+    second: mesh-network_12
+  - first:
+      213: 7741094571235501284
+    second: mesh-network_13
+  - first:
+      213: 578460851061545175
+    second: mesh-network_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mesh-network_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 277
+        width: 269
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d86452712e8eee0800000000000000
+      internalID: -1231485909048324753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 394
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7938bcdd62252fb80800000000000000
+      internalID: -8362531231190252649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 305
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c890909df8b77ee0800000000000000
+      internalID: -1263337771262502715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 339
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b89c0c49176b6f0800000000000000
+      internalID: -669222610914407565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 247
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfe14fb67ef8730800000000000000
+      internalID: 4003673044598848774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 52
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec7133d82968b50800000000000000
+      internalID: 6595119839475912331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 88
+        width: 157
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca850e44d4f3d580800000000000000
+      internalID: -8803423653899957565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 243
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef66d7e6e626138d0800000000000000
+      internalID: -2868403261218658562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 188
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4483354ac2df080800000000000000
+      internalID: -9152109783464524590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 141
+        width: 34
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735c06c0d0f64750800000000000000
+      internalID: 6288978709136036723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631040bbe92f1ff00800000000000000
+      internalID: 1148966143512543542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 51
+        width: 158
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49be260344adf440800000000000000
+      internalID: 4971310171460385099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 99
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404fbbbb9fb07d10800000000000000
+      internalID: 2121406100082212940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 127
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4623b9f74ed6b60800000000000000
+      internalID: 7741094571235501284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-network_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 35
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85ef7441b170800800000000000000
+      internalID: 578460851061545175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mesh-network_0: -1231485909048324753
+      mesh-network_1: -8362531231190252649
+      mesh-network_10: 1148966143512543542
+      mesh-network_11: 4971310171460385099
+      mesh-network_12: 2121406100082212940
+      mesh-network_13: 7741094571235501284
+      mesh-network_14: 578460851061545175
+      mesh-network_2: -1263337771262502715
+      mesh-network_3: -669222610914407565
+      mesh-network_4: 4003673044598848774
+      mesh-network_5: 6595119839475912331
+      mesh-network_6: -8803423653899957565
+      mesh-network_7: -2868403261218658562
+      mesh-network_8: -9152109783464524590
+      mesh-network_9: 6288978709136036723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

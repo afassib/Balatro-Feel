@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 5c9ca819624eab446bc636440cc7d403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1734260590355754459
+    second: ball-pyramid_0
+  - first:
+      213: -1657515755834354045
+    second: ball-pyramid_1
+  - first:
+      213: 7146899420651401652
+    second: ball-pyramid_2
+  - first:
+      213: -9068747781163500195
+    second: ball-pyramid_3
+  - first:
+      213: -626402977086594792
+    second: ball-pyramid_4
+  - first:
+      213: -3422322312327239907
+    second: ball-pyramid_5
+  - first:
+      213: -7170734921173858715
+    second: ball-pyramid_6
+  - first:
+      213: -371796576834017008
+    second: ball-pyramid_7
+  - first:
+      213: 4895240341162051127
+    second: ball-pyramid_8
+  - first:
+      213: 785813755370248369
+    second: ball-pyramid_9
+  - first:
+      213: -77398213570877693
+    second: ball-pyramid_10
+  - first:
+      213: -1729018752327012075
+    second: ball-pyramid_11
+  - first:
+      213: -7313310729972216904
+    second: ball-pyramid_12
+  - first:
+      213: 1492176936927776816
+    second: ball-pyramid_13
+  - first:
+      213: 5417098800987014761
+    second: ball-pyramid_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball-pyramid_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 383
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522d2eb7e2baee7e0800000000000000
+      internalID: -1734260590355754459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 294
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38651e3b3325ff8e0800000000000000
+      internalID: -1657515755834354045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13f5d3823ee2360800000000000000
+      internalID: 7146899420651401652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 204
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d332af0f5552280800000000000000
+      internalID: -9068747781163500195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811a188afc19e47f0800000000000000
+      internalID: -626402977086594792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 204
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1767da3df77180d0800000000000000
+      internalID: -3422322312327239907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 114
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56681f4d49e6c7c90800000000000000
+      internalID: -7170734921173858715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 114
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192a15bbfc17daf0800000000000000
+      internalID: -371796576834017008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736402977236fe340800000000000000
+      internalID: 4895240341162051127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 114
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b895747275c7ea00800000000000000
+      internalID: 785813755370248369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307abdd1cb60deef0800000000000000
+      internalID: -77398213570877693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113f810b9a4108e0800000000000000
+      internalID: -1729018752327012075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb04ff73a6e18a90800000000000000
+      internalID: -7313310729972216904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305c9ba40745b410800000000000000
+      internalID: 1492176936927776816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-pyramid_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966860298a66d2b40800000000000000
+      internalID: 5417098800987014761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ball-pyramid_0: -1734260590355754459
+      ball-pyramid_1: -1657515755834354045
+      ball-pyramid_10: -77398213570877693
+      ball-pyramid_11: -1729018752327012075
+      ball-pyramid_12: -7313310729972216904
+      ball-pyramid_13: 1492176936927776816
+      ball-pyramid_14: 5417098800987014761
+      ball-pyramid_2: 7146899420651401652
+      ball-pyramid_3: -9068747781163500195
+      ball-pyramid_4: -626402977086594792
+      ball-pyramid_5: -3422322312327239907
+      ball-pyramid_6: -7170734921173858715
+      ball-pyramid_7: -371796576834017008
+      ball-pyramid_8: 4895240341162051127
+      ball-pyramid_9: 785813755370248369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

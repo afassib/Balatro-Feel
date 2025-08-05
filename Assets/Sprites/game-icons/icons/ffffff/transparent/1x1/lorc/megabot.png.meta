@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: 7aa1ee6f5b378604587493ca3cc0086d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1286279136550485262
+    second: megabot_0
+  - first:
+      213: 3507881739328306448
+    second: megabot_1
+  - first:
+      213: 6995169777653243817
+    second: megabot_2
+  - first:
+      213: -7243274734043988879
+    second: megabot_3
+  - first:
+      213: 8339318683120393908
+    second: megabot_4
+  - first:
+      213: -4478495324459001348
+    second: megabot_5
+  - first:
+      213: 2789906185552896372
+    second: megabot_6
+  - first:
+      213: -4027281384353469036
+    second: megabot_7
+  - first:
+      213: -2993210350163426719
+    second: megabot_8
+  - first:
+      213: 7818514472923190943
+    second: megabot_9
+  - first:
+      213: -3033229025144528817
+    second: megabot_10
+  - first:
+      213: 902737367303029762
+    second: megabot_11
+  - first:
+      213: 4311903133358681590
+    second: megabot_12
+  - first:
+      213: -5398432522262196768
+    second: megabot_13
+  - first:
+      213: -3787919064713415175
+    second: megabot_14
+  - first:
+      213: 1780912846167868777
+    second: megabot_15
+  - first:
+      213: 5427413451163239907
+    second: megabot_16
+  - first:
+      213: -181263793554039596
+    second: megabot_17
+  - first:
+      213: 2605436061953573200
+    second: megabot_18
+  - first:
+      213: -2957160852863345395
+    second: megabot_19
+  - first:
+      213: 8963317521735555857
+    second: megabot_20
+  - first:
+      213: -5492235095821765212
+    second: megabot_21
+  - first:
+      213: -3572571418689219192
+    second: megabot_22
+  - first:
+      213: 494025131825755322
+    second: megabot_23
+  - first:
+      213: 6544574645179707259
+    second: megabot_24
+  - first:
+      213: 6769746232700941765
+    second: megabot_25
+  - first:
+      213: -2039337489587615249
+    second: megabot_26
+  - first:
+      213: -2775069889993528983
+    second: megabot_27
+  - first:
+      213: -1186040109931407331
+    second: megabot_28
+  - first:
+      213: 7882651451647170344
+    second: megabot_29
+  - first:
+      213: -5419508483830620067
+    second: megabot_30
+  - first:
+      213: 8240252168512325102
+    second: megabot_31
+  - first:
+      213: -2822836586734544283
+    second: megabot_32
+  - first:
+      213: -6930398077865028573
+    second: megabot_33
+  - first:
+      213: -6552254465244233874
+    second: megabot_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megabot_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 408
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f289e7b0f7362ee0800000000000000
+      internalID: -1286279136550485262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 448
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3eba3bdf7ea030800000000000000
+      internalID: 3507881739328306448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 408
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd19cc9d5d31160800000000000000
+      internalID: 6995169777653243817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 373
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cfeb28108ba7b90800000000000000
+      internalID: -7243274734043988879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be5b20a8263bb370800000000000000
+      internalID: 8339318683120393908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf99f510b3039d1c0800000000000000
+      internalID: -4478495324459001348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 373
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ab8ae4ecb7b620800000000000000
+      internalID: 2789906185552896372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d611b1be83c18c0800000000000000
+      internalID: -4027281384353469036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1628c749b0bf576d0800000000000000
+      internalID: -2993210350163426719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9656d52d71f08c60800000000000000
+      internalID: 7818514472923190943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 344
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402bd9b54ec7e5d0800000000000000
+      internalID: -3033229025144528817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 320
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20481974ada278c00800000000000000
+      internalID: 902737367303029762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 243
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdecb9ed05f6db30800000000000000
+      internalID: 4311903133358681590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed45ae193ae415b0800000000000000
+      internalID: -5398432522262196768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 312
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b3dd0eab9e6bc0800000000000000
+      internalID: -3787919064713415175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 243
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96504c34cc217b810800000000000000
+      internalID: 1780912846167868777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e503c537cb025b40800000000000000
+      internalID: 5427413451163239907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 282
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc52964a850c7df0800000000000000
+      internalID: -181263793554039596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514cbd4b4e582420800000000000000
+      internalID: 2605436061953573200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 198
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d936d3fdd06f6d0800000000000000
+      internalID: -2957160852863345395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 194
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b151cdbc9146c70800000000000000
+      internalID: 8963317521735555857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a53c9a8749a7c3b0800000000000000
+      internalID: -5492235095821765212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 200
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885d056193dab6ec0800000000000000
+      internalID: -3572571418689219192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 168
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4f69c6d312bd600800000000000000
+      internalID: 494025131825755322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 194
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe6f317fff2da50800000000000000
+      internalID: 6544574645179707259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 198
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5bdabb458f2fd50800000000000000
+      internalID: 6769746232700941765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 216
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94efbab51d2b3e0800000000000000
+      internalID: -2039337489587615249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ad0453a8fc79d0800000000000000
+      internalID: -2775069889993528983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 78
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d185c2ecdc65a8fe0800000000000000
+      internalID: -1186040109931407331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 78
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82795af2bbdc46d60800000000000000
+      internalID: 7882651451647170344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d506f0c6fb90ac4b0800000000000000
+      internalID: -5419508483830620067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5c1d340b14b5270800000000000000
+      internalID: 8240252168512325102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a16b4941543d8d0800000000000000
+      internalID: -2822836586734544283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 24
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3241ec0caa742df90800000000000000
+      internalID: -6930398077865028573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megabot_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 24
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f76297747b115a0800000000000000
+      internalID: -6552254465244233874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      megabot_0: -1286279136550485262
+      megabot_1: 3507881739328306448
+      megabot_10: -3033229025144528817
+      megabot_11: 902737367303029762
+      megabot_12: 4311903133358681590
+      megabot_13: -5398432522262196768
+      megabot_14: -3787919064713415175
+      megabot_15: 1780912846167868777
+      megabot_16: 5427413451163239907
+      megabot_17: -181263793554039596
+      megabot_18: 2605436061953573200
+      megabot_19: -2957160852863345395
+      megabot_2: 6995169777653243817
+      megabot_20: 8963317521735555857
+      megabot_21: -5492235095821765212
+      megabot_22: -3572571418689219192
+      megabot_23: 494025131825755322
+      megabot_24: 6544574645179707259
+      megabot_25: 6769746232700941765
+      megabot_26: -2039337489587615249
+      megabot_27: -2775069889993528983
+      megabot_28: -1186040109931407331
+      megabot_29: 7882651451647170344
+      megabot_3: -7243274734043988879
+      megabot_30: -5419508483830620067
+      megabot_31: 8240252168512325102
+      megabot_32: -2822836586734544283
+      megabot_33: -6930398077865028573
+      megabot_34: -6552254465244233874
+      megabot_4: 8339318683120393908
+      megabot_5: -4478495324459001348
+      megabot_6: 2789906185552896372
+      megabot_7: -4027281384353469036
+      megabot_8: -2993210350163426719
+      megabot_9: 7818514472923190943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

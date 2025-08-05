@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: e673910fd803206478d1d657098f4d09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8864460701285384621
+    second: cool-spices_0
+  - first:
+      213: -1094783095916619074
+    second: cool-spices_1
+  - first:
+      213: -6704324113507365678
+    second: cool-spices_2
+  - first:
+      213: 8294971214003823384
+    second: cool-spices_3
+  - first:
+      213: -8459430346273428262
+    second: cool-spices_4
+  - first:
+      213: 1544004468711536622
+    second: cool-spices_5
+  - first:
+      213: 3867087613063440918
+    second: cool-spices_6
+  - first:
+      213: -6814446588917831549
+    second: cool-spices_7
+  - first:
+      213: -62728432051409772
+    second: cool-spices_8
+  - first:
+      213: 7373649293928631030
+    second: cool-spices_9
+  - first:
+      213: 75103033631163534
+    second: cool-spices_10
+  - first:
+      213: -1344611816158687852
+    second: cool-spices_11
+  - first:
+      213: -2878184499456867702
+    second: cool-spices_12
+  - first:
+      213: -2163967931115625761
+    second: cool-spices_13
+  - first:
+      213: 466513512104704883
+    second: cool-spices_14
+  - first:
+      213: 7069744869809253388
+    second: cool-spices_15
+  - first:
+      213: 3615382975902055005
+    second: cool-spices_16
+  - first:
+      213: 4227784198578610994
+    second: cool-spices_17
+  - first:
+      213: -7474726713898361132
+    second: cool-spices_18
+  - first:
+      213: -8604034805743709475
+    second: cool-spices_19
+  - first:
+      213: -1056511836176095029
+    second: cool-spices_20
+  - first:
+      213: -2229697703290724697
+    second: cool-spices_21
+  - first:
+      213: -5120390198960707651
+    second: cool-spices_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cool-spices_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e797645fb1bf480800000000000000
+      internalID: -8864460701285384621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 452
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba99cd139c8ec0f0800000000000000
+      internalID: -1094783095916619074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 412
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcce436db475f2a0800000000000000
+      internalID: -6704324113507365678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 430
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e9c8de58ad1370800000000000000
+      internalID: 8294971214003823384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 321
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc66388be01a9a80800000000000000
+      internalID: -8459430346273428262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 361
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ba2142e76d6510800000000000000
+      internalID: 1544004468711536622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 357
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa5f302b7aaa530800000000000000
+      internalID: 3867087613063440918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 274
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882eae8ee83e61a0800000000000000
+      internalID: -6814446588917831549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 308
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c224ac2d4212ff0800000000000000
+      internalID: -62728432051409772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 237
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa0dee27f6745660800000000000000
+      internalID: 7373649293928631030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 301
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84c329afc1da0100800000000000000
+      internalID: 75103033631163534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 247
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d81116daaf65de0800000000000000
+      internalID: -1344611816158687852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8286df6272ae08d0800000000000000
+      internalID: -2878184499456867702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22480c1aa08f1e0800000000000000
+      internalID: -2163967931115625761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 116
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bbbeb4193697600800000000000000
+      internalID: 466513512104704883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cee918087cc1260800000000000000
+      internalID: 7069744869809253388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af2a559ab6c2230800000000000000
+      internalID: 3615382975902055005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 69
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a94f245b1caa30800000000000000
+      internalID: 4227784198578610994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 26
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de17f018af644890800000000000000
+      internalID: -7474726713898361132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 74
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29c882ee3589880800000000000000
+      internalID: -8604034805743709475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc86ab725148651f0800000000000000
+      internalID: -1056511836176095029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1ad690c58e01e0800000000000000
+      internalID: -2229697703290724697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool-spices_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 17
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db72e873e38b0f8b0800000000000000
+      internalID: -5120390198960707651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cool-spices_0: -8864460701285384621
+      cool-spices_1: -1094783095916619074
+      cool-spices_10: 75103033631163534
+      cool-spices_11: -1344611816158687852
+      cool-spices_12: -2878184499456867702
+      cool-spices_13: -2163967931115625761
+      cool-spices_14: 466513512104704883
+      cool-spices_15: 7069744869809253388
+      cool-spices_16: 3615382975902055005
+      cool-spices_17: 4227784198578610994
+      cool-spices_18: -7474726713898361132
+      cool-spices_19: -8604034805743709475
+      cool-spices_2: -6704324113507365678
+      cool-spices_20: -1056511836176095029
+      cool-spices_21: -2229697703290724697
+      cool-spices_22: -5120390198960707651
+      cool-spices_3: 8294971214003823384
+      cool-spices_4: -8459430346273428262
+      cool-spices_5: 1544004468711536622
+      cool-spices_6: 3867087613063440918
+      cool-spices_7: -6814446588917831549
+      cool-spices_8: -62728432051409772
+      cool-spices_9: 7373649293928631030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

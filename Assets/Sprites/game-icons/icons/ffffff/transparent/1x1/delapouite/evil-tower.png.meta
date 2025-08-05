@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 1cc4fc047a66b0748b707d6a799c3e15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2675398632234480614
+    second: evil-tower_0
+  - first:
+      213: -4201514078504612622
+    second: evil-tower_1
+  - first:
+      213: -6637034569319124637
+    second: evil-tower_2
+  - first:
+      213: 7920879630869047977
+    second: evil-tower_3
+  - first:
+      213: -996704908610068782
+    second: evil-tower_4
+  - first:
+      213: 2291752045428559057
+    second: evil-tower_5
+  - first:
+      213: -540718859141417803
+    second: evil-tower_6
+  - first:
+      213: -4583445789635144212
+    second: evil-tower_7
+  - first:
+      213: 2114318526513979118
+    second: evil-tower_8
+  - first:
+      213: 2980689968016347561
+    second: evil-tower_9
+  - first:
+      213: -4960397528293926514
+    second: evil-tower_10
+  - first:
+      213: 5226707315250667419
+    second: evil-tower_11
+  - first:
+      213: -6894335288485519757
+    second: evil-tower_12
+  - first:
+      213: -271191989167600781
+    second: evil-tower_13
+  - first:
+      213: -1890508928931057658
+    second: evil-tower_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: evil-tower_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 460
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c091d6e131fdad0800000000000000
+      internalID: -2675398632234480614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 391
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc0ee7c43931b5c0800000000000000
+      internalID: -4201514078504612622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 418
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361feb5493484e3a0800000000000000
+      internalID: -6637034569319124637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 391
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa392ce0e9ced60800000000000000
+      internalID: 7920879630869047977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 460
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de98689a2efa22f0800000000000000
+      internalID: -996704908610068782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 412
+        width: 114
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc4b05d750fdcf10800000000000000
+      internalID: 2291752045428559057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 412
+        width: 114
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4758dff0bfe78f0800000000000000
+      internalID: -540718859141417803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce59985a6545460c0800000000000000
+      internalID: -4583445789635144212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 69
+        width: 43
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee94ea6f71975d10800000000000000
+      internalID: 2114318526513979118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 76
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15f29cbb98d5920800000000000000
+      internalID: 2980689968016347561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 43
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e899055bab0292bb0800000000000000
+      internalID: -4960397528293926514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 348
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f93766c9ef88840800000000000000
+      internalID: 5226707315250667419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 21
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e516735966250a0800000000000000
+      internalID: -6894335288485519757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bcbbb92588c3cf0800000000000000
+      internalID: -271191989167600781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil-tower_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 21
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003c5e352093c5e0800000000000000
+      internalID: -1890508928931057658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      evil-tower_0: -2675398632234480614
+      evil-tower_1: -4201514078504612622
+      evil-tower_10: -4960397528293926514
+      evil-tower_11: 5226707315250667419
+      evil-tower_12: -6894335288485519757
+      evil-tower_13: -271191989167600781
+      evil-tower_14: -1890508928931057658
+      evil-tower_2: -6637034569319124637
+      evil-tower_3: 7920879630869047977
+      evil-tower_4: -996704908610068782
+      evil-tower_5: 2291752045428559057
+      evil-tower_6: -540718859141417803
+      evil-tower_7: -4583445789635144212
+      evil-tower_8: 2114318526513979118
+      evil-tower_9: 2980689968016347561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

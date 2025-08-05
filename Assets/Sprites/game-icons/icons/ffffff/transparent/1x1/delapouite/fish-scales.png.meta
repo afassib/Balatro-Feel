@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 8264d1d6b8a5f884ba34ef5d8d3a627f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3196060387360781759
+    second: fish-scales_0
+  - first:
+      213: 4034355805852042688
+    second: fish-scales_1
+  - first:
+      213: -8402229929963076459
+    second: fish-scales_2
+  - first:
+      213: 6856930183247173026
+    second: fish-scales_3
+  - first:
+      213: 3148582758818863300
+    second: fish-scales_4
+  - first:
+      213: 7817895074025179213
+    second: fish-scales_5
+  - first:
+      213: 6747351991483972636
+    second: fish-scales_6
+  - first:
+      213: -3371984077630413545
+    second: fish-scales_7
+  - first:
+      213: -7450621464487392294
+    second: fish-scales_8
+  - first:
+      213: -2860468631691215563
+    second: fish-scales_9
+  - first:
+      213: 3713401049345894894
+    second: fish-scales_10
+  - first:
+      213: 8113082709672594603
+    second: fish-scales_11
+  - first:
+      213: -4563979092772790303
+    second: fish-scales_12
+  - first:
+      213: -8258167920470879535
+    second: fish-scales_13
+  - first:
+      213: 692917656699949464
+    second: fish-scales_14
+  - first:
+      213: 3788835652276575584
+    second: fish-scales_15
+  - first:
+      213: 119500281122803692
+    second: fish-scales_16
+  - first:
+      213: -1142993180839588083
+    second: fish-scales_17
+  - first:
+      213: 7288007910375804532
+    second: fish-scales_18
+  - first:
+      213: 8244207985405342141
+    second: fish-scales_19
+  - first:
+      213: 3655899607052766958
+    second: fish-scales_20
+  - first:
+      213: 5624154975568001721
+    second: fish-scales_21
+  - first:
+      213: 7363792643041037277
+    second: fish-scales_22
+  - first:
+      213: -3432041659539283861
+    second: fish-scales_23
+  - first:
+      213: -5939606963373816067
+    second: fish-scales_24
+  - first:
+      213: -5301486772587084268
+    second: fish-scales_25
+  - first:
+      213: 1639389620454516054
+    second: fish-scales_26
+  - first:
+      213: 3072667363246168302
+    second: fish-scales_27
+  - first:
+      213: -1958363867682546230
+    second: fish-scales_28
+  - first:
+      213: -8102554508424584979
+    second: fish-scales_29
+  - first:
+      213: 6648357192325782189
+    second: fish-scales_30
+  - first:
+      213: 5723379971613100040
+    second: fish-scales_31
+  - first:
+      213: -3183810912626527831
+    second: fish-scales_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish-scales_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 417
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac9aad20055a3d0800000000000000
+      internalID: -3196060387360781759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 337
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c588510b39ecf730800000000000000
+      internalID: 4034355805852042688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59445674568456b80800000000000000
+      internalID: -8402229929963076459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 337
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51a1e0ca5b82f50800000000000000
+      internalID: 6856930183247173026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 417
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c85155565302bb20800000000000000
+      internalID: 3148582758818863300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 337
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480c8a162ebe7c60800000000000000
+      internalID: 7817895074025179213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 417
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3de223e863ad50800000000000000
+      internalID: 6747351991483972636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 337
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e090d85e4431d0800000000000000
+      internalID: -3371984077630413545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 417
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb045dc0431a9890800000000000000
+      internalID: -7450621464487392294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 337
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db5e45fe29d48d0800000000000000
+      internalID: -2860468631691215563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 417
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee923d67496a88330800000000000000
+      internalID: 3713401049345894894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac066f4db5779070800000000000000
+      internalID: 8113082709672594603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 177
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efd7f4323d79a0c0800000000000000
+      internalID: -4563979092772790303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29ecca708156d80800000000000000
+      internalID: -8258167920470879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 177
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891523200fcbd9900800000000000000
+      internalID: 692917656699949464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 257
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd74e93f5a49430800000000000000
+      internalID: 3788835652276575584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 177
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef42ee5fdc88a100800000000000000
+      internalID: 119500281122803692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 257
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fcc5302c54320f0800000000000000
+      internalID: -1142993180839588083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 177
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ecf2ab494342560800000000000000
+      internalID: 7288007910375804532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 257
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db13688ab7f496270800000000000000
+      internalID: 8244207985405342141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 177
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeced4a25d5cb230800000000000000
+      internalID: 3655899607052766958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 257
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baf978f6230d0e40800000000000000
+      internalID: 5624154975568001721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8810d462713660800000000000000
+      internalID: 7363792643041037277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a1dc5b40fe50d0800000000000000
+      internalID: -3432041659539283861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6caaaafe6429da0800000000000000
+      internalID: -5939606963373816067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416c38a6ed55d66b0800000000000000
+      internalID: -5301486772587084268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65567a78c2840c610800000000000000
+      internalID: 1639389620454516054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 17
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8593befae44aa20800000000000000
+      internalID: 3072667363246168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd52dd207e72d4e0800000000000000
+      internalID: -1958363867682546230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 17
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ec109a91fd8f80800000000000000
+      internalID: -8102554508424584979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 97
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daadd7454a5b34c50800000000000000
+      internalID: 6648357192325782189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 17
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808859aa2c78d6f40800000000000000
+      internalID: 5723379971613100040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish-scales_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 97
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a132e0f7d4d0d3d0800000000000000
+      internalID: -3183810912626527831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fish-scales_0: -3196060387360781759
+      fish-scales_1: 4034355805852042688
+      fish-scales_10: 3713401049345894894
+      fish-scales_11: 8113082709672594603
+      fish-scales_12: -4563979092772790303
+      fish-scales_13: -8258167920470879535
+      fish-scales_14: 692917656699949464
+      fish-scales_15: 3788835652276575584
+      fish-scales_16: 119500281122803692
+      fish-scales_17: -1142993180839588083
+      fish-scales_18: 7288007910375804532
+      fish-scales_19: 8244207985405342141
+      fish-scales_2: -8402229929963076459
+      fish-scales_20: 3655899607052766958
+      fish-scales_21: 5624154975568001721
+      fish-scales_22: 7363792643041037277
+      fish-scales_23: -3432041659539283861
+      fish-scales_24: -5939606963373816067
+      fish-scales_25: -5301486772587084268
+      fish-scales_26: 1639389620454516054
+      fish-scales_27: 3072667363246168302
+      fish-scales_28: -1958363867682546230
+      fish-scales_29: -8102554508424584979
+      fish-scales_3: 6856930183247173026
+      fish-scales_30: 6648357192325782189
+      fish-scales_31: 5723379971613100040
+      fish-scales_32: -3183810912626527831
+      fish-scales_4: 3148582758818863300
+      fish-scales_5: 7817895074025179213
+      fish-scales_6: 6747351991483972636
+      fish-scales_7: -3371984077630413545
+      fish-scales_8: -7450621464487392294
+      fish-scales_9: -2860468631691215563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

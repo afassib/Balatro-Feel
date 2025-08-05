@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 88b6d1f9ec9719c46bf15564da8c6b8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7511582841961650425
+    second: finger-print_0
+  - first:
+      213: 7974027753721534370
+    second: finger-print_1
+  - first:
+      213: -7712585638579106827
+    second: finger-print_2
+  - first:
+      213: -7748716027835137686
+    second: finger-print_3
+  - first:
+      213: -6977481109773897675
+    second: finger-print_4
+  - first:
+      213: 7683733035473575305
+    second: finger-print_5
+  - first:
+      213: -8190280569222315057
+    second: finger-print_6
+  - first:
+      213: -2047580132278447925
+    second: finger-print_7
+  - first:
+      213: 4373936963795315205
+    second: finger-print_8
+  - first:
+      213: -4470200469666124746
+    second: finger-print_9
+  - first:
+      213: 7810693316557493534
+    second: finger-print_10
+  - first:
+      213: 13329054536928041
+    second: finger-print_11
+  - first:
+      213: -451175917682206682
+    second: finger-print_12
+  - first:
+      213: -4146168012988276594
+    second: finger-print_13
+  - first:
+      213: 74549353985300902
+    second: finger-print_14
+  - first:
+      213: 4057112542614389969
+    second: finger-print_15
+  - first:
+      213: 959860365802664855
+    second: finger-print_16
+  - first:
+      213: 5170540909438979994
+    second: finger-print_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finger-print_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 304
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e4fb043f71c790800000000000000
+      internalID: -7511582841961650425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 283
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a79da96eff69ae60800000000000000
+      internalID: 7974027753721534370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 297
+        width: 255
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb86b8893467f490800000000000000
+      internalID: -7712585638579106827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 107
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61c28fb3d7077490800000000000000
+      internalID: -7748716027835137686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 201
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530bde026e10b2f90800000000000000
+      internalID: -6977481109773897675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 178
+        width: 164
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d16505c7a12aa60800000000000000
+      internalID: 7683733035473575305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 40
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc348bc5737465e80800000000000000
+      internalID: -8190280569222315057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 165
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0556ed7b88593e0800000000000000
+      internalID: -2047580132278447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 117
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a68f49e7853bc30800000000000000
+      internalID: 4373936963795315205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 150
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c24c26b58a6f1c0800000000000000
+      internalID: -4470200469666124746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e155de64038256c60800000000000000
+      internalID: 7810693316557493534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8dd854ba5f2000800000000000000
+      internalID: 13329054536928041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 125
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628575fa4e91db9f0800000000000000
+      internalID: -451175917682206682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 89
+        width: 181
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802fb6d82ad576c0800000000000000
+      internalID: -4146168012988276594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 182
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a957821e3ad80100800000000000000
+      internalID: 74549353985300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 98
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4005cac52cd4830800000000000000
+      internalID: 4057112542614389969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 42
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f4a9caeb125d00800000000000000
+      internalID: 959860365802664855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger-print_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f4cbbff8371c740800000000000000
+      internalID: 5170540909438979994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      finger-print_0: -7511582841961650425
+      finger-print_1: 7974027753721534370
+      finger-print_10: 7810693316557493534
+      finger-print_11: 13329054536928041
+      finger-print_12: -451175917682206682
+      finger-print_13: -4146168012988276594
+      finger-print_14: 74549353985300902
+      finger-print_15: 4057112542614389969
+      finger-print_16: 959860365802664855
+      finger-print_17: 5170540909438979994
+      finger-print_2: -7712585638579106827
+      finger-print_3: -7748716027835137686
+      finger-print_4: -6977481109773897675
+      finger-print_5: 7683733035473575305
+      finger-print_6: -8190280569222315057
+      finger-print_7: -2047580132278447925
+      finger-print_8: 4373936963795315205
+      finger-print_9: -4470200469666124746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

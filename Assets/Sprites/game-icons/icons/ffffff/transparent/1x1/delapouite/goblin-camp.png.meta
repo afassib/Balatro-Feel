@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 1062b7f833a4e334c9e14e6c8ee0f695
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7824764793458110219
+    second: goblin-camp_0
+  - first:
+      213: 8797037216978710810
+    second: goblin-camp_1
+  - first:
+      213: 5069007132510911331
+    second: goblin-camp_2
+  - first:
+      213: 6524234086518183725
+    second: goblin-camp_3
+  - first:
+      213: 5565672713782738689
+    second: goblin-camp_4
+  - first:
+      213: -8680552881917261676
+    second: goblin-camp_5
+  - first:
+      213: -6131990621920471553
+    second: goblin-camp_6
+  - first:
+      213: -7988688718383534961
+    second: goblin-camp_7
+  - first:
+      213: 7182530003026735076
+    second: goblin-camp_8
+  - first:
+      213: -11490462670317258
+    second: goblin-camp_9
+  - first:
+      213: 9111337109390272052
+    second: goblin-camp_10
+  - first:
+      213: -389011725360795276
+    second: goblin-camp_11
+  - first:
+      213: 670881584803545770
+    second: goblin-camp_12
+  - first:
+      213: 6510560868288040483
+    second: goblin-camp_13
+  - first:
+      213: 1377460675226969752
+    second: goblin-camp_14
+  - first:
+      213: -8971390286368904773
+    second: goblin-camp_15
+  - first:
+      213: 815039942729742084
+    second: goblin-camp_16
+  - first:
+      213: -2554030951395201289
+    second: goblin-camp_17
+  - first:
+      213: -6259565830636293717
+    second: goblin-camp_18
+  - first:
+      213: -5387527179276256470
+    second: goblin-camp_19
+  - first:
+      213: -8893971389510706408
+    second: goblin-camp_20
+  - first:
+      213: 4553670557981017987
+    second: goblin-camp_21
+  - first:
+      213: 7426345805954689917
+    second: goblin-camp_22
+  - first:
+      213: -4562425333901171320
+    second: goblin-camp_23
+  - first:
+      213: 5167723015402169578
+    second: goblin-camp_24
+  - first:
+      213: 8552511747385321212
+    second: goblin-camp_25
+  - first:
+      213: 2102362305543998990
+    second: goblin-camp_26
+  - first:
+      213: -4324026271128901144
+    second: goblin-camp_27
+  - first:
+      213: -881903826472133590
+    second: goblin-camp_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin-camp_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 403
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fad0d4f16279c60800000000000000
+      internalID: 7824764793458110219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 383
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1138e97dba551a70800000000000000
+      internalID: 8797037216978710810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 352
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bfb39512bb85640800000000000000
+      internalID: 5069007132510911331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 397
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275966b55cba8a50800000000000000
+      internalID: 6524234086518183725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 364
+        width: 160
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fba1158dd3d3d40800000000000000
+      internalID: 5565672713782738689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 358
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498045b352b788780800000000000000
+      internalID: -8680552881917261676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 325
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5576e940bc6eaa0800000000000000
+      internalID: -6131990621920471553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 265
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c249fbfe9722190800000000000000
+      internalID: -7988688718383534961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 326
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6efaabf87da360800000000000000
+      internalID: 7182530003026735076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 268
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391b3e2c7d27dff0800000000000000
+      internalID: -11490462670317258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 23
+        width: 82
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436aa0ab3d8f17e70800000000000000
+      internalID: 9111337109390272052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 101
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471786895e3f99af0800000000000000
+      internalID: -389011725360795276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 78
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa201943f337f4900800000000000000
+      internalID: 670881584803545770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 226
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0ed28d982a5a50800000000000000
+      internalID: 6510560868288040483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 241
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89629fe9f29bd1310800000000000000
+      internalID: 1377460675226969752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 226
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9679721183f7380800000000000000
+      internalID: -8971390286368904773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 227
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4073928728a9f4b00800000000000000
+      internalID: 815039942729742084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6cbca1624e8cd0800000000000000
+      internalID: -2554030951395201289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba130c8aa0e8129a0800000000000000
+      internalID: -6259565830636293717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 208
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf9752398ab35b0800000000000000
+      internalID: -5387527179276256470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 53
+        width: 108
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1abdb424429480800000000000000
+      internalID: -8893971389510706408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 102
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870d900f33e13f30800000000000000
+      internalID: 4553670557981017987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b242ff92eaf0760800000000000000
+      internalID: 7426345805954689917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e392e4520fa0c0800000000000000
+      internalID: -4562425333901171320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae428a6e3b077b740800000000000000
+      internalID: 5167723015402169578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 64
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e1400f10a0b670800000000000000
+      internalID: 8552511747385321212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e0f1bc0671d2d10800000000000000
+      internalID: 2102362305543998990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 22
+        width: 198
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9a7ed1409fdf3c0800000000000000
+      internalID: -4324026271128901144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin-camp_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 23
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c12117429d2c3f0800000000000000
+      internalID: -881903826472133590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goblin-camp_0: 7824764793458110219
+      goblin-camp_1: 8797037216978710810
+      goblin-camp_10: 9111337109390272052
+      goblin-camp_11: -389011725360795276
+      goblin-camp_12: 670881584803545770
+      goblin-camp_13: 6510560868288040483
+      goblin-camp_14: 1377460675226969752
+      goblin-camp_15: -8971390286368904773
+      goblin-camp_16: 815039942729742084
+      goblin-camp_17: -2554030951395201289
+      goblin-camp_18: -6259565830636293717
+      goblin-camp_19: -5387527179276256470
+      goblin-camp_2: 5069007132510911331
+      goblin-camp_20: -8893971389510706408
+      goblin-camp_21: 4553670557981017987
+      goblin-camp_22: 7426345805954689917
+      goblin-camp_23: -4562425333901171320
+      goblin-camp_24: 5167723015402169578
+      goblin-camp_25: 8552511747385321212
+      goblin-camp_26: 2102362305543998990
+      goblin-camp_27: -4324026271128901144
+      goblin-camp_28: -881903826472133590
+      goblin-camp_3: 6524234086518183725
+      goblin-camp_4: 5565672713782738689
+      goblin-camp_5: -8680552881917261676
+      goblin-camp_6: -6131990621920471553
+      goblin-camp_7: -7988688718383534961
+      goblin-camp_8: 7182530003026735076
+      goblin-camp_9: -11490462670317258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

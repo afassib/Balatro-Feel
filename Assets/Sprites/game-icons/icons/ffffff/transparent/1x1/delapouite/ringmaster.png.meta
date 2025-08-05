@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 8c2f040702ec49b4fabd06fe5101621c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7548940122416435308
+    second: ringmaster_0
+  - first:
+      213: -6391428837841559979
+    second: ringmaster_1
+  - first:
+      213: -2297273594592925135
+    second: ringmaster_2
+  - first:
+      213: 2118667099245511751
+    second: ringmaster_3
+  - first:
+      213: -8581987338648427024
+    second: ringmaster_4
+  - first:
+      213: -3079618655532461405
+    second: ringmaster_5
+  - first:
+      213: -5195157302013134097
+    second: ringmaster_6
+  - first:
+      213: 6776952980140775117
+    second: ringmaster_7
+  - first:
+      213: 6725320170972903650
+    second: ringmaster_8
+  - first:
+      213: -6589355564266630779
+    second: ringmaster_9
+  - first:
+      213: -4866906290463252401
+    second: ringmaster_10
+  - first:
+      213: -8634137087765188316
+    second: ringmaster_11
+  - first:
+      213: -573730725151048429
+    second: ringmaster_12
+  - first:
+      213: -2467587851078398798
+    second: ringmaster_13
+  - first:
+      213: 2590956205546647115
+    second: ringmaster_14
+  - first:
+      213: -4566105322517744396
+    second: ringmaster_15
+  - first:
+      213: -1571323738716495909
+    second: ringmaster_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ringmaster_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 409
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60535b9b0933c860800000000000000
+      internalID: 7548940122416435308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 336
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1441d5551d47a0800000000000000
+      internalID: -6391428837841559979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 297
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a676256d17e10e0800000000000000
+      internalID: -2297273594592925135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 338
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74406d76084076d10800000000000000
+      internalID: 2118667099245511751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 201
+        width: 26
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e5fc1cf7a6e880800000000000000
+      internalID: -8581987338648427024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 239
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a25259362ff245d0800000000000000
+      internalID: -3079618655532461405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 276
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feafa3d75f717e7b0800000000000000
+      internalID: -5195157302013134097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6d0d064d29c0e50800000000000000
+      internalID: 6776952980140775117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 180
+        width: 129
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8fb9f2013255d50800000000000000
+      internalID: 6725320170972903650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 158
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d425b608ed84a0800000000000000
+      internalID: -6589355564266630779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 183
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e2d9c386457cb0800000000000000
+      internalID: -4866906290463252401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 96
+        width: 27
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fab570126d2880800000000000000
+      internalID: -8634137087765188316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df4aaf1f2b908f0800000000000000
+      internalID: -573730725151048429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 177
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc076c5ced51cdd0800000000000000
+      internalID: -2467587851078398798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea33401fce4f320800000000000000
+      internalID: 2590956205546647115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43f44c66fe1a0c0800000000000000
+      internalID: -4566105322517744396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ringmaster_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1aa68269813ae0800000000000000
+      internalID: -1571323738716495909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ringmaster_0: 7548940122416435308
+      ringmaster_1: -6391428837841559979
+      ringmaster_10: -4866906290463252401
+      ringmaster_11: -8634137087765188316
+      ringmaster_12: -573730725151048429
+      ringmaster_13: -2467587851078398798
+      ringmaster_14: 2590956205546647115
+      ringmaster_15: -4566105322517744396
+      ringmaster_16: -1571323738716495909
+      ringmaster_2: -2297273594592925135
+      ringmaster_3: 2118667099245511751
+      ringmaster_4: -8581987338648427024
+      ringmaster_5: -3079618655532461405
+      ringmaster_6: -5195157302013134097
+      ringmaster_7: 6776952980140775117
+      ringmaster_8: 6725320170972903650
+      ringmaster_9: -6589355564266630779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

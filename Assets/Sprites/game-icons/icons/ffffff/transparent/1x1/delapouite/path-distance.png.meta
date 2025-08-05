@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: 465602b9ae312e84f831159c92482fed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2436799864056126847
+    second: path-distance_0
+  - first:
+      213: -5803311433003075465
+    second: path-distance_1
+  - first:
+      213: 1440543210440625909
+    second: path-distance_2
+  - first:
+      213: 4394475573650006402
+    second: path-distance_3
+  - first:
+      213: 8536695014644456512
+    second: path-distance_4
+  - first:
+      213: 677806192056271329
+    second: path-distance_5
+  - first:
+      213: -8099086879767935410
+    second: path-distance_6
+  - first:
+      213: 2687477543763766840
+    second: path-distance_7
+  - first:
+      213: -6826620994871807196
+    second: path-distance_8
+  - first:
+      213: 900602023653781443
+    second: path-distance_9
+  - first:
+      213: -2333106747776533598
+    second: path-distance_10
+  - first:
+      213: -5098168088877876429
+    second: path-distance_11
+  - first:
+      213: -2160460608927042616
+    second: path-distance_12
+  - first:
+      213: -6242905345215660205
+    second: path-distance_13
+  - first:
+      213: -310657197413249334
+    second: path-distance_14
+  - first:
+      213: -282624059007760629
+    second: path-distance_15
+  - first:
+      213: 6731180241968330667
+    second: path-distance_16
+  - first:
+      213: -1845178471579047701
+    second: path-distance_17
+  - first:
+      213: -5792269204674773182
+    second: path-distance_18
+  - first:
+      213: -344954823412023244
+    second: path-distance_19
+  - first:
+      213: 6553352528526134524
+    second: path-distance_20
+  - first:
+      213: 5648089427669823993
+    second: path-distance_21
+  - first:
+      213: -3003025385861941343
+    second: path-distance_22
+  - first:
+      213: -2943194688213842729
+    second: path-distance_23
+  - first:
+      213: -4073984670570360180
+    second: path-distance_24
+  - first:
+      213: -7496633248361918369
+    second: path-distance_25
+  - first:
+      213: -4263595714405642684
+    second: path-distance_26
+  - first:
+      213: 1260660660852781544
+    second: path-distance_27
+  - first:
+      213: 6347498778884432287
+    second: path-distance_28
+  - first:
+      213: -6307458499936212521
+    second: path-distance_29
+  - first:
+      213: -2168958322122485716
+    second: path-distance_30
+  - first:
+      213: 7760160962757789491
+    second: path-distance_31
+  - first:
+      213: -5352201800949436013
+    second: path-distance_32
+  - first:
+      213: -6461654325030499731
+    second: path-distance_33
+  - first:
+      213: 7288564338611837278
+    second: path-distance_34
+  - first:
+      213: 7084448756035708405
+    second: path-distance_35
+  - first:
+      213: -274339593852793106
+    second: path-distance_36
+  - first:
+      213: -5438065698717189469
+    second: path-distance_37
+  - first:
+      213: -5708898617206182269
+    second: path-distance_38
+  - first:
+      213: -2160585613694982045
+    second: path-distance_39
+  - first:
+      213: 686086391950783876
+    second: path-distance_40
+  - first:
+      213: 5500589627925700544
+    second: path-distance_41
+  - first:
+      213: -3734288084646720524
+    second: path-distance_42
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: path-distance_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 290
+        width: 131
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d19cdc09041d120800000000000000
+      internalID: 2436799864056126847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 404
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77873eabffe767fa0800000000000000
+      internalID: -5803311433003075465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 420
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0ae5ea66ddf310800000000000000
+      internalID: 1440543210440625909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 430
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2812a8550405cfc30800000000000000
+      internalID: 4394475573650006402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 427
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1bbfe2ee687670800000000000000
+      internalID: 8536695014644456512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 404
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10318f32d086900800000000000000
+      internalID: 677806192056271329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 366
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c766c4634a9f80800000000000000
+      internalID: -8099086879767935410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 386
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee0e15696db4520800000000000000
+      internalID: 2687477543763766840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 372
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233178cf58f241a0800000000000000
+      internalID: -6826620994871807196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 323
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa1e7d4c49f7c00800000000000000
+      internalID: 900602023653781443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 345
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab76b336c32f9fd0800000000000000
+      internalID: -2333106747776533598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 337
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb339622baf39b0800000000000000
+      internalID: -5098168088877876429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 299
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3fda5d5808402e0800000000000000
+      internalID: -2160460608927042616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 293
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f78043aaebc59a0800000000000000
+      internalID: -6242905345215660205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 313
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec345cce250bbf0800000000000000
+      internalID: -310657197413249334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070ddd6aeae31cf0800000000000000
+      internalID: -282624059007760629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba776a944c4f96d50800000000000000
+      internalID: 6731180241968330667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 262
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8255ec4fb9466e0800000000000000
+      internalID: -1845178471579047701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 277
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ffcebd8d9bd9fa0800000000000000
+      internalID: -5792269204674773182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 233
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43008fe6a69763bf0800000000000000
+      internalID: -344954823412023244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 247
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc45be476f22fa50800000000000000
+      internalID: 6553352528526134524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 50
+        width: 131
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f136ebd86b026e40800000000000000
+      internalID: 5648089427669823993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 205
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f730825c1356d0800000000000000
+      internalID: -3003025385861941343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 219
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48238560ca727d0800000000000000
+      internalID: -2943194688213842729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 173
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82544ae68c4677c0800000000000000
+      internalID: -4073984670570360180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 190
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50510c87cb96f790800000000000000
+      internalID: -7496633248361918369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e49f8894aa4d4c0800000000000000
+      internalID: -4263595714405642684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 154
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e170781134ce7110800000000000000
+      internalID: 1260660660852781544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91e1a74288d61850800000000000000
+      internalID: 6347498778884432287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a8c3a9e76778a0800000000000000
+      internalID: -6307458499936212521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20134dc5ef46e1e0800000000000000
+      internalID: -2168958322122485716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 93
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370801d741a1bb60800000000000000
+      internalID: 7760160962757789491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f338b1d829b5b0800000000000000
+      internalID: -5352201800949436013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 120
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac03f60a79356a0800000000000000
+      internalID: -6461654325030499731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59d98546ae262560800000000000000
+      internalID: 7288564338611837278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_35
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 92
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f567fccb94015260800000000000000
+      internalID: 7084448756035708405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee4498c799513cf0800000000000000
+      internalID: -274339593852793106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aab9b22f0c1884b0800000000000000
+      internalID: -5438065698717189469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 61
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ee4b664fae5c0b0800000000000000
+      internalID: -5708898617206182269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36824e4e4de0402e0800000000000000
+      internalID: -2160585613694982045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b47d30f7758900800000000000000
+      internalID: 686086391950783876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 31
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf95bb8f15065c40800000000000000
+      internalID: 5500589627925700544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-distance_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 20
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb88a9a5c42d2cc0800000000000000
+      internalID: -3734288084646720524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      path-distance_0: 2436799864056126847
+      path-distance_1: -5803311433003075465
+      path-distance_10: -2333106747776533598
+      path-distance_11: -5098168088877876429
+      path-distance_12: -2160460608927042616
+      path-distance_13: -6242905345215660205
+      path-distance_14: -310657197413249334
+      path-distance_15: -282624059007760629
+      path-distance_16: 6731180241968330667
+      path-distance_17: -1845178471579047701
+      path-distance_18: -5792269204674773182
+      path-distance_19: -344954823412023244
+      path-distance_2: 1440543210440625909
+      path-distance_20: 6553352528526134524
+      path-distance_21: 5648089427669823993
+      path-distance_22: -3003025385861941343
+      path-distance_23: -2943194688213842729
+      path-distance_24: -4073984670570360180
+      path-distance_25: -7496633248361918369
+      path-distance_26: -4263595714405642684
+      path-distance_27: 1260660660852781544
+      path-distance_28: 6347498778884432287
+      path-distance_29: -6307458499936212521
+      path-distance_3: 4394475573650006402
+      path-distance_30: -2168958322122485716
+      path-distance_31: 7760160962757789491
+      path-distance_32: -5352201800949436013
+      path-distance_33: -6461654325030499731
+      path-distance_34: 7288564338611837278
+      path-distance_35: 7084448756035708405
+      path-distance_36: -274339593852793106
+      path-distance_37: -5438065698717189469
+      path-distance_38: -5708898617206182269
+      path-distance_39: -2160585613694982045
+      path-distance_4: 8536695014644456512
+      path-distance_40: 686086391950783876
+      path-distance_41: 5500589627925700544
+      path-distance_42: -3734288084646720524
+      path-distance_5: 677806192056271329
+      path-distance_6: -8099086879767935410
+      path-distance_7: 2687477543763766840
+      path-distance_8: -6826620994871807196
+      path-distance_9: 900602023653781443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

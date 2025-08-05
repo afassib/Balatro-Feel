@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 5f5021aed14cc9c409d8e5abc87ae2d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8326172958151952395
+    second: armadillo_0
+  - first:
+      213: 514656175866334182
+    second: armadillo_1
+  - first:
+      213: 6477845986814217903
+    second: armadillo_2
+  - first:
+      213: 350590358083549532
+    second: armadillo_3
+  - first:
+      213: -1148374250472237440
+    second: armadillo_4
+  - first:
+      213: 125826295178042315
+    second: armadillo_5
+  - first:
+      213: -7627275540002066420
+    second: armadillo_6
+  - first:
+      213: -946671351667078161
+    second: armadillo_7
+  - first:
+      213: 7212761468803570307
+    second: armadillo_8
+  - first:
+      213: 2863604615978154414
+    second: armadillo_9
+  - first:
+      213: 42293529710493020
+    second: armadillo_10
+  - first:
+      213: -3106220586800671024
+    second: armadillo_11
+  - first:
+      213: 5935520459535002756
+    second: armadillo_12
+  - first:
+      213: -6963997716028566342
+    second: armadillo_13
+  - first:
+      213: -7416729688597702252
+    second: armadillo_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armadillo_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 202
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b3eafecd737c80800000000000000
+      internalID: -8326172958151952395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 58
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb49ffa01d642700800000000000000
+      internalID: 514656175866334182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 55
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae40c99a9ee5e950800000000000000
+      internalID: 6477845986814217903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 211
+        width: 52
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593f3bb21c8dd400800000000000000
+      internalID: 350590358083549532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 211
+        width: 46
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086956b14b72010f0800000000000000
+      internalID: -1148374250472237440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 212
+        width: 121
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb9d7b49560fb100800000000000000
+      internalID: 125826295178042315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 323
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b622be49762690800000000000000
+      internalID: -7627275540002066420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 287
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb48dcdb6fbcd2f0800000000000000
+      internalID: -946671351667078161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 175
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a59ad4750e81460800000000000000
+      internalID: 7212761468803570307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fb88e9319db720800000000000000
+      internalID: 2863604615978154414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 177
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5df0bebdb1469000800000000000000
+      internalID: 42293529710493020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 134
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69db175dc74e4d0800000000000000
+      internalID: -3106220586800671024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 136
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ca5a309643f5250800000000000000
+      internalID: 5935520459535002756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 139
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab45c7f59f8ea5f90800000000000000
+      internalID: -6963997716028566342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadillo_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995a0cc4ab721990800000000000000
+      internalID: -7416729688597702252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      armadillo_0: -8326172958151952395
+      armadillo_1: 514656175866334182
+      armadillo_10: 42293529710493020
+      armadillo_11: -3106220586800671024
+      armadillo_12: 5935520459535002756
+      armadillo_13: -6963997716028566342
+      armadillo_14: -7416729688597702252
+      armadillo_2: 6477845986814217903
+      armadillo_3: 350590358083549532
+      armadillo_4: -1148374250472237440
+      armadillo_5: 125826295178042315
+      armadillo_6: -7627275540002066420
+      armadillo_7: -946671351667078161
+      armadillo_8: 7212761468803570307
+      armadillo_9: 2863604615978154414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

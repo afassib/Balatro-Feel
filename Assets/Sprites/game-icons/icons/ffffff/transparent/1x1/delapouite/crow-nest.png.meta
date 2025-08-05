@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 7418547787e12df4091e4474e8eeb906
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 508389815896090124
+    second: crow-nest_0
+  - first:
+      213: 8714444828586076279
+    second: crow-nest_1
+  - first:
+      213: -4775799736464506756
+    second: crow-nest_2
+  - first:
+      213: -2635034949064589423
+    second: crow-nest_3
+  - first:
+      213: -8702215997448542430
+    second: crow-nest_4
+  - first:
+      213: 7793613108706292746
+    second: crow-nest_5
+  - first:
+      213: -5378604221530936074
+    second: crow-nest_6
+  - first:
+      213: 2899078700261089531
+    second: crow-nest_7
+  - first:
+      213: 7858930974943909899
+    second: crow-nest_8
+  - first:
+      213: -4483130498441564791
+    second: crow-nest_9
+  - first:
+      213: -2372552160022789168
+    second: crow-nest_10
+  - first:
+      213: -2325726369286292697
+    second: crow-nest_11
+  - first:
+      213: 8990465868300044008
+    second: crow-nest_12
+  - first:
+      213: 7438810333966464816
+    second: crow-nest_13
+  - first:
+      213: 6418180186642747379
+    second: crow-nest_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crow-nest_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 370
+        width: 158
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06a9ef08d92e0700800000000000000
+      internalID: 508389815896090124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 264
+        width: 47
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778ec96866defe870800000000000000
+      internalID: 8714444828586076279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 352
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7001a56173f8bdb0800000000000000
+      internalID: -4775799736464506756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 373
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff342cca97e6bd0800000000000000
+      internalID: -2635034949064589423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 264
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227ab5918a48b3780800000000000000
+      internalID: -8702215997448542430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 200
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04344d74d9782c60800000000000000
+      internalID: 7793613108706292746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc6b3425fb5b55b0800000000000000
+      internalID: -5378604221530936074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 200
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a6f8c7b89b3820800000000000000
+      internalID: 2899078700261089531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 136
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0898d35518801d60800000000000000
+      internalID: 7858930974943909899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 136
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98daba67098b8c1c0800000000000000
+      internalID: -4483130498441564791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 136
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d381ca7160031fd0800000000000000
+      internalID: -2372552160022789168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7ee9703c59bfd0800000000000000
+      internalID: -2325726369286292697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 96
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e64c4dd21d84cc70800000000000000
+      internalID: 8990465868300044008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03773931696fb3760800000000000000
+      internalID: 7438810333966464816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crow-nest_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff8a41ffd4f11950800000000000000
+      internalID: 6418180186642747379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crow-nest_0: 508389815896090124
+      crow-nest_1: 8714444828586076279
+      crow-nest_10: -2372552160022789168
+      crow-nest_11: -2325726369286292697
+      crow-nest_12: 8990465868300044008
+      crow-nest_13: 7438810333966464816
+      crow-nest_14: 6418180186642747379
+      crow-nest_2: -4775799736464506756
+      crow-nest_3: -2635034949064589423
+      crow-nest_4: -8702215997448542430
+      crow-nest_5: 7793613108706292746
+      crow-nest_6: -5378604221530936074
+      crow-nest_7: 2899078700261089531
+      crow-nest_8: 7858930974943909899
+      crow-nest_9: -4483130498441564791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

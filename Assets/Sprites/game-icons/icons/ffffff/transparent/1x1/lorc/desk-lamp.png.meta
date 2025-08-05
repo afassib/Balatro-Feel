@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: ffe0cd040e030be42955cf53d266c308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1182457065264980780
+    second: desk-lamp_0
+  - first:
+      213: 5105576150059927841
+    second: desk-lamp_1
+  - first:
+      213: -8390561656788542766
+    second: desk-lamp_2
+  - first:
+      213: 9140158117435920057
+    second: desk-lamp_3
+  - first:
+      213: 2725497569467993279
+    second: desk-lamp_4
+  - first:
+      213: 9206982440002906398
+    second: desk-lamp_5
+  - first:
+      213: -6409460319014840476
+    second: desk-lamp_6
+  - first:
+      213: -2326725722600481913
+    second: desk-lamp_7
+  - first:
+      213: 7785525632118415293
+    second: desk-lamp_8
+  - first:
+      213: -5113310185113207146
+    second: desk-lamp_9
+  - first:
+      213: 3518636356390371677
+    second: desk-lamp_10
+  - first:
+      213: 1198431845168698980
+    second: desk-lamp_11
+  - first:
+      213: -3258699925532185874
+    second: desk-lamp_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desk-lamp_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 273
+        width: 235
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2325499f6ee86010800000000000000
+      internalID: 1182457065264980780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 390
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129470e3576aad640800000000000000
+      internalID: 5105576150059927841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 346
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1b15d0acbe8b80800000000000000
+      internalID: -8390561656788542766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 250
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9becba4916d58de70800000000000000
+      internalID: 9140158117435920057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 164
+        width: 26
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc84506999e2d520800000000000000
+      internalID: 2725497569467993279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 182
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19e1ad9fb5c5cf70800000000000000
+      internalID: 9206982440002906398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 264
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46798237cc50d07a0800000000000000
+      internalID: -6409460319014840476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 212
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b52a6684fc5bfd0800000000000000
+      internalID: -2326725722600481913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 173
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfdd1c105ebb0c60800000000000000
+      internalID: 7785525632118415293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb0f56a7fd909b0800000000000000
+      internalID: -5113310185113207146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 95
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d514c64af15b4d030800000000000000
+      internalID: 3518636356390371677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466dbc2e96fa1a010800000000000000
+      internalID: 1198431845168698980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk-lamp_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 255
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaef0ddea5c6c2d0800000000000000
+      internalID: -3258699925532185874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      desk-lamp_0: 1182457065264980780
+      desk-lamp_1: 5105576150059927841
+      desk-lamp_10: 3518636356390371677
+      desk-lamp_11: 1198431845168698980
+      desk-lamp_12: -3258699925532185874
+      desk-lamp_2: -8390561656788542766
+      desk-lamp_3: 9140158117435920057
+      desk-lamp_4: 2725497569467993279
+      desk-lamp_5: 9206982440002906398
+      desk-lamp_6: -6409460319014840476
+      desk-lamp_7: -2326725722600481913
+      desk-lamp_8: 7785525632118415293
+      desk-lamp_9: -5113310185113207146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

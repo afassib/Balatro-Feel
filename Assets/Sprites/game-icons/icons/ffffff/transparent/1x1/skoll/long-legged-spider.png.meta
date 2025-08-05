@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: da2b534f27863234b95a56a54377b720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5723828537855600905
+    second: long-legged-spider_0
+  - first:
+      213: -4312656099993793949
+    second: long-legged-spider_1
+  - first:
+      213: 6658833795229835106
+    second: long-legged-spider_2
+  - first:
+      213: 8292243758351227615
+    second: long-legged-spider_3
+  - first:
+      213: -147720325981248255
+    second: long-legged-spider_4
+  - first:
+      213: -8589949240158992375
+    second: long-legged-spider_5
+  - first:
+      213: -2491975523282395131
+    second: long-legged-spider_6
+  - first:
+      213: -7538784088523898438
+    second: long-legged-spider_7
+  - first:
+      213: 3343351143499282236
+    second: long-legged-spider_8
+  - first:
+      213: 3141332990681239728
+    second: long-legged-spider_9
+  - first:
+      213: 6021030026532368486
+    second: long-legged-spider_10
+  - first:
+      213: -7502960179242134833
+    second: long-legged-spider_11
+  - first:
+      213: -2614891349394450174
+    second: long-legged-spider_12
+  - first:
+      213: -5726172134444720517
+    second: long-legged-spider_13
+  - first:
+      213: 6908143786821477248
+    second: long-legged-spider_14
+  - first:
+      213: -2407652555561250520
+    second: long-legged-spider_15
+  - first:
+      213: 780735753903052587
+    second: long-legged-spider_16
+  - first:
+      213: -2716063705635621435
+    second: long-legged-spider_17
+  - first:
+      213: -2974921493505548788
+    second: long-legged-spider_18
+  - first:
+      213: 595020161736467286
+    second: long-legged-spider_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: long-legged-spider_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 306
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096022aabf1f6f40800000000000000
+      internalID: 5723828537855600905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac271602e5624c0800000000000000
+      internalID: -4312656099993793949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225
+        width: 99
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5a078e0ee86c50800000000000000
+      internalID: 6658833795229835106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 309
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda997793c7f31370800000000000000
+      internalID: 8292243758351227615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 335
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10568cb652133fdf0800000000000000
+      internalID: -147720325981248255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 195
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908cfa57dae5ac880800000000000000
+      internalID: -8589949240158992375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 267
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e8c1f679ba6dd0800000000000000
+      internalID: -2491975523282395131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 283
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18a2d40dbd06790800000000000000
+      internalID: -7538784088523898438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 229
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37bba3b628f56e20800000000000000
+      internalID: 3343351143499282236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 215
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b055c626b1489b20800000000000000
+      internalID: 3141332990681239728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 249
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603c6988eefe8350800000000000000
+      internalID: 6021030026532368486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 119
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21f58287120e790800000000000000
+      internalID: -7502960179242134833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2091a190c2a06bbd0800000000000000
+      internalID: -2614891349394450174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 154
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e9ea348cc8880b0800000000000000
+      internalID: -5726172134444720517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 201
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e0d65c28aedf50800000000000000
+      internalID: 6908143786821477248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 190
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d53bc1cc469ed0800000000000000
+      internalID: -2407652555561250520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 158
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2796da180bb5da00800000000000000
+      internalID: 780735753903052587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 163
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f146337a9e4ad0800000000000000
+      internalID: -2716063705635621435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 65
+        width: 33
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5de8d9a4f6b6d0800000000000000
+      internalID: -2974921493505548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long-legged-spider_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6536f7e3fafe14800800000000000000
+      internalID: 595020161736467286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      long-legged-spider_0: 5723828537855600905
+      long-legged-spider_1: -4312656099993793949
+      long-legged-spider_10: 6021030026532368486
+      long-legged-spider_11: -7502960179242134833
+      long-legged-spider_12: -2614891349394450174
+      long-legged-spider_13: -5726172134444720517
+      long-legged-spider_14: 6908143786821477248
+      long-legged-spider_15: -2407652555561250520
+      long-legged-spider_16: 780735753903052587
+      long-legged-spider_17: -2716063705635621435
+      long-legged-spider_18: -2974921493505548788
+      long-legged-spider_19: 595020161736467286
+      long-legged-spider_2: 6658833795229835106
+      long-legged-spider_3: 8292243758351227615
+      long-legged-spider_4: -147720325981248255
+      long-legged-spider_5: -8589949240158992375
+      long-legged-spider_6: -2491975523282395131
+      long-legged-spider_7: -7538784088523898438
+      long-legged-spider_8: 3343351143499282236
+      long-legged-spider_9: 3141332990681239728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

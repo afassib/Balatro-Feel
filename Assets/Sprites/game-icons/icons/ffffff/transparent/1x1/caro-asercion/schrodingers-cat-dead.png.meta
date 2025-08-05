@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 8a91cee1b56e6d448bc85ab3a2da73e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2958214862977349715
+    second: schrodingers-cat-dead_0
+  - first:
+      213: 8345586184590576983
+    second: schrodingers-cat-dead_1
+  - first:
+      213: 1137525816736945174
+    second: schrodingers-cat-dead_2
+  - first:
+      213: 2672341088854352823
+    second: schrodingers-cat-dead_3
+  - first:
+      213: -8638870640750009298
+    second: schrodingers-cat-dead_4
+  - first:
+      213: 3492136482657077360
+    second: schrodingers-cat-dead_5
+  - first:
+      213: -5150291139647728866
+    second: schrodingers-cat-dead_6
+  - first:
+      213: 8185764247438365809
+    second: schrodingers-cat-dead_7
+  - first:
+      213: 8422655237688629538
+    second: schrodingers-cat-dead_8
+  - first:
+      213: -8053142912822627492
+    second: schrodingers-cat-dead_9
+  - first:
+      213: -8980720865121808272
+    second: schrodingers-cat-dead_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 368
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da744f2614f42f6d0800000000000000
+      internalID: -2958214862977349715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 328
+        width: 213
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dcde60b6a71d370800000000000000
+      internalID: 8345586184590576983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614117514bd49cf00800000000000000
+      internalID: 1137525816736945174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 292
+        width: 186
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b328d7cf00161520800000000000000
+      internalID: 2672341088854352823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 285
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246b854ce09c1880800000000000000
+      internalID: -8638870640750009298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 154
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07805fbf0af867030800000000000000
+      internalID: 3492136482657077360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 253
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139473fe7d7688b0800000000000000
+      internalID: -5150291139647728866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 195
+        width: 270
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17418a7863da99170800000000000000
+      internalID: 8185764247438365809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 195
+        width: 142
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2299304405843e470800000000000000
+      internalID: 8422655237688629538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b0cb203d7d3090800000000000000
+      internalID: -8053142912822627492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrodingers-cat-dead_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 109
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070d97f74f11e5380800000000000000
+      internalID: -8980720865121808272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      schrodingers-cat-dead_0: -2958214862977349715
+      schrodingers-cat-dead_1: 8345586184590576983
+      schrodingers-cat-dead_10: -8980720865121808272
+      schrodingers-cat-dead_2: 1137525816736945174
+      schrodingers-cat-dead_3: 2672341088854352823
+      schrodingers-cat-dead_4: -8638870640750009298
+      schrodingers-cat-dead_5: 3492136482657077360
+      schrodingers-cat-dead_6: -5150291139647728866
+      schrodingers-cat-dead_7: 8185764247438365809
+      schrodingers-cat-dead_8: 8422655237688629538
+      schrodingers-cat-dead_9: -8053142912822627492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

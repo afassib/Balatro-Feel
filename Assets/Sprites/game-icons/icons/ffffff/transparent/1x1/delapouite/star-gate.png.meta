@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 2a1a8e20aefa3464b80eb793cbdad232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3878934256555427670
+    second: star-gate_0
+  - first:
+      213: -853963158352779935
+    second: star-gate_1
+  - first:
+      213: -3177844246870699933
+    second: star-gate_2
+  - first:
+      213: -1506022222615718938
+    second: star-gate_3
+  - first:
+      213: 6700587157378659877
+    second: star-gate_4
+  - first:
+      213: 6801331140895408487
+    second: star-gate_5
+  - first:
+      213: -1944409353249569432
+    second: star-gate_6
+  - first:
+      213: -1382323718246303899
+    second: star-gate_7
+  - first:
+      213: -3476664624327261651
+    second: star-gate_8
+  - first:
+      213: 2888995883948289562
+    second: star-gate_9
+  - first:
+      213: -3282291699994062910
+    second: star-gate_10
+  - first:
+      213: -6187270034055847449
+    second: star-gate_11
+  - first:
+      213: -1221337919221252174
+    second: star-gate_12
+  - first:
+      213: -8149289601187955987
+    second: star-gate_13
+  - first:
+      213: 579532162607533501
+    second: star-gate_14
+  - first:
+      213: -4892660614247120953
+    second: star-gate_15
+  - first:
+      213: 6954102542268661425
+    second: star-gate_16
+  - first:
+      213: 8919686264745919811
+    second: star-gate_17
+  - first:
+      213: -4898020185771948293
+    second: star-gate_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star-gate_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 397
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87bea58d14b2ac0800000000000000
+      internalID: -3878934256555427670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 420
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ac1f280d1624f0800000000000000
+      internalID: -853963158352779935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 440
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360d0c19e7706e3d0800000000000000
+      internalID: -3177844246870699933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 420
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3552d84c8891be0800000000000000
+      internalID: -1506022222615718938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 397
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267916b4844dfc50800000000000000
+      internalID: 6700587157378659877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 288
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7618fdc33ae236e50800000000000000
+      internalID: 6801331140895408487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 341
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865cc91cef11405e0800000000000000
+      internalID: -1944409353249569432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 179
+        width: 245
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f451f6eff0dce0800000000000000
+      internalID: -1382323718246303899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 341
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228ecfb1f760cfc0800000000000000
+      internalID: -3476664624327261651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ead4c2376c71820800000000000000
+      internalID: 2888995883948289562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 235
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf04a4d615f272d0800000000000000
+      internalID: -3282291699994062910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 235
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1aea28fa6622aa0800000000000000
+      internalID: -6187270034055847449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3a1622afec0fe0800000000000000
+      internalID: -1221337919221252174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 136
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea3865d848e7ee80800000000000000
+      internalID: -8149289601187955987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 136
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc2207e69ea0800800000000000000
+      internalID: 579532162607533501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf71410817c91cb0800000000000000
+      internalID: -4892660614247120953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7093fa6fe18060800000000000000
+      internalID: 6954102542268661425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 198
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3458c16366719cb70800000000000000
+      internalID: 8919686264745919811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-gate_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 24
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ce54879cb60cb0800000000000000
+      internalID: -4898020185771948293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      star-gate_0: -3878934256555427670
+      star-gate_1: -853963158352779935
+      star-gate_10: -3282291699994062910
+      star-gate_11: -6187270034055847449
+      star-gate_12: -1221337919221252174
+      star-gate_13: -8149289601187955987
+      star-gate_14: 579532162607533501
+      star-gate_15: -4892660614247120953
+      star-gate_16: 6954102542268661425
+      star-gate_17: 8919686264745919811
+      star-gate_18: -4898020185771948293
+      star-gate_2: -3177844246870699933
+      star-gate_3: -1506022222615718938
+      star-gate_4: 6700587157378659877
+      star-gate_5: 6801331140895408487
+      star-gate_6: -1944409353249569432
+      star-gate_7: -1382323718246303899
+      star-gate_8: -3476664624327261651
+      star-gate_9: 2888995883948289562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

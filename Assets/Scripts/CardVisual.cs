@@ -29,6 +29,8 @@ public class CardVisual : MonoBehaviour
     [SerializeField] private Image cardImage;
     [SerializeField] private TextMeshProUGUI cardNumber1;
     [SerializeField] private TextMeshProUGUI cardNumber2;
+    [SerializeField] Image frame;
+    [SerializeField] Image outerFrame;
 
     [Header("References Assets Hearts/Diamonds/Spades/Clubs/Joker")]
     public List<Sprite> cardSprites;
@@ -76,6 +78,8 @@ public class CardVisual : MonoBehaviour
     private void Start()
     {
         shadowDistance = visualShadow.localPosition;
+        outerFrame.gameObject.SetActive(false);
+        frame.gameObject.SetActive(true);
     }
 
     public void Initialize(Card target, int index = 0)
@@ -197,15 +201,16 @@ public class CardVisual : MonoBehaviour
 
     private void PointerEnter(Card card)
     {
-        if(scaleAnimations)
+        frame_PointerEnter();
+        if (scaleAnimations)
             transform.DOScale(scaleOnHover, scaleTransition).SetEase(scaleEase);
-
         DOTween.Kill(2, true);
         shakeParent.DOPunchRotation(Vector3.forward * hoverPunchAngle, hoverTransition, 20, 1).SetId(2);
     }
 
     private void PointerExit(Card card)
     {
+        frame_PointerExit();
         if (!parentCard.wasDragged)
             transform.DOScale(1, scaleTransition).SetEase(scaleEase);
     }
@@ -227,6 +232,21 @@ public class CardVisual : MonoBehaviour
             
         visualShadow.localPosition += (-Vector3.up * shadowOffset);
         shadowCanvas.overrideSorting = false;
+    }
+
+
+    // Selection and hover events
+
+    private void frame_PointerEnter()
+    {
+        outerFrame.gameObject.SetActive(true);
+        frame.gameObject.SetActive(false);
+    }
+
+    private void frame_PointerExit()
+    {
+        outerFrame.gameObject.SetActive(false);
+        frame.gameObject.SetActive(true);
     }
 
 }

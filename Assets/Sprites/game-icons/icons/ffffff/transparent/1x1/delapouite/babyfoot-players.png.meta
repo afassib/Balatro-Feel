@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 50bb1f753802cfd42b1251d88cb2a934
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4051145124203129565
+    second: babyfoot-players_0
+  - first:
+      213: -3626371364834259837
+    second: babyfoot-players_1
+  - first:
+      213: 776982064062379156
+    second: babyfoot-players_2
+  - first:
+      213: 1953850303362108627
+    second: babyfoot-players_3
+  - first:
+      213: 6307355772882819358
+    second: babyfoot-players_4
+  - first:
+      213: 2923030901441258265
+    second: babyfoot-players_5
+  - first:
+      213: 2288593521050010985
+    second: babyfoot-players_6
+  - first:
+      213: -1387897899101636180
+    second: babyfoot-players_7
+  - first:
+      213: 2664364410145138852
+    second: babyfoot-players_8
+  - first:
+      213: 2194978977550670617
+    second: babyfoot-players_9
+  - first:
+      213: -7096624622625495252
+    second: babyfoot-players_10
+  - first:
+      213: 4821461576222872050
+    second: babyfoot-players_11
+  - first:
+      213: -692148194625227544
+    second: babyfoot-players_12
+  - first:
+      213: -1129834650154880583
+    second: babyfoot-players_13
+  - first:
+      213: 219490762019305401
+    second: babyfoot-players_14
+  - first:
+      213: 1724443900420718889
+    second: babyfoot-players_15
+  - first:
+      213: -5517955419496752433
+    second: babyfoot-players_16
+  - first:
+      213: -8033992946809801874
+    second: babyfoot-players_17
+  - first:
+      213: -4472351528844307259
+    second: babyfoot-players_18
+  - first:
+      213: -8046553291903515660
+    second: babyfoot-players_19
+  - first:
+      213: 8272308498225719025
+    second: babyfoot-players_20
+  - first:
+      213: 588421203416140858
+    second: babyfoot-players_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: babyfoot-players_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaeeadc60f883830800000000000000
+      internalID: 4051145124203129565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 399
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cc76ff47a8cadc0800000000000000
+      internalID: -3626371364834259837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494b945121568ca00800000000000000
+      internalID: 776982064062379156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc003cbf787d1b10800000000000000
+      internalID: 1953850303362108627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 353
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1990ba58aa388750800000000000000
+      internalID: 6307355772882819358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 328
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91365e33e11b09820800000000000000
+      internalID: 2923030901441258265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 273
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96542719ea7b2cf10800000000000000
+      internalID: 2288593521050010985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 353
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93983d6323dbce0800000000000000
+      internalID: -1387897899101636180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 328
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8e4ea8059b9f420800000000000000
+      internalID: 2664364410145138852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b9b5620c1267e10800000000000000
+      internalID: 2194978977550670617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 193
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ed185189b38d90800000000000000
+      internalID: -7096624622625495252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 145
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f195f422c549e240800000000000000
+      internalID: 4821461576222872050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e47f6752eef466f0800000000000000
+      internalID: -692148194625227544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 145
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1379e2f550250f0800000000000000
+      internalID: -1129834650154880583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 145
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f3a56fa9cb0300800000000000000
+      internalID: 219490762019305401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 93
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9218aa747947ee710800000000000000
+      internalID: 1724443900420718889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca547608c84c63b0800000000000000
+      internalID: -5517955419496752433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6378651bf5818090800000000000000
+      internalID: -8033992946809801874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 93
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c45f84eaf30fe1c0800000000000000
+      internalID: -4472351528844307259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 93
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f347d9d966e45090800000000000000
+      internalID: -8046553291903515660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6603520c42dc270800000000000000
+      internalID: 8272308498225719025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: babyfoot-players_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4de787fd7a2800800000000000000
+      internalID: 588421203416140858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      babyfoot-players_0: 4051145124203129565
+      babyfoot-players_1: -3626371364834259837
+      babyfoot-players_10: -7096624622625495252
+      babyfoot-players_11: 4821461576222872050
+      babyfoot-players_12: -692148194625227544
+      babyfoot-players_13: -1129834650154880583
+      babyfoot-players_14: 219490762019305401
+      babyfoot-players_15: 1724443900420718889
+      babyfoot-players_16: -5517955419496752433
+      babyfoot-players_17: -8033992946809801874
+      babyfoot-players_18: -4472351528844307259
+      babyfoot-players_19: -8046553291903515660
+      babyfoot-players_2: 776982064062379156
+      babyfoot-players_20: 8272308498225719025
+      babyfoot-players_21: 588421203416140858
+      babyfoot-players_3: 1953850303362108627
+      babyfoot-players_4: 6307355772882819358
+      babyfoot-players_5: 2923030901441258265
+      babyfoot-players_6: 2288593521050010985
+      babyfoot-players_7: -1387897899101636180
+      babyfoot-players_8: 2664364410145138852
+      babyfoot-players_9: 2194978977550670617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: fa9d459f25da3ad49a15f455e5ba5ac3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1048338109640828106
+    second: dwarf-helmet_0
+  - first:
+      213: -3023777197999809456
+    second: dwarf-helmet_1
+  - first:
+      213: -705290122298269776
+    second: dwarf-helmet_2
+  - first:
+      213: 4454343668140142623
+    second: dwarf-helmet_3
+  - first:
+      213: -1579060317552424815
+    second: dwarf-helmet_4
+  - first:
+      213: -2659216381478023888
+    second: dwarf-helmet_5
+  - first:
+      213: -2302950867187737523
+    second: dwarf-helmet_6
+  - first:
+      213: 4855192586685395769
+    second: dwarf-helmet_7
+  - first:
+      213: 4678968068004740233
+    second: dwarf-helmet_8
+  - first:
+      213: 3055607923673831382
+    second: dwarf-helmet_9
+  - first:
+      213: -3527540998881734432
+    second: dwarf-helmet_10
+  - first:
+      213: 5272626256719840395
+    second: dwarf-helmet_11
+  - first:
+      213: 4148819333365827037
+    second: dwarf-helmet_12
+  - first:
+      213: 6839108409304184218
+    second: dwarf-helmet_13
+  - first:
+      213: -8649166330224898927
+    second: dwarf-helmet_14
+  - first:
+      213: 4986211967310194171
+    second: dwarf-helmet_15
+  - first:
+      213: 5658043918294724473
+    second: dwarf-helmet_16
+  - first:
+      213: -4649140305888409099
+    second: dwarf-helmet_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwarf-helmet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b9a5a2b0e8371f0800000000000000
+      internalID: -1048338109640828106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 297
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c9b49b8a26906d0800000000000000
+      internalID: -3023777197999809456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 263
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfd1dcde5e4636f0800000000000000
+      internalID: -705290122298269776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 263
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f00f47f101dd30800000000000000
+      internalID: 4454343668140142623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 36
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984f55e10d061ae0800000000000000
+      internalID: -1579060317552424815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 297
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4a194ac0981bd0800000000000000
+      internalID: -2659216381478023888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd81a43664a00e0800000000000000
+      internalID: -2302950867187737523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 263
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9333e750feb116340800000000000000
+      internalID: 4855192586685395769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 263
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c71d8eaa80fe040800000000000000
+      internalID: 4678968068004740233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7927f9733b76a20800000000000000
+      internalID: 3055607923673831382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 33
+        width: 126
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01707b628ab0fc0800000000000000
+      internalID: -3527540998881734432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 151
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840f2915a12c2940800000000000000
+      internalID: 5272626256719840395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 127
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd50b8ac331939930800000000000000
+      internalID: 4148819333365827037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 151
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9576f4fcd469ee50800000000000000
+      internalID: 6839108409304184218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 33
+        width: 126
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0da34c0df7f780800000000000000
+      internalID: -8649166330224898927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 95
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5635ebd55923540800000000000000
+      internalID: 4986211967310194171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 25
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f248157f8658e40800000000000000
+      internalID: 5658043918294724473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-helmet_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 25
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90294268fea7fb0800000000000000
+      internalID: -4649140305888409099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dwarf-helmet_0: -1048338109640828106
+      dwarf-helmet_1: -3023777197999809456
+      dwarf-helmet_10: -3527540998881734432
+      dwarf-helmet_11: 5272626256719840395
+      dwarf-helmet_12: 4148819333365827037
+      dwarf-helmet_13: 6839108409304184218
+      dwarf-helmet_14: -8649166330224898927
+      dwarf-helmet_15: 4986211967310194171
+      dwarf-helmet_16: 5658043918294724473
+      dwarf-helmet_17: -4649140305888409099
+      dwarf-helmet_2: -705290122298269776
+      dwarf-helmet_3: 4454343668140142623
+      dwarf-helmet_4: -1579060317552424815
+      dwarf-helmet_5: -2659216381478023888
+      dwarf-helmet_6: -2302950867187737523
+      dwarf-helmet_7: 4855192586685395769
+      dwarf-helmet_8: 4678968068004740233
+      dwarf-helmet_9: 3055607923673831382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

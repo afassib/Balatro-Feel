@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 00a1abbb9e21dad4ca25b591c9ee190d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4444026889318600518
+    second: stick-frame_0
+  - first:
+      213: 3369834320706204703
+    second: stick-frame_1
+  - first:
+      213: 6756401123884844480
+    second: stick-frame_2
+  - first:
+      213: 6392262922497490312
+    second: stick-frame_3
+  - first:
+      213: -1183093284512705343
+    second: stick-frame_4
+  - first:
+      213: 5595101360736851487
+    second: stick-frame_5
+  - first:
+      213: -7058405474360711712
+    second: stick-frame_6
+  - first:
+      213: -8877023612583355945
+    second: stick-frame_7
+  - first:
+      213: -4611808962076640197
+    second: stick-frame_8
+  - first:
+      213: -5645025621008756802
+    second: stick-frame_9
+  - first:
+      213: 1446259747848948965
+    second: stick-frame_10
+  - first:
+      213: 3335304534978847826
+    second: stick-frame_11
+  - first:
+      213: 3843983652841994918
+    second: stick-frame_12
+  - first:
+      213: 5011641807164887158
+    second: stick-frame_13
+  - first:
+      213: -1013268649650457027
+    second: stick-frame_14
+  - first:
+      213: 4444168250958514366
+    second: stick-frame_15
+  - first:
+      213: 721909352237442416
+    second: stick-frame_16
+  - first:
+      213: 9194400431574026316
+    second: stick-frame_17
+  - first:
+      213: -3180689243199224427
+    second: stick-frame_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stick-frame_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 450
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f8e1e09ea5cad30800000000000000
+      internalID: 4444026889318600518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 425
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fc95e57e04ce20800000000000000
+      internalID: 3369834320706204703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 448
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c435760f83cd50800000000000000
+      internalID: 6756401123884844480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 262
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dfc56a241e5b850800000000000000
+      internalID: 6392262922497490312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 437
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c458701deec49fe0800000000000000
+      internalID: -1183093284512705343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 400
+        width: 25
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1656012b0bc5ad40800000000000000
+      internalID: 5595101360736851487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 433
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5ae0c3e918b0e90800000000000000
+      internalID: -7058405474360711712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 44
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d63d8e0a7ec480800000000000000
+      internalID: -8877023612583355945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 94
+        width: 298
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c7573fe209fffb0800000000000000
+      internalID: -4611808962076640197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 371
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf4bc73b17d8a1b0800000000000000
+      internalID: -5645025621008756802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 370
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec8b7bf395221410800000000000000
+      internalID: 1446259747848948965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 93
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e929adc1694e20800000000000000
+      internalID: 3335304534978847826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 104
+        width: 35
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa3e0614c2985530800000000000000
+      internalID: 3843983652841994918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705f89bbadec8540800000000000000
+      internalID: 5011641807164887158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 273
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367b8b188520f1f0800000000000000
+      internalID: -1013268649650457027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 69
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb883706a7bdcad30800000000000000
+      internalID: 4444168250958514366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 71
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07525242bbcb40a00800000000000000
+      internalID: 721909352237442416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c480bae7a72199f70800000000000000
+      internalID: 9194400431574026316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-frame_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595443e3cfbebd3d0800000000000000
+      internalID: -3180689243199224427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stick-frame_0: 4444026889318600518
+      stick-frame_1: 3369834320706204703
+      stick-frame_10: 1446259747848948965
+      stick-frame_11: 3335304534978847826
+      stick-frame_12: 3843983652841994918
+      stick-frame_13: 5011641807164887158
+      stick-frame_14: -1013268649650457027
+      stick-frame_15: 4444168250958514366
+      stick-frame_16: 721909352237442416
+      stick-frame_17: 9194400431574026316
+      stick-frame_18: -3180689243199224427
+      stick-frame_2: 6756401123884844480
+      stick-frame_3: 6392262922497490312
+      stick-frame_4: -1183093284512705343
+      stick-frame_5: 5595101360736851487
+      stick-frame_6: -7058405474360711712
+      stick-frame_7: -8877023612583355945
+      stick-frame_8: -4611808962076640197
+      stick-frame_9: -5645025621008756802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

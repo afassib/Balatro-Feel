@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 9e618f5e7cf76934384b0fec6f24c0b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1111612807431505146
+    second: saint-basil-cathedral_0
+  - first:
+      213: 8335644281679161178
+    second: saint-basil-cathedral_1
+  - first:
+      213: -8836168073149236833
+    second: saint-basil-cathedral_2
+  - first:
+      213: 1422199190273937772
+    second: saint-basil-cathedral_3
+  - first:
+      213: -4271384255733407282
+    second: saint-basil-cathedral_4
+  - first:
+      213: 4586469502241747355
+    second: saint-basil-cathedral_5
+  - first:
+      213: 6870163371647066265
+    second: saint-basil-cathedral_6
+  - first:
+      213: -7913428440377430385
+    second: saint-basil-cathedral_7
+  - first:
+      213: 6350474396989161043
+    second: saint-basil-cathedral_8
+  - first:
+      213: 3865711113175117078
+    second: saint-basil-cathedral_9
+  - first:
+      213: 6319516344240667156
+    second: saint-basil-cathedral_10
+  - first:
+      213: 1192672728450370042
+    second: saint-basil-cathedral_11
+  - first:
+      213: -4952407202746251079
+    second: saint-basil-cathedral_12
+  - first:
+      213: -5385828217965882253
+    second: saint-basil-cathedral_13
+  - first:
+      213: -2012194041456828520
+    second: saint-basil-cathedral_14
+  - first:
+      213: 4229519314138398027
+    second: saint-basil-cathedral_15
+  - first:
+      213: -1567820594156348894
+    second: saint-basil-cathedral_16
+  - first:
+      213: -4923869525206040413
+    second: saint-basil-cathedral_17
+  - first:
+      213: 5443237476140714686
+    second: saint-basil-cathedral_18
+  - first:
+      213: 3412512704824242267
+    second: saint-basil-cathedral_19
+  - first:
+      213: 367920665377433303
+    second: saint-basil-cathedral_20
+  - first:
+      213: 3341496748099407506
+    second: saint-basil-cathedral_21
+  - first:
+      213: -4498096752788312841
+    second: saint-basil-cathedral_22
+  - first:
+      213: -8452132710459539455
+    second: saint-basil-cathedral_23
+  - first:
+      213: -4357730902083149959
+    second: saint-basil-cathedral_24
+  - first:
+      213: 5912579089971423741
+    second: saint-basil-cathedral_25
+  - first:
+      213: 6772727022212218167
+    second: saint-basil-cathedral_26
+  - first:
+      213: -2628534024478703196
+    second: saint-basil-cathedral_27
+  - first:
+      213: 3241595100906614148
+    second: saint-basil-cathedral_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saint-basil-cathedral_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 456
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4cab275fd3d6f00800000000000000
+      internalID: 1111612807431505146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 392
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a08f5f482ea370800000000000000
+      internalID: 8335644281679161178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 297
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ba4814ff9f5580800000000000000
+      internalID: -8836168073149236833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 226
+        width: 59
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615020e0aaacb310800000000000000
+      internalID: 1422199190273937772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 266
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec160d176aef8b4c0800000000000000
+      internalID: -4271384255733407282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 264
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91384e46b966af30800000000000000
+      internalID: 4586469502241747355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9906ce3df29b75f50800000000000000
+      internalID: 6870163371647066265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 328
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e64d7b2cadd2290800000000000000
+      internalID: -7913428440377430385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e70cb51da612850800000000000000
+      internalID: 6350474396989161043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 216
+        width: 23
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d2519a6c3c5a530800000000000000
+      internalID: 3865711113175117078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 23
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7db202ae63b750800000000000000
+      internalID: 6319516344240667156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9849807893d8010800000000000000
+      internalID: 1192672728450370042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 296
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8493953e3854bb0800000000000000
+      internalID: -4952407202746251079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3745ed665c1b145b0800000000000000
+      internalID: -5385828217965882253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fdecb2e204314e0800000000000000
+      internalID: -2012194041456828520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 200
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d7fd1486542ba30800000000000000
+      internalID: 4229519314138398027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 232
+        width: 103
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad4cde97bfd3ae0800000000000000
+      internalID: -1567820594156348894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a009bd21c6eaabb0800000000000000
+      internalID: -4923869525206040413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 152
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba067125a34a8b40800000000000000
+      internalID: 5443237476140714686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 88
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b507e8a893eab5f20800000000000000
+      internalID: 3412512704824242267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6e85555ed1b1500800000000000000
+      internalID: 367920665377433303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 46
+        width: 29
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8690a6916f5e20800000000000000
+      internalID: 3341496748099407506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 17
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce6b4d5dc8391c0800000000000000
+      internalID: -4498096752788312841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 29
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1008996c41ef3ba80800000000000000
+      internalID: -8452132710459539455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 17
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f579235da3683c0800000000000000
+      internalID: -4357730902083149959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 46
+        width: 29
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9262c2b53bd0250800000000000000
+      internalID: 5912579089971423741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 17
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df5afd75f8dfd50800000000000000
+      internalID: 6772727022212218167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a14be63b32958bd0800000000000000
+      internalID: -2628534024478703196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saint-basil-cathedral_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 104
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6f2fc1957cfc20800000000000000
+      internalID: 3241595100906614148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      saint-basil-cathedral_0: 1111612807431505146
+      saint-basil-cathedral_1: 8335644281679161178
+      saint-basil-cathedral_10: 6319516344240667156
+      saint-basil-cathedral_11: 1192672728450370042
+      saint-basil-cathedral_12: -4952407202746251079
+      saint-basil-cathedral_13: -5385828217965882253
+      saint-basil-cathedral_14: -2012194041456828520
+      saint-basil-cathedral_15: 4229519314138398027
+      saint-basil-cathedral_16: -1567820594156348894
+      saint-basil-cathedral_17: -4923869525206040413
+      saint-basil-cathedral_18: 5443237476140714686
+      saint-basil-cathedral_19: 3412512704824242267
+      saint-basil-cathedral_2: -8836168073149236833
+      saint-basil-cathedral_20: 367920665377433303
+      saint-basil-cathedral_21: 3341496748099407506
+      saint-basil-cathedral_22: -4498096752788312841
+      saint-basil-cathedral_23: -8452132710459539455
+      saint-basil-cathedral_24: -4357730902083149959
+      saint-basil-cathedral_25: 5912579089971423741
+      saint-basil-cathedral_26: 6772727022212218167
+      saint-basil-cathedral_27: -2628534024478703196
+      saint-basil-cathedral_28: 3241595100906614148
+      saint-basil-cathedral_3: 1422199190273937772
+      saint-basil-cathedral_4: -4271384255733407282
+      saint-basil-cathedral_5: 4586469502241747355
+      saint-basil-cathedral_6: 6870163371647066265
+      saint-basil-cathedral_7: -7913428440377430385
+      saint-basil-cathedral_8: 6350474396989161043
+      saint-basil-cathedral_9: 3865711113175117078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

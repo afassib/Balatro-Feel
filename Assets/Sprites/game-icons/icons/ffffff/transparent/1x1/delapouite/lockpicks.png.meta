@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 2affb54951e265645a6ad8811236e0a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2706656500640426277
+    second: lockpicks_0
+  - first:
+      213: -3388189848374386290
+    second: lockpicks_1
+  - first:
+      213: 8242671944418182021
+    second: lockpicks_2
+  - first:
+      213: 7292705692375708963
+    second: lockpicks_3
+  - first:
+      213: 3538381865972900044
+    second: lockpicks_4
+  - first:
+      213: -2607812622303837032
+    second: lockpicks_5
+  - first:
+      213: 5279647246031372746
+    second: lockpicks_6
+  - first:
+      213: -9102214926753508992
+    second: lockpicks_7
+  - first:
+      213: 9136133818386610841
+    second: lockpicks_8
+  - first:
+      213: -3506278671664155231
+    second: lockpicks_9
+  - first:
+      213: -4145707846302632153
+    second: lockpicks_10
+  - first:
+      213: 3166558505934401077
+    second: lockpicks_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lockpicks_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 235
+        width: 43
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529aca13fb9ff8520800000000000000
+      internalID: 2706656500640426277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 264
+        width: 20
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e816f08c84bbaf0d0800000000000000
+      internalID: -3388189848374386290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 244
+        width: 52
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583cf1f367ad36270800000000000000
+      internalID: 8242671944418182021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 264
+        width: 43
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325f5855035e43560800000000000000
+      internalID: 7292705692375708963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 296
+        width: 74
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0aff85f8bda1130800000000000000
+      internalID: 3538381865972900044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 267
+        width: 52
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ccce9c303fcbd0800000000000000
+      internalID: -2607812622303837032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 48
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c11f8233154940800000000000000
+      internalID: 5279647246031372746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 48
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081599defbf6ea180800000000000000
+      internalID: -9102214926753508992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 48
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afd517d411ace70800000000000000
+      internalID: 9136133818386610841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 48
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5fdeb0022375fc0800000000000000
+      internalID: -3506278671664155231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 48
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f49ebdac7776c0800000000000000
+      internalID: -4145707846302632153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockpicks_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 48
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e26ba1f20e1fb20800000000000000
+      internalID: 3166558505934401077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lockpicks_0: 2706656500640426277
+      lockpicks_1: -3388189848374386290
+      lockpicks_10: -4145707846302632153
+      lockpicks_11: 3166558505934401077
+      lockpicks_2: 8242671944418182021
+      lockpicks_3: 7292705692375708963
+      lockpicks_4: 3538381865972900044
+      lockpicks_5: -2607812622303837032
+      lockpicks_6: 5279647246031372746
+      lockpicks_7: -9102214926753508992
+      lockpicks_8: 9136133818386610841
+      lockpicks_9: -3506278671664155231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

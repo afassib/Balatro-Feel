@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: efa63a4e7c3cd484f9bd4d81696588d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4174342121711327010
+    second: empty-metal-bucket-handle_0
+  - first:
+      213: -5931453431788645980
+    second: empty-metal-bucket-handle_1
+  - first:
+      213: 7799378971440696865
+    second: empty-metal-bucket-handle_2
+  - first:
+      213: 8693748763888036978
+    second: empty-metal-bucket-handle_3
+  - first:
+      213: -1332747792975563224
+    second: empty-metal-bucket-handle_4
+  - first:
+      213: -3281369488867449089
+    second: empty-metal-bucket-handle_5
+  - first:
+      213: 9161251823052490265
+    second: empty-metal-bucket-handle_6
+  - first:
+      213: 4363674127130392188
+    second: empty-metal-bucket-handle_7
+  - first:
+      213: -6430894065815732981
+    second: empty-metal-bucket-handle_8
+  - first:
+      213: 6813618015831644184
+    second: empty-metal-bucket-handle_9
+  - first:
+      213: 3922770577061061099
+    second: empty-metal-bucket-handle_10
+  - first:
+      213: -5122371465718461321
+    second: empty-metal-bucket-handle_11
+  - first:
+      213: -3508899735646333727
+    second: empty-metal-bucket-handle_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82278f4f1c116c0800000000000000
+      internalID: -4174342121711327010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1577ca78e3fada0800000000000000
+      internalID: -5931453431788645980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 341
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecf550ad5fc3c60800000000000000
+      internalID: 7799378971440696865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 332
+        width: 300
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca906707666a870800000000000000
+      internalID: 8693748763888036978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 296
+        width: 264
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826718881f0218de0800000000000000
+      internalID: -1332747792975563224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff62047d5db3672d0800000000000000
+      internalID: -3281369488867449089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 260
+        width: 174
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91681f2aefd432f70800000000000000
+      internalID: 9161251823052490265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 263
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767b27bf72ee8c30800000000000000
+      internalID: 4363674127130392188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 277
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db2e26befd0c6a0800000000000000
+      internalID: -6430894065815732981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d8dc3c75de8e50800000000000000
+      internalID: 6813618015831644184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 181
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1241d5e0b707630800000000000000
+      internalID: 3922770577061061099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 48
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c014a9a4ea9e8b0800000000000000
+      internalID: -5122371465718461321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-metal-bucket-handle_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 34
+        width: 54
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e496580842ed4fc0800000000000000
+      internalID: -3508899735646333727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      empty-metal-bucket-handle_0: -4174342121711327010
+      empty-metal-bucket-handle_1: -5931453431788645980
+      empty-metal-bucket-handle_10: 3922770577061061099
+      empty-metal-bucket-handle_11: -5122371465718461321
+      empty-metal-bucket-handle_12: -3508899735646333727
+      empty-metal-bucket-handle_2: 7799378971440696865
+      empty-metal-bucket-handle_3: 8693748763888036978
+      empty-metal-bucket-handle_4: -1332747792975563224
+      empty-metal-bucket-handle_5: -3281369488867449089
+      empty-metal-bucket-handle_6: 9161251823052490265
+      empty-metal-bucket-handle_7: 4363674127130392188
+      empty-metal-bucket-handle_8: -6430894065815732981
+      empty-metal-bucket-handle_9: 6813618015831644184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

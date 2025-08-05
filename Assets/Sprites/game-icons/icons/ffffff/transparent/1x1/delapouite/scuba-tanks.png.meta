@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 879aee52eff7d424d9f70881b8e5a53d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8862540955735000405
+    second: scuba-tanks_0
+  - first:
+      213: 3200730155188633363
+    second: scuba-tanks_1
+  - first:
+      213: -929253113795743644
+    second: scuba-tanks_2
+  - first:
+      213: 467407635888588548
+    second: scuba-tanks_3
+  - first:
+      213: 2966935755249674972
+    second: scuba-tanks_4
+  - first:
+      213: -475495065686513572
+    second: scuba-tanks_5
+  - first:
+      213: 8900126153446302522
+    second: scuba-tanks_6
+  - first:
+      213: -8674667878017780596
+    second: scuba-tanks_7
+  - first:
+      213: -2001603588477653368
+    second: scuba-tanks_8
+  - first:
+      213: 5142495900887204893
+    second: scuba-tanks_9
+  - first:
+      213: -5250422401548765138
+    second: scuba-tanks_10
+  - first:
+      213: -7355383217836098628
+    second: scuba-tanks_11
+  - first:
+      213: -6883053945101574663
+    second: scuba-tanks_12
+  - first:
+      213: -696292024559269059
+    second: scuba-tanks_13
+  - first:
+      213: 7279976547015900861
+    second: scuba-tanks_14
+  - first:
+      213: 5668363585973732310
+    second: scuba-tanks_15
+  - first:
+      213: -7681197624249780096
+    second: scuba-tanks_16
+  - first:
+      213: 4150157564459605910
+    second: scuba-tanks_17
+  - first:
+      213: 4691549544157054360
+    second: scuba-tanks_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scuba-tanks_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 456
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5558fe12b021efa70800000000000000
+      internalID: 8862540955735000405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 417
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f36e13e174b6c20800000000000000
+      internalID: 3200730155188633363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 424
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46077c56731aa13f0800000000000000
+      internalID: -929253113795743644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 424
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c176b4c09c7600800000000000000
+      internalID: 467407635888588548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 424
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaef03995cac2920800000000000000
+      internalID: 2966935755249674972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 417
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ed4dc1c3b669f0800000000000000
+      internalID: -475495065686513572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 138
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a458e499938b70800000000000000
+      internalID: 8900126153446302522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 375
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84324a76836d9780800000000000000
+      internalID: -8674667878017780596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 375
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e64a72420e834e0800000000000000
+      internalID: -2001603588477653368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 142
+        width: 91
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c84796c0dd5740800000000000000
+      internalID: 5142495900887204893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28beeac4a0c227b0800000000000000
+      internalID: -5250422401548765138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 296
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb72021fed6ce990800000000000000
+      internalID: -7355383217836098628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9e58a7ea7a70a0800000000000000
+      internalID: -6883053945101574663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b0530c7164656f0800000000000000
+      internalID: -696292024559269059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 168
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbebe0a391ca70560800000000000000
+      internalID: 7279976547015900861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d349bf26a21aae40800000000000000
+      internalID: 5668363585973732310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088740d1577e66590800000000000000
+      internalID: -7681197624249780096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd38ff052589930800000000000000
+      internalID: 4150157564459605910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scuba-tanks_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89580a9147bbb1140800000000000000
+      internalID: 4691549544157054360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scuba-tanks_0: 8862540955735000405
+      scuba-tanks_1: 3200730155188633363
+      scuba-tanks_10: -5250422401548765138
+      scuba-tanks_11: -7355383217836098628
+      scuba-tanks_12: -6883053945101574663
+      scuba-tanks_13: -696292024559269059
+      scuba-tanks_14: 7279976547015900861
+      scuba-tanks_15: 5668363585973732310
+      scuba-tanks_16: -7681197624249780096
+      scuba-tanks_17: 4150157564459605910
+      scuba-tanks_18: 4691549544157054360
+      scuba-tanks_2: -929253113795743644
+      scuba-tanks_3: 467407635888588548
+      scuba-tanks_4: 2966935755249674972
+      scuba-tanks_5: -475495065686513572
+      scuba-tanks_6: 8900126153446302522
+      scuba-tanks_7: -8674667878017780596
+      scuba-tanks_8: -2001603588477653368
+      scuba-tanks_9: 5142495900887204893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

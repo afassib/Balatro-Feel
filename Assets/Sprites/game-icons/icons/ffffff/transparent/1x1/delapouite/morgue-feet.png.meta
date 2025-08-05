@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 38bc883d54a67b54a9888947a5b0d613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5854491624694196964
+    second: morgue-feet_0
+  - first:
+      213: -2277390238985126734
+    second: morgue-feet_1
+  - first:
+      213: -9205771502027063495
+    second: morgue-feet_2
+  - first:
+      213: 3492761320370419726
+    second: morgue-feet_3
+  - first:
+      213: 7425041144092903523
+    second: morgue-feet_4
+  - first:
+      213: 2387192459250007839
+    second: morgue-feet_5
+  - first:
+      213: -3188967911053959802
+    second: morgue-feet_6
+  - first:
+      213: 3516524536518783313
+    second: morgue-feet_7
+  - first:
+      213: -8947429569689821342
+    second: morgue-feet_8
+  - first:
+      213: -4484629736060193955
+    second: morgue-feet_9
+  - first:
+      213: 6673551895112942417
+    second: morgue-feet_10
+  - first:
+      213: 9055545416461226652
+    second: morgue-feet_11
+  - first:
+      213: -4163806375024128836
+    second: morgue-feet_12
+  - first:
+      213: -4494495164494764520
+    second: morgue-feet_13
+  - first:
+      213: -3816668935114266033
+    second: morgue-feet_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: morgue-feet_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 342
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaa56e3d155f3150800000000000000
+      internalID: 5854491624694196964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 364
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc795ec4a51560e0800000000000000
+      internalID: -2277390238985126734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f334ad7978e3080800000000000000
+      internalID: -9205771502027063495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 380
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0837e95ae7c87030800000000000000
+      internalID: 3492761320370419726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 364
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368415cb49b0b0760800000000000000
+      internalID: 7425041144092903523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f7610d4e2012120800000000000000
+      internalID: 2387192459250007839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 314
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d528da4928eb3d0800000000000000
+      internalID: -3188967911053959802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 170
+        width: 98
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151b5234f643dc030800000000000000
+      internalID: 3516524536518783313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 80
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fdfcd363854d380800000000000000
+      internalID: -8947429569689821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 322
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d537af0040563c1c0800000000000000
+      internalID: -4484629736060193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 185
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153875237183d9c50800000000000000
+      internalID: 6673551895112942417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 314
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c929693f392cbad70800000000000000
+      internalID: 9055545416461226652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 284
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0e27a9203736c0800000000000000
+      internalID: -4163806375024128836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 284
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162493f57850a1c0800000000000000
+      internalID: -4494495164494764520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morgue-feet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 66
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aee3933d7780bc0800000000000000
+      internalID: -3816668935114266033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      morgue-feet_0: 5854491624694196964
+      morgue-feet_1: -2277390238985126734
+      morgue-feet_10: 6673551895112942417
+      morgue-feet_11: 9055545416461226652
+      morgue-feet_12: -4163806375024128836
+      morgue-feet_13: -4494495164494764520
+      morgue-feet_14: -3816668935114266033
+      morgue-feet_2: -9205771502027063495
+      morgue-feet_3: 3492761320370419726
+      morgue-feet_4: 7425041144092903523
+      morgue-feet_5: 2387192459250007839
+      morgue-feet_6: -3188967911053959802
+      morgue-feet_7: 3516524536518783313
+      morgue-feet_8: -8947429569689821342
+      morgue-feet_9: -4484629736060193955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

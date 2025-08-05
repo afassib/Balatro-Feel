@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: bf4d741aa5dc6ca42bc60a3846cdeb71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7258374031239420058
+    second: archaeopteryx-fossil_0
+  - first:
+      213: 1616944422010108305
+    second: archaeopteryx-fossil_1
+  - first:
+      213: 2372731930890679547
+    second: archaeopteryx-fossil_2
+  - first:
+      213: 8773312510701729353
+    second: archaeopteryx-fossil_3
+  - first:
+      213: 628592828990613647
+    second: archaeopteryx-fossil_4
+  - first:
+      213: 6507652549967048318
+    second: archaeopteryx-fossil_5
+  - first:
+      213: 139635129565978230
+    second: archaeopteryx-fossil_6
+  - first:
+      213: -7638634207382111358
+    second: archaeopteryx-fossil_7
+  - first:
+      213: 8912169490387971752
+    second: archaeopteryx-fossil_8
+  - first:
+      213: 131172911231826634
+    second: archaeopteryx-fossil_9
+  - first:
+      213: -4127144731813212652
+    second: archaeopteryx-fossil_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 312
+        width: 85
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ed0d6643154b90800000000000000
+      internalID: -7258374031239420058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 170
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993677826a807610800000000000000
+      internalID: 1616944422010108305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 218
+        width: 171
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf437ffae13ade020800000000000000
+      internalID: 2372731930890679547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 307
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946fdd7de3111c970800000000000000
+      internalID: 8773312510701729353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 292
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e758f8d539b800800000000000000
+      internalID: 628592828990613647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 287
+        width: 97
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e6372e383df4a50800000000000000
+      internalID: 6507652549967048318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 199
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e12f7196510f100800000000000000
+      internalID: 139635129565978230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 62
+        width: 99
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b77dbd8ae1ef590800000000000000
+      internalID: -7638634207382111358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 192
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae26accee26eab70800000000000000
+      internalID: 8912169490387971752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 147
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca702a511502d100800000000000000
+      internalID: 131172911231826634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archaeopteryx-fossil_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 27
+        width: 206
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e06a3abbf69b6c0800000000000000
+      internalID: -4127144731813212652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      archaeopteryx-fossil_0: -7258374031239420058
+      archaeopteryx-fossil_1: 1616944422010108305
+      archaeopteryx-fossil_10: -4127144731813212652
+      archaeopteryx-fossil_2: 2372731930890679547
+      archaeopteryx-fossil_3: 8773312510701729353
+      archaeopteryx-fossil_4: 628592828990613647
+      archaeopteryx-fossil_5: 6507652549967048318
+      archaeopteryx-fossil_6: 139635129565978230
+      archaeopteryx-fossil_7: -7638634207382111358
+      archaeopteryx-fossil_8: 8912169490387971752
+      archaeopteryx-fossil_9: 131172911231826634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

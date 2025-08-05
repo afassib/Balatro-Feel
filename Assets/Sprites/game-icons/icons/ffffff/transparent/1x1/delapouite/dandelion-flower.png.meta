@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 56b6e22b7d1b637489641b060d2a6d11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8147590929252161357
+    second: dandelion-flower_0
+  - first:
+      213: -739100142203221939
+    second: dandelion-flower_1
+  - first:
+      213: -463197925795458233
+    second: dandelion-flower_2
+  - first:
+      213: 6894016098900133925
+    second: dandelion-flower_3
+  - first:
+      213: 5309913604901102346
+    second: dandelion-flower_4
+  - first:
+      213: -56234807254911247
+    second: dandelion-flower_5
+  - first:
+      213: 322119286038266126
+    second: dandelion-flower_6
+  - first:
+      213: -6235782173564948570
+    second: dandelion-flower_7
+  - first:
+      213: 668962278511726411
+    second: dandelion-flower_8
+  - first:
+      213: 4734678411041277878
+    second: dandelion-flower_9
+  - first:
+      213: -9101806096002043700
+    second: dandelion-flower_10
+  - first:
+      213: 5357714821741522325
+    second: dandelion-flower_11
+  - first:
+      213: -4613189578791184004
+    second: dandelion-flower_12
+  - first:
+      213: -6333279677424142233
+    second: dandelion-flower_13
+  - first:
+      213: -1301192981814933021
+    second: dandelion-flower_14
+  - first:
+      213: -2837678342327370535
+    second: dandelion-flower_15
+  - first:
+      213: 2681274227226752370
+    second: dandelion-flower_16
+  - first:
+      213: -4326402695748054199
+    second: dandelion-flower_17
+  - first:
+      213: 4285818359165511487
+    second: dandelion-flower_18
+  - first:
+      213: 6270507906040136583
+    second: dandelion-flower_19
+  - first:
+      213: 4781351216638603989
+    second: dandelion-flower_20
+  - first:
+      213: -3979730936814293785
+    second: dandelion-flower_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dandelion-flower_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 119
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47154948ce021170800000000000000
+      internalID: 8147590929252161357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 299
+        width: 101
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48498a26503eb5f0800000000000000
+      internalID: -739100142203221939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 365
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743934cc0f36299f0800000000000000
+      internalID: -463197925795458233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 308
+        width: 59
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52844caad177caf50800000000000000
+      internalID: 6894016098900133925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 285
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e4206a4a90b940800000000000000
+      internalID: 5309913604901102346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 344
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6fe81adb6383ff0800000000000000
+      internalID: -56234807254911247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 311
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010d93b8c5687400800000000000000
+      internalID: 322119286038266126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 249
+        width: 101
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afa2f7d62d0679a0800000000000000
+      internalID: -6235782173564948570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 158
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc3d2e5a1a84900800000000000000
+      internalID: 668962278511726411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 217
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b783dfede4f4b140800000000000000
+      internalID: 4734678411041277878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 262
+        width: 175
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc030514493efa180800000000000000
+      internalID: -9101806096002043700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 134
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dafb57e3d6a5a40800000000000000
+      internalID: 5357714821741522325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791e921588aaffb0800000000000000
+      internalID: -4613189578791184004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 46
+        width: 111
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768fee340bbab18a0800000000000000
+      internalID: -6333279677424142233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26
+        width: 49
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e980b680eb31fde0800000000000000
+      internalID: -1301192981814933021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 142
+        width: 190
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcf1c2159a8e98d0800000000000000
+      internalID: -2837678342327370535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 133
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b24324bcc53520800000000000000
+      internalID: 2681274227226752370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94315a4aba785f3c0800000000000000
+      internalID: -4326402695748054199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 30
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3768e527194a7b30800000000000000
+      internalID: 4285818359165511487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 45
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7830dccc7b1550750800000000000000
+      internalID: 6270507906040136583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 31
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2302e4995ca5240800000000000000
+      internalID: 4781351216638603989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dandelion-flower_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 74
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec2d896cc725c8c0800000000000000
+      internalID: -3979730936814293785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dandelion-flower_0: 8147590929252161357
+      dandelion-flower_1: -739100142203221939
+      dandelion-flower_10: -9101806096002043700
+      dandelion-flower_11: 5357714821741522325
+      dandelion-flower_12: -4613189578791184004
+      dandelion-flower_13: -6333279677424142233
+      dandelion-flower_14: -1301192981814933021
+      dandelion-flower_15: -2837678342327370535
+      dandelion-flower_16: 2681274227226752370
+      dandelion-flower_17: -4326402695748054199
+      dandelion-flower_18: 4285818359165511487
+      dandelion-flower_19: 6270507906040136583
+      dandelion-flower_2: -463197925795458233
+      dandelion-flower_20: 4781351216638603989
+      dandelion-flower_21: -3979730936814293785
+      dandelion-flower_3: 6894016098900133925
+      dandelion-flower_4: 5309913604901102346
+      dandelion-flower_5: -56234807254911247
+      dandelion-flower_6: 322119286038266126
+      dandelion-flower_7: -6235782173564948570
+      dandelion-flower_8: 668962278511726411
+      dandelion-flower_9: 4734678411041277878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

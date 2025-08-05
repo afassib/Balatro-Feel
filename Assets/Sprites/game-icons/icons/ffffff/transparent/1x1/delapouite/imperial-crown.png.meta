@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0d14abe442d53c24bb22875eb92d9c6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1870786658603947720
+    second: imperial-crown_0
+  - first:
+      213: -8070598313800276901
+    second: imperial-crown_1
+  - first:
+      213: -1493717863876945086
+    second: imperial-crown_2
+  - first:
+      213: 2019184077917674951
+    second: imperial-crown_3
+  - first:
+      213: -3368469474399926058
+    second: imperial-crown_4
+  - first:
+      213: -241237850264346148
+    second: imperial-crown_5
+  - first:
+      213: -8182791737883144318
+    second: imperial-crown_6
+  - first:
+      213: 7953292885125537178
+    second: imperial-crown_7
+  - first:
+      213: -7567187719790400145
+    second: imperial-crown_8
+  - first:
+      213: -3420900734161313588
+    second: imperial-crown_9
+  - first:
+      213: 6534771604599799340
+    second: imperial-crown_10
+  - first:
+      213: -328977417186921582
+    second: imperial-crown_11
+  - first:
+      213: -4467409799177907057
+    second: imperial-crown_12
+  - first:
+      213: -4355216592578014027
+    second: imperial-crown_13
+  - first:
+      213: 2091648473002695978
+    second: imperial-crown_14
+  - first:
+      213: 1814753721457553479
+    second: imperial-crown_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imperial-crown_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d0acdd8e56f910800000000000000
+      internalID: 1870786658603947720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54611de7997fff80800000000000000
+      internalID: -8070598313800276901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 126
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b95f0548f354be0800000000000000
+      internalID: -1493717863876945086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 106
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd58648835950c10800000000000000
+      internalID: 2019184077917674951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 194
+        width: 126
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d845a52cdac041d0800000000000000
+      internalID: -3368469474399926058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 106
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd16d9c0473f6acf0800000000000000
+      internalID: -241237850264346148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4978c442e07e80800000000000000
+      internalID: -8182791737883144318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 106
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d9c8c9db5cf5e60800000000000000
+      internalID: 7953292885125537178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 37
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6de13d8cd2fbf690800000000000000
+      internalID: -7567187719790400145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 106
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0217038e48680d0800000000000000
+      internalID: -3420900734161313588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2efa74d62c20ba50800000000000000
+      internalID: 6534771604599799340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 46
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b27538cc3f6bf0800000000000000
+      internalID: -328977417186921582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d6edf4729002c0800000000000000
+      internalID: -4467409799177907057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 42
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4108f75992f83c0800000000000000
+      internalID: -4355216592578014027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 46
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d50544437070d10800000000000000
+      internalID: 2091648473002695978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imperial-crown_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 42
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740bb4a05ec4f2910800000000000000
+      internalID: 1814753721457553479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      imperial-crown_0: 1870786658603947720
+      imperial-crown_1: -8070598313800276901
+      imperial-crown_10: 6534771604599799340
+      imperial-crown_11: -328977417186921582
+      imperial-crown_12: -4467409799177907057
+      imperial-crown_13: -4355216592578014027
+      imperial-crown_14: 2091648473002695978
+      imperial-crown_15: 1814753721457553479
+      imperial-crown_2: -1493717863876945086
+      imperial-crown_3: 2019184077917674951
+      imperial-crown_4: -3368469474399926058
+      imperial-crown_5: -241237850264346148
+      imperial-crown_6: -8182791737883144318
+      imperial-crown_7: 7953292885125537178
+      imperial-crown_8: -7567187719790400145
+      imperial-crown_9: -3420900734161313588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

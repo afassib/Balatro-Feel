@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 983915bc72b734148b16847cf4ab4742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6521346793507321066
+    second: corn_0
+  - first:
+      213: 6866430405859213858
+    second: corn_1
+  - first:
+      213: 1336589516839896950
+    second: corn_2
+  - first:
+      213: 3404309094385385695
+    second: corn_3
+  - first:
+      213: -3050867213700707254
+    second: corn_4
+  - first:
+      213: -1738479304665656511
+    second: corn_5
+  - first:
+      213: -8079476854578655171
+    second: corn_6
+  - first:
+      213: 6752152560847405356
+    second: corn_7
+  - first:
+      213: -1796586995508001067
+    second: corn_8
+  - first:
+      213: -6475625143412223305
+    second: corn_9
+  - first:
+      213: -1752259293421742554
+    second: corn_10
+  - first:
+      213: 7317501992681463555
+    second: corn_11
+  - first:
+      213: 3504017253168928187
+    second: corn_12
+  - first:
+      213: 4020101848428749431
+    second: corn_13
+  - first:
+      213: -9162605978880473604
+    second: corn_14
+  - first:
+      213: -4547109245618259498
+    second: corn_15
+  - first:
+      213: 3125892800476311849
+    second: corn_16
+  - first:
+      213: -4090401146561659731
+    second: corn_17
+  - first:
+      213: -1816344810540074055
+    second: corn_18
+  - first:
+      213: -6551031273053303242
+    second: corn_19
+  - first:
+      213: 1486440832014919819
+    second: corn_20
+  - first:
+      213: 3956975064797246256
+    second: corn_21
+  - first:
+      213: -6094975577426355548
+    second: corn_22
+  - first:
+      213: -5592518323456208531
+    second: corn_23
+  - first:
+      213: -5577463635758910806
+    second: corn_24
+  - first:
+      213: -4782405496285900124
+    second: corn_25
+  - first:
+      213: -1290795150883045537
+    second: corn_26
+  - first:
+      213: -2759922672075181518
+    second: corn_27
+  - first:
+      213: -8420452201233394373
+    second: corn_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: corn_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 352
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0dd394a58f75a0800000000000000
+      internalID: -6521346793507321066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 452
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220e2003167a4f50800000000000000
+      internalID: 6866430405859213858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 449
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c0c185158c8210800000000000000
+      internalID: 1336589516839896950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 419
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00974a5198e3f20800000000000000
+      internalID: 3404309094385385695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 403
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ccb7eee6429a5d0800000000000000
+      internalID: -3050867213700707254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 429
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431904884eafd7e0800000000000000
+      internalID: -1738479304665656511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 396
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3059df8b9eefdf80800000000000000
+      internalID: -8079476854578655171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21cd8acaf674bd50800000000000000
+      internalID: 6752152560847405356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 375
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c8a475ad3117e0800000000000000
+      internalID: -1796586995508001067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 364
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2935ccd35f126a0800000000000000
+      internalID: -6475625143412223305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626583dd479bea7e0800000000000000
+      internalID: -1752259293421742554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 402
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fddf4ea4dfc8560800000000000000
+      internalID: 7317501992681463555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 388
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb559fd6025c0a030800000000000000
+      internalID: 3504017253168928187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 182
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ac7ce4554ac730800000000000000
+      internalID: 4020101848428749431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 316
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf585f36862e7d080800000000000000
+      internalID: -9162605978880473604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 345
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d977049b3c65e0c0800000000000000
+      internalID: -4547109245618259498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921775ab0f6616b20800000000000000
+      internalID: 3125892800476311849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 335
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac775e34d9fb37c0800000000000000
+      internalID: -4090401146561659731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 353
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb722aa40c0bc6e0800000000000000
+      internalID: -1816344810540074055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 270
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ece2914cf0615a0800000000000000
+      internalID: -6551031273053303242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 302
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a2ebaf06e0a410800000000000000
+      internalID: 1486440832014919819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 300
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03371524bdff9e630800000000000000
+      internalID: 3956975064797246256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 315
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa12d0410c4a6ba0800000000000000
+      internalID: -6094975577426355548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 238
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61978a17326362b0800000000000000
+      internalID: -5592518323456208531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 232
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa27eeabf5ed892b0800000000000000
+      internalID: -5577463635758910806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 266
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d0061a8b71adb0800000000000000
+      internalID: -4782405496285900124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 254
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fb1d136ac261ee0800000000000000
+      internalID: -1290795150883045537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_27
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 277
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2327963d3f8c2b9d0800000000000000
+      internalID: -2759922672075181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 53
+        width: 267
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35d351265b842b80800000000000000
+      internalID: -8420452201233394373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      corn_0: -6521346793507321066
+      corn_1: 6866430405859213858
+      corn_10: -1752259293421742554
+      corn_11: 7317501992681463555
+      corn_12: 3504017253168928187
+      corn_13: 4020101848428749431
+      corn_14: -9162605978880473604
+      corn_15: -4547109245618259498
+      corn_16: 3125892800476311849
+      corn_17: -4090401146561659731
+      corn_18: -1816344810540074055
+      corn_19: -6551031273053303242
+      corn_2: 1336589516839896950
+      corn_20: 1486440832014919819
+      corn_21: 3956975064797246256
+      corn_22: -6094975577426355548
+      corn_23: -5592518323456208531
+      corn_24: -5577463635758910806
+      corn_25: -4782405496285900124
+      corn_26: -1290795150883045537
+      corn_27: -2759922672075181518
+      corn_28: -8420452201233394373
+      corn_3: 3404309094385385695
+      corn_4: -3050867213700707254
+      corn_5: -1738479304665656511
+      corn_6: -8079476854578655171
+      corn_7: 6752152560847405356
+      corn_8: -1796586995508001067
+      corn_9: -6475625143412223305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

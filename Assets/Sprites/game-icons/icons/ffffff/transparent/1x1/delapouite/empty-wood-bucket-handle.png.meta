@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: d853268b92b0a284daf239c872536516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7585304584880763100
+    second: empty-wood-bucket-handle_0
+  - first:
+      213: -3599685514651791080
+    second: empty-wood-bucket-handle_1
+  - first:
+      213: -8323857101662768760
+    second: empty-wood-bucket-handle_2
+  - first:
+      213: 968894882337514698
+    second: empty-wood-bucket-handle_3
+  - first:
+      213: 6309475868512847502
+    second: empty-wood-bucket-handle_4
+  - first:
+      213: -4942217034167897472
+    second: empty-wood-bucket-handle_5
+  - first:
+      213: -2379020064471812099
+    second: empty-wood-bucket-handle_6
+  - first:
+      213: -5285121730768238621
+    second: empty-wood-bucket-handle_7
+  - first:
+      213: 4157393776606867395
+    second: empty-wood-bucket-handle_8
+  - first:
+      213: 1776521651726146684
+    second: empty-wood-bucket-handle_9
+  - first:
+      213: -9076257101800034516
+    second: empty-wood-bucket-handle_10
+  - first:
+      213: -5226474919721906287
+    second: empty-wood-bucket-handle_11
+  - first:
+      213: 6382453862376389828
+    second: empty-wood-bucket-handle_12
+  - first:
+      213: 7853258548539051937
+    second: empty-wood-bucket-handle_13
+  - first:
+      213: -8193255261430792932
+    second: empty-wood-bucket-handle_14
+  - first:
+      213: 5820461743182894880
+    second: empty-wood-bucket-handle_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4a013ba59bb690800000000000000
+      internalID: -7585304584880763100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8119f0ca8195b0ec0800000000000000
+      internalID: -3599685514651791080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 341
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88137465118bb7c80800000000000000
+      internalID: -8323857101662768760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 332
+        width: 300
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4eb6613c4327d00800000000000000
+      internalID: 968894882337514698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 296
+        width: 264
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868b959fd2cf8750800000000000000
+      internalID: 6309475868512847502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082b98bdac7b96bb0800000000000000
+      internalID: -4942217034167897472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 260
+        width: 276
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df771af1bd50cfed0800000000000000
+      internalID: -2379020064471812099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e78cd2a9c977a6b0800000000000000
+      internalID: -5285121730768238621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 41
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf621eec9702b930800000000000000
+      internalID: 4157393776606867395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c5de2a70977a810800000000000000
+      internalID: 1776521651726146684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 64
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fa7150148aa0280800000000000000
+      internalID: -9076257101800034516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 91
+        width: 55
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fcc7660c4d777b0800000000000000
+      internalID: -5226474919721906287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 149
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccb34ed8f7039850800000000000000
+      internalID: 6382453862376389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af48f2aa016cfc60800000000000000
+      internalID: 7853258548539051937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 105
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d315cdfb5bb4e80800000000000000
+      internalID: -8193255261430792932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty-wood-bucket-handle_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 252
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027da270e1f66c050800000000000000
+      internalID: 5820461743182894880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      empty-wood-bucket-handle_0: -7585304584880763100
+      empty-wood-bucket-handle_1: -3599685514651791080
+      empty-wood-bucket-handle_10: -9076257101800034516
+      empty-wood-bucket-handle_11: -5226474919721906287
+      empty-wood-bucket-handle_12: 6382453862376389828
+      empty-wood-bucket-handle_13: 7853258548539051937
+      empty-wood-bucket-handle_14: -8193255261430792932
+      empty-wood-bucket-handle_15: 5820461743182894880
+      empty-wood-bucket-handle_2: -8323857101662768760
+      empty-wood-bucket-handle_3: 968894882337514698
+      empty-wood-bucket-handle_4: 6309475868512847502
+      empty-wood-bucket-handle_5: -4942217034167897472
+      empty-wood-bucket-handle_6: -2379020064471812099
+      empty-wood-bucket-handle_7: -5285121730768238621
+      empty-wood-bucket-handle_8: 4157393776606867395
+      empty-wood-bucket-handle_9: 1776521651726146684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

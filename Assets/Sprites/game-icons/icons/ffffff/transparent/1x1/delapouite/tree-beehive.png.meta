@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 5a1ea84e23dd2a64699e54d88bfeb5f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -387583260171964693
+    second: tree-beehive_0
+  - first:
+      213: -3263554945440739955
+    second: tree-beehive_1
+  - first:
+      213: -1187126142929152589
+    second: tree-beehive_2
+  - first:
+      213: -3993001793339087780
+    second: tree-beehive_3
+  - first:
+      213: 581035935009448955
+    second: tree-beehive_4
+  - first:
+      213: 8870296007517936799
+    second: tree-beehive_5
+  - first:
+      213: -7300401516903461475
+    second: tree-beehive_6
+  - first:
+      213: 4080569355348463139
+    second: tree-beehive_7
+  - first:
+      213: 8266348558016933287
+    second: tree-beehive_8
+  - first:
+      213: 6881784745320437637
+    second: tree-beehive_9
+  - first:
+      213: 494996102069515505
+    second: tree-beehive_10
+  - first:
+      213: 3244298449312283455
+    second: tree-beehive_11
+  - first:
+      213: 217670573392677246
+    second: tree-beehive_12
+  - first:
+      213: -1794515838734020438
+    second: tree-beehive_13
+  - first:
+      213: -3178300072282700533
+    second: tree-beehive_14
+  - first:
+      213: 3274593032014543286
+    second: tree-beehive_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree-beehive_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 432
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeef8014170f9af0800000000000000
+      internalID: -387583260171964693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 445
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0904711685b2d0800000000000000
+      internalID: -3263554945440739955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 449
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5d02b001b768fe0800000000000000
+      internalID: -1187126142929152589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a68856020698c0800000000000000
+      internalID: -3993001793339087780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 347
+        width: 265
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3a9fbba11401800800000000000000
+      internalID: 581035935009448955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 369
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c1ca4d83f991b70800000000000000
+      internalID: 8870296007517936799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 305
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0f33ef73cfaa90800000000000000
+      internalID: -7300401516903461475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 270
+        width: 352
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec3ea753811a830800000000000000
+      internalID: 4080569355348463139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 421
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad692e6738f7b270800000000000000
+      internalID: 8266348558016933287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 384
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587d68db3c2018f50800000000000000
+      internalID: 6881784745320437637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47e0d05549ed600800000000000000
+      internalID: 494996102069515505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 291
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bfb982040160d20800000000000000
+      internalID: 3244298449312283455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794025bb32550300800000000000000
+      internalID: 217670573392677246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 57
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa052783a599817e0800000000000000
+      internalID: -1794515838734020438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05cdf17ce864e3d0800000000000000
+      internalID: -3178300072282700533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-beehive_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 24
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b932395301b17d20800000000000000
+      internalID: 3274593032014543286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tree-beehive_0: -387583260171964693
+      tree-beehive_1: -3263554945440739955
+      tree-beehive_10: 494996102069515505
+      tree-beehive_11: 3244298449312283455
+      tree-beehive_12: 217670573392677246
+      tree-beehive_13: -1794515838734020438
+      tree-beehive_14: -3178300072282700533
+      tree-beehive_15: 3274593032014543286
+      tree-beehive_2: -1187126142929152589
+      tree-beehive_3: -3993001793339087780
+      tree-beehive_4: 581035935009448955
+      tree-beehive_5: 8870296007517936799
+      tree-beehive_6: -7300401516903461475
+      tree-beehive_7: 4080569355348463139
+      tree-beehive_8: 8266348558016933287
+      tree-beehive_9: 6881784745320437637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

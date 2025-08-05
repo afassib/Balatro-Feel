@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 3ec5b4055e78da2479d5de65b5f06a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2782744178564642410
+    second: full-pizza_0
+  - first:
+      213: 496406943202582956
+    second: full-pizza_1
+  - first:
+      213: -7247269989176033998
+    second: full-pizza_2
+  - first:
+      213: -3507308242395118782
+    second: full-pizza_3
+  - first:
+      213: 932019230568544271
+    second: full-pizza_4
+  - first:
+      213: -8214828108757323659
+    second: full-pizza_5
+  - first:
+      213: 3654068079072191054
+    second: full-pizza_6
+  - first:
+      213: -3038188839975190549
+    second: full-pizza_7
+  - first:
+      213: 786871213967600635
+    second: full-pizza_8
+  - first:
+      213: -2676735823123629936
+    second: full-pizza_9
+  - first:
+      213: -7673215439450023739
+    second: full-pizza_10
+  - first:
+      213: -2653046180700394357
+    second: full-pizza_11
+  - first:
+      213: -1048254241196324731
+    second: full-pizza_12
+  - first:
+      213: -7168747677713778062
+    second: full-pizza_13
+  - first:
+      213: 5209539857842576405
+    second: full-pizza_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: full-pizza_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 107
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b128361b4e9620800000000000000
+      internalID: 2782744178564642410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 218
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a0a91c7793e600800000000000000
+      internalID: 496406943202582956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 273
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d30dfa7568c6b90800000000000000
+      internalID: -7247269989176033998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 327
+        width: 134
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2434d3e6cb9835fc0800000000000000
+      internalID: -3507308242395118782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 265
+        width: 188
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08fed95d823fec00800000000000000
+      internalID: 932019230568544271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 269
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57030aeeb511ffd80800000000000000
+      internalID: -8214828108757323659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 135
+        width: 189
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42213ece8bd5b230800000000000000
+      internalID: 3654068079072191054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 114
+        width: 61
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beff8b8d85f26d5d0800000000000000
+      internalID: -3038188839975190549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 74
+        width: 96
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe48833378bea00800000000000000
+      internalID: 786871213967600635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 189
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098372963f25adad0800000000000000
+      internalID: -2676735823123629936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 50
+        width: 128
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d9865633438590800000000000000
+      internalID: -7673215439450023739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 120
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c65aa1e8c7e2bd0800000000000000
+      internalID: -2653046180700394357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 51
+        width: 148
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588423f425ad371f0800000000000000
+      internalID: -1048254241196324731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 152
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab67108fd738c90800000000000000
+      internalID: -7168747677713778062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full-pizza_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 162
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c12fd36e00c4840800000000000000
+      internalID: 5209539857842576405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      full-pizza_0: 2782744178564642410
+      full-pizza_1: 496406943202582956
+      full-pizza_10: -7673215439450023739
+      full-pizza_11: -2653046180700394357
+      full-pizza_12: -1048254241196324731
+      full-pizza_13: -7168747677713778062
+      full-pizza_14: 5209539857842576405
+      full-pizza_2: -7247269989176033998
+      full-pizza_3: -3507308242395118782
+      full-pizza_4: 932019230568544271
+      full-pizza_5: -8214828108757323659
+      full-pizza_6: 3654068079072191054
+      full-pizza_7: -3038188839975190549
+      full-pizza_8: 786871213967600635
+      full-pizza_9: -2676735823123629936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

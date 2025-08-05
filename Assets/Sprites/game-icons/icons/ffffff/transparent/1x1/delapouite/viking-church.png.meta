@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 419cb9bd4029c484f885a96966b4511c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3275859783075711599
+    second: viking-church_0
+  - first:
+      213: -961777748320818093
+    second: viking-church_1
+  - first:
+      213: 1477770373756104530
+    second: viking-church_2
+  - first:
+      213: -7635715976911090576
+    second: viking-church_3
+  - first:
+      213: -219925916601622632
+    second: viking-church_4
+  - first:
+      213: 1902771443376956674
+    second: viking-church_5
+  - first:
+      213: 4341494640118042501
+    second: viking-church_6
+  - first:
+      213: 6808371281853697816
+    second: viking-church_7
+  - first:
+      213: 4916213792288510885
+    second: viking-church_8
+  - first:
+      213: -6902976616607910443
+    second: viking-church_9
+  - first:
+      213: 294943724576819725
+    second: viking-church_10
+  - first:
+      213: 1928030524632468967
+    second: viking-church_11
+  - first:
+      213: -5666585228856774753
+    second: viking-church_12
+  - first:
+      213: -1437773639492049037
+    second: viking-church_13
+  - first:
+      213: 5385907612041252157
+    second: viking-church_14
+  - first:
+      213: 1016417530105152657
+    second: viking-church_15
+  - first:
+      213: -6023749268227653231
+    second: viking-church_16
+  - first:
+      213: 4722013905454292695
+    second: viking-church_17
+  - first:
+      213: 2825916062503423645
+    second: viking-church_18
+  - first:
+      213: -402528256469353856
+    second: viking-church_19
+  - first:
+      213: -2859568394682043486
+    second: viking-church_20
+  - first:
+      213: -5258215583155222008
+    second: viking-church_21
+  - first:
+      213: 3331901856880502437
+    second: viking-church_22
+  - first:
+      213: -6022802396499127726
+    second: viking-church_23
+  - first:
+      213: 6781549839709721259
+    second: viking-church_24
+  - first:
+      213: -5043565257678529326
+    second: viking-church_25
+  - first:
+      213: 8588588670197781403
+    second: viking-church_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viking-church_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4730dd11367d20800000000000000
+      internalID: 3275859783075711599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 392
+        width: 154
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c667ecb3417a2f0800000000000000
+      internalID: -961777748320818093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 264
+        width: 266
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f245b4358128410800000000000000
+      internalID: 1477770373756104530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 312
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c807656cc780690800000000000000
+      internalID: -7635715976911090576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 200
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fde084b8aa2fcf0800000000000000
+      internalID: -219925916601622632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ad33eb80086a10800000000000000
+      internalID: 1902771443376956674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f8f7a7f56104c30800000000000000
+      internalID: 4341494640118042501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 232
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4cd9cb913c7e50800000000000000
+      internalID: 6808371281853697816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 200
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a39b399566e93440800000000000000
+      internalID: 4916213792288510885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f14a3753b330a0800000000000000
+      internalID: -6902976616607910443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 168
+        width: 145
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac12c31c9d71400800000000000000
+      internalID: 294943724576819725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 136
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed04d80c8db1ca10800000000000000
+      internalID: 1928030524632468967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 168
+        width: 145
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2488d1ce3c51b0800000000000000
+      internalID: -5666585228856774753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 136
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e7a61e700c0ce0800000000000000
+      internalID: -1437773639492049037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8ac8ff669eba40800000000000000
+      internalID: 5385907612041252157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194c561cb5a0b1e00800000000000000
+      internalID: 1016417530105152657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191854ba4f7576ca0800000000000000
+      internalID: -6023749268227653231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 24
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dede03f0a6f78140800000000000000
+      internalID: 4722013905454292695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e469ebfaba73720800000000000000
+      internalID: 2825916062503423645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a3615feaee96af0800000000000000
+      internalID: -402528256469353856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 72
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3fa0812b5c058d0800000000000000
+      internalID: -2859568394682043486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a0c9d49c01707b0800000000000000
+      internalID: -5258215583155222008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a3dde51b4d3e20800000000000000
+      internalID: 3331901856880502437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525c4c6125ba6ca0800000000000000
+      internalID: -6022802396499127726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2518626a7ec1e50800000000000000
+      internalID: 6781549839709721259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 24
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd19ebe18a10ab0800000000000000
+      internalID: -5043565257678529326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-church_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93551924ebc03770800000000000000
+      internalID: 8588588670197781403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      viking-church_0: 3275859783075711599
+      viking-church_1: -961777748320818093
+      viking-church_10: 294943724576819725
+      viking-church_11: 1928030524632468967
+      viking-church_12: -5666585228856774753
+      viking-church_13: -1437773639492049037
+      viking-church_14: 5385907612041252157
+      viking-church_15: 1016417530105152657
+      viking-church_16: -6023749268227653231
+      viking-church_17: 4722013905454292695
+      viking-church_18: 2825916062503423645
+      viking-church_19: -402528256469353856
+      viking-church_2: 1477770373756104530
+      viking-church_20: -2859568394682043486
+      viking-church_21: -5258215583155222008
+      viking-church_22: 3331901856880502437
+      viking-church_23: -6022802396499127726
+      viking-church_24: 6781549839709721259
+      viking-church_25: -5043565257678529326
+      viking-church_26: 8588588670197781403
+      viking-church_3: -7635715976911090576
+      viking-church_4: -219925916601622632
+      viking-church_5: 1902771443376956674
+      viking-church_6: 4341494640118042501
+      viking-church_7: 6808371281853697816
+      viking-church_8: 4916213792288510885
+      viking-church_9: -6902976616607910443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 1c7c8b5977a698a44af0d044789fcf00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746527188491131553
+    second: packed-planks_0
+  - first:
+      213: -1359763025015758726
+    second: packed-planks_1
+  - first:
+      213: 1782089243537411991
+    second: packed-planks_2
+  - first:
+      213: 4337298156122699048
+    second: packed-planks_3
+  - first:
+      213: -3290910036620655579
+    second: packed-planks_4
+  - first:
+      213: -1002986028797347861
+    second: packed-planks_5
+  - first:
+      213: 4815504331337316877
+    second: packed-planks_6
+  - first:
+      213: -5007072015867219488
+    second: packed-planks_7
+  - first:
+      213: 8718282254225395315
+    second: packed-planks_8
+  - first:
+      213: -1147641902985694209
+    second: packed-planks_9
+  - first:
+      213: 3509347342264582580
+    second: packed-planks_10
+  - first:
+      213: -5706671177191681379
+    second: packed-planks_11
+  - first:
+      213: 6318148453412918599
+    second: packed-planks_12
+  - first:
+      213: 1217045691050263256
+    second: packed-planks_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: packed-planks_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 424
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5f2dc5823c5a00800000000000000
+      internalID: 746527188491131553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 424
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a93babb6212de0800000000000000
+      internalID: -1359763025015758726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 424
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f871f99b04bb810800000000000000
+      internalID: 1782089243537411991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 424
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82576a861bd213c30800000000000000
+      internalID: 4337298156122699048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 432
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5244577f1c65452d0800000000000000
+      internalID: -3290910036620655579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7bad6558da412f0800000000000000
+      internalID: -1002986028797347861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a37bbfcab14d240800000000000000
+      internalID: 4815504331337316877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17f69b78e438ab0800000000000000
+      internalID: -5007072015867219488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e42bec48f8df870800000000000000
+      internalID: 8718282254225395315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 432
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff33f2b05c1c210f0800000000000000
+      internalID: -1147641902985694209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1442180d4b3b030800000000000000
+      internalID: 3509347342264582580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d929781bcc4ddc0b0800000000000000
+      internalID: -5706671177191681379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7455cdb1b829ea750800000000000000
+      internalID: 6318148453412918599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: packed-planks_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2887a9b90d3e010800000000000000
+      internalID: 1217045691050263256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      packed-planks_0: 746527188491131553
+      packed-planks_1: -1359763025015758726
+      packed-planks_10: 3509347342264582580
+      packed-planks_11: -5706671177191681379
+      packed-planks_12: 6318148453412918599
+      packed-planks_13: 1217045691050263256
+      packed-planks_2: 1782089243537411991
+      packed-planks_3: 4337298156122699048
+      packed-planks_4: -3290910036620655579
+      packed-planks_5: -1002986028797347861
+      packed-planks_6: 4815504331337316877
+      packed-planks_7: -5007072015867219488
+      packed-planks_8: 8718282254225395315
+      packed-planks_9: -1147641902985694209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

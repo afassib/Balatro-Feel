@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 0aaefecc32ba70a4bbf041daf657c4a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4160212328637869645
+    second: tribunal-jury_0
+  - first:
+      213: -113841310359660788
+    second: tribunal-jury_1
+  - first:
+      213: 5848188283997738325
+    second: tribunal-jury_2
+  - first:
+      213: -7497394118379912247
+    second: tribunal-jury_3
+  - first:
+      213: 6875238752322463561
+    second: tribunal-jury_4
+  - first:
+      213: 363928555430133821
+    second: tribunal-jury_5
+  - first:
+      213: 9103051428559958727
+    second: tribunal-jury_6
+  - first:
+      213: -7445656708111022076
+    second: tribunal-jury_7
+  - first:
+      213: -7980167374176408859
+    second: tribunal-jury_8
+  - first:
+      213: -561954424276932361
+    second: tribunal-jury_9
+  - first:
+      213: -7243521417043050409
+    second: tribunal-jury_10
+  - first:
+      213: 5890394178339481063
+    second: tribunal-jury_11
+  - first:
+      213: 3815640917915785634
+    second: tribunal-jury_12
+  - first:
+      213: 6722671680411677367
+    second: tribunal-jury_13
+  - first:
+      213: -3966154484469111667
+    second: tribunal-jury_14
+  - first:
+      213: 7658622966208456615
+    second: tribunal-jury_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tribunal-jury_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 424
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d659cde4f346c0800000000000000
+      internalID: -4160212328637869645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 424
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075f3f6eed8b6ef0800000000000000
+      internalID: -113841310359660788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 424
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555594f5240f82150800000000000000
+      internalID: 5848188283997738325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ccd0b5c7e3f790800000000000000
+      internalID: -7497394118379912247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 344
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9472e2af731c96f50800000000000000
+      internalID: 6875238752322463561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 344
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c80ec71fec0500800000000000000
+      internalID: 363928555430133821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2bd635b09845e70800000000000000
+      internalID: 9103051428559958727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 344
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c9893ca6bba890800000000000000
+      internalID: -7445656708111022076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 344
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaad0ecd00c04190800000000000000
+      internalID: -7980167374176408859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 344
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a301bd698338f0800000000000000
+      internalID: -561954424276932361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 264
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750073626a7d97b90800000000000000
+      internalID: -7243521417043050409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 264
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e524faeb42eeb150800000000000000
+      internalID: 5890394178339481063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 264
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d0ded231e3f430800000000000000
+      internalID: 3815640917915785634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2348c664abb4d50800000000000000
+      internalID: 6722671680411677367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 230
+        width: 464
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8465ec828365f8c0800000000000000
+      internalID: -3966154484469111667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribunal-jury_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 432
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e089b205e84a60800000000000000
+      internalID: 7658622966208456615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tribunal-jury_0: -4160212328637869645
+      tribunal-jury_1: -113841310359660788
+      tribunal-jury_10: -7243521417043050409
+      tribunal-jury_11: 5890394178339481063
+      tribunal-jury_12: 3815640917915785634
+      tribunal-jury_13: 6722671680411677367
+      tribunal-jury_14: -3966154484469111667
+      tribunal-jury_15: 7658622966208456615
+      tribunal-jury_2: 5848188283997738325
+      tribunal-jury_3: -7497394118379912247
+      tribunal-jury_4: 6875238752322463561
+      tribunal-jury_5: 363928555430133821
+      tribunal-jury_6: 9103051428559958727
+      tribunal-jury_7: -7445656708111022076
+      tribunal-jury_8: -7980167374176408859
+      tribunal-jury_9: -561954424276932361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

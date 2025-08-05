@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: bee37be538569574b8c22c665528aca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6991038536371488242
+    second: old-wagon_0
+  - first:
+      213: 1659551134755851290
+    second: old-wagon_1
+  - first:
+      213: -6133142178007341693
+    second: old-wagon_2
+  - first:
+      213: -2993300865449589973
+    second: old-wagon_3
+  - first:
+      213: -8417613477736928342
+    second: old-wagon_4
+  - first:
+      213: -874461619073570821
+    second: old-wagon_5
+  - first:
+      213: -1540479318395841647
+    second: old-wagon_6
+  - first:
+      213: -5201887144164676369
+    second: old-wagon_7
+  - first:
+      213: -2985233145176281670
+    second: old-wagon_8
+  - first:
+      213: -1971399880493302491
+    second: old-wagon_9
+  - first:
+      213: -3478541584837494772
+    second: old-wagon_10
+  - first:
+      213: 2208767379328109039
+    second: old-wagon_11
+  - first:
+      213: -3820965041684267198
+    second: old-wagon_12
+  - first:
+      213: 2863546376355652869
+    second: old-wagon_13
+  - first:
+      213: 4648808178934617429
+    second: old-wagon_14
+  - first:
+      213: 2647236618818208562
+    second: old-wagon_15
+  - first:
+      213: -8667597020127130841
+    second: old-wagon_16
+  - first:
+      213: -8186017815128349883
+    second: old-wagon_17
+  - first:
+      213: 1286132071510355607
+    second: old-wagon_18
+  - first:
+      213: 7975783174641669841
+    second: old-wagon_19
+  - first:
+      213: 7402597699189976780
+    second: old-wagon_20
+  - first:
+      213: 3488154037631819454
+    second: old-wagon_21
+  - first:
+      213: -3820494037550751574
+    second: old-wagon_22
+  - first:
+      213: -3010808554891394331
+    second: old-wagon_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old-wagon_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 152
+        width: 91
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ab284cd77dafe90800000000000000
+      internalID: -6991038536371488242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 152
+        width: 107
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c08b1e6f8e70710800000000000000
+      internalID: 1659551134755851290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 108
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38528e21fa3b2eaa0800000000000000
+      internalID: -6133142178007341693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 141
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230209d8b8a576d0800000000000000
+      internalID: -2993300865449589973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 136
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab23f2f321ae2b80800000000000000
+      internalID: -8417613477736928342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf728616ac94dd3f0800000000000000
+      internalID: -874461619073570821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 88
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1931e23c83e1f9ae0800000000000000
+      internalID: -1540479318395841647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca462043f2fc7b0800000000000000
+      internalID: -5201887144164676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 101
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdab0a55425296d0800000000000000
+      internalID: -2985233145176281670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 88
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df2fce04e24a4e0800000000000000
+      internalID: -1971399880493302491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 88
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083653dbdcb9bfc0800000000000000
+      internalID: -3478541584837494772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 88
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9825c9a3e17ae10800000000000000
+      internalID: 2208767379328109039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 100
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f3937f98439fac0800000000000000
+      internalID: -3820965041684267198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052980f14c5db720800000000000000
+      internalID: 2863546376355652869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 88
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55514568862e38040800000000000000
+      internalID: 4648808178934617429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 88
+        width: 131
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c01dddafdcb420800000000000000
+      internalID: 2647236618818208562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b861fde6286b780800000000000000
+      internalID: -8667597020127130841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54361442b2c656e80800000000000000
+      internalID: -8186017815128349883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eac980e4249d110800000000000000
+      internalID: 1286132071510355607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6dd023a8cafae60800000000000000
+      internalID: 7975783174641669841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea753036f4bb660800000000000000
+      internalID: 7402597699189976780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 24
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe93eebd99686030800000000000000
+      internalID: 3488154037631819454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa02a492ae0eafac0800000000000000
+      internalID: -3820494037550751574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-wagon_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 47
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2cdfe32957736d0800000000000000
+      internalID: -3010808554891394331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      old-wagon_0: -6991038536371488242
+      old-wagon_1: 1659551134755851290
+      old-wagon_10: -3478541584837494772
+      old-wagon_11: 2208767379328109039
+      old-wagon_12: -3820965041684267198
+      old-wagon_13: 2863546376355652869
+      old-wagon_14: 4648808178934617429
+      old-wagon_15: 2647236618818208562
+      old-wagon_16: -8667597020127130841
+      old-wagon_17: -8186017815128349883
+      old-wagon_18: 1286132071510355607
+      old-wagon_19: 7975783174641669841
+      old-wagon_2: -6133142178007341693
+      old-wagon_20: 7402597699189976780
+      old-wagon_21: 3488154037631819454
+      old-wagon_22: -3820494037550751574
+      old-wagon_23: -3010808554891394331
+      old-wagon_3: -2993300865449589973
+      old-wagon_4: -8417613477736928342
+      old-wagon_5: -874461619073570821
+      old-wagon_6: -1540479318395841647
+      old-wagon_7: -5201887144164676369
+      old-wagon_8: -2985233145176281670
+      old-wagon_9: -1971399880493302491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

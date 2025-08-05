@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: dd4be436ead8a5548a40f0f3e6268b9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5217393584793725686
+    second: metal-skirt_0
+  - first:
+      213: 1925469592471032690
+    second: metal-skirt_1
+  - first:
+      213: 2792831238786872325
+    second: metal-skirt_2
+  - first:
+      213: 8376892307263538105
+    second: metal-skirt_3
+  - first:
+      213: 2533230264287511259
+    second: metal-skirt_4
+  - first:
+      213: 3211552238820622431
+    second: metal-skirt_5
+  - first:
+      213: -7464016043268496979
+    second: metal-skirt_6
+  - first:
+      213: -7742444367658838188
+    second: metal-skirt_7
+  - first:
+      213: 4540012640392545497
+    second: metal-skirt_8
+  - first:
+      213: -3652718635820331590
+    second: metal-skirt_9
+  - first:
+      213: -5836406622379244703
+    second: metal-skirt_10
+  - first:
+      213: 5987054904477353229
+    second: metal-skirt_11
+  - first:
+      213: 5543723265559827246
+    second: metal-skirt_12
+  - first:
+      213: 9185992102279355790
+    second: metal-skirt_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal-skirt_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 424
+        width: 150
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05d7f47d281897b0800000000000000
+      internalID: -5217393584793725686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 372
+        width: 176
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735d0d8464a8ba10800000000000000
+      internalID: 1925469592471032690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 424
+        width: 150
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5047181f63122c620800000000000000
+      internalID: 2792831238786872325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 350
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34528bb23b04470800000000000000
+      internalID: 8376892307263538105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 29
+        width: 176
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd24025f087d72320800000000000000
+      internalID: 2533230264287511259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 350
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508384eeb9b19c20800000000000000
+      internalID: 3211552238820622431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 286
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12a2764fc7a6890800000000000000
+      internalID: -7464016043268496979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 286
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457987c6edf4d8490800000000000000
+      internalID: -7742444367658838188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 136
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d48162417d510f30800000000000000
+      internalID: 4540012640392545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 222
+        width: 136
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdca7fe0cfee4dc0800000000000000
+      internalID: -3652718635820331590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163095c791be00fa0800000000000000
+      internalID: -5836406622379244703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 159
+        width: 135
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05022007ba461350800000000000000
+      internalID: 5987054904477353229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 171
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2313c820f24fec40800000000000000
+      internalID: 5543723265559827246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal-skirt_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 75
+        width: 171
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d97e5c5233b7f70800000000000000
+      internalID: 9185992102279355790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      metal-skirt_0: -5217393584793725686
+      metal-skirt_1: 1925469592471032690
+      metal-skirt_10: -5836406622379244703
+      metal-skirt_11: 5987054904477353229
+      metal-skirt_12: 5543723265559827246
+      metal-skirt_13: 9185992102279355790
+      metal-skirt_2: 2792831238786872325
+      metal-skirt_3: 8376892307263538105
+      metal-skirt_4: 2533230264287511259
+      metal-skirt_5: 3211552238820622431
+      metal-skirt_6: -7464016043268496979
+      metal-skirt_7: -7742444367658838188
+      metal-skirt_8: 4540012640392545497
+      metal-skirt_9: -3652718635820331590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

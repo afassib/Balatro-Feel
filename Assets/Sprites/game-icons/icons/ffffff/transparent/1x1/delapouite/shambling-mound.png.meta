@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 15b1892a9fb965642a48eac5ae49ed21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 703037900126030254
+    second: shambling-mound_0
+  - first:
+      213: -4686567647356799131
+    second: shambling-mound_1
+  - first:
+      213: -3206151673205270093
+    second: shambling-mound_2
+  - first:
+      213: 7790027120498175506
+    second: shambling-mound_3
+  - first:
+      213: -2209348997694922337
+    second: shambling-mound_4
+  - first:
+      213: 80719592538342007
+    second: shambling-mound_5
+  - first:
+      213: -4973248731283957070
+    second: shambling-mound_6
+  - first:
+      213: -8408931260249884931
+    second: shambling-mound_7
+  - first:
+      213: 8714086678510436264
+    second: shambling-mound_8
+  - first:
+      213: 7378271512523001172
+    second: shambling-mound_9
+  - first:
+      213: 876408879857011
+    second: shambling-mound_10
+  - first:
+      213: 141061906783305441
+    second: shambling-mound_11
+  - first:
+      213: 7176542828900837371
+    second: shambling-mound_12
+  - first:
+      213: 8114214127157913730
+    second: shambling-mound_13
+  - first:
+      213: -1899273797362740102
+    second: shambling-mound_14
+  - first:
+      213: 4549310850727547677
+    second: shambling-mound_15
+  - first:
+      213: -7496989693746622600
+    second: shambling-mound_16
+  - first:
+      213: 8676413341155115526
+    second: shambling-mound_17
+  - first:
+      213: -5873732968153059741
+    second: shambling-mound_18
+  - first:
+      213: 3558939892041829624
+    second: shambling-mound_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shambling-mound_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 386
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea906acce31b1c900800000000000000
+      internalID: 703037900126030254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 255
+        width: 177
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b5732e87f5feb0800000000000000
+      internalID: -4686567647356799131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 388
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b953964a067183d0800000000000000
+      internalID: -3206151673205270093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 163
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ee3fb846cbb1c60800000000000000
+      internalID: 7790027120498175506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 352
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91678fcac0d651e0800000000000000
+      internalID: -2209348997694922337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 301
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77289afaa06ce1100800000000000000
+      internalID: 80719592538342007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 229
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba5828d0a87bfab0800000000000000
+      internalID: -4973248731283957070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 215
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b02c32997d4b80800000000000000
+      internalID: -8408931260249884931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 241
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff3963aa7aee870800000000000000
+      internalID: 8714086678510436264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 218
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d415059d2e46660800000000000000
+      internalID: 7378271512523001172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 250
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d36f7d61d130000800000000000000
+      internalID: 876408879857011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee782d8e0725f100800000000000000
+      internalID: 141061906783305441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 199
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e2001ea3389360800000000000000
+      internalID: 7176542828900837371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 172
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28824b8f1ca7b9070800000000000000
+      internalID: 8114214127157913730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749cf84b8c64a5e0800000000000000
+      internalID: -1899273797362740102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13127e8d16622f30800000000000000
+      internalID: 4549310850727547677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 145
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc773289755f790800000000000000
+      internalID: -7496989693746622600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c204d6ffc86870800000000000000
+      internalID: 8676413341155115526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 161
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e6cbf5cfe4c7ea0800000000000000
+      internalID: -5873732968153059741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shambling-mound_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 23
+        width: 165
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcce1ac9f4e36130800000000000000
+      internalID: 3558939892041829624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shambling-mound_0: 703037900126030254
+      shambling-mound_1: -4686567647356799131
+      shambling-mound_10: 876408879857011
+      shambling-mound_11: 141061906783305441
+      shambling-mound_12: 7176542828900837371
+      shambling-mound_13: 8114214127157913730
+      shambling-mound_14: -1899273797362740102
+      shambling-mound_15: 4549310850727547677
+      shambling-mound_16: -7496989693746622600
+      shambling-mound_17: 8676413341155115526
+      shambling-mound_18: -5873732968153059741
+      shambling-mound_19: 3558939892041829624
+      shambling-mound_2: -3206151673205270093
+      shambling-mound_3: 7790027120498175506
+      shambling-mound_4: -2209348997694922337
+      shambling-mound_5: 80719592538342007
+      shambling-mound_6: -4973248731283957070
+      shambling-mound_7: -8408931260249884931
+      shambling-mound_8: 8714086678510436264
+      shambling-mound_9: 7378271512523001172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

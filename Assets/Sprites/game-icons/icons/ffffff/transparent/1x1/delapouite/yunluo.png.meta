@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 5d62e4a6945512f40b25253eb56bb6b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2821963503000352001
+    second: yunluo_0
+  - first:
+      213: -5442607333095314198
+    second: yunluo_1
+  - first:
+      213: -6270146381482521254
+    second: yunluo_2
+  - first:
+      213: 1227942799309045520
+    second: yunluo_3
+  - first:
+      213: -1992689452436670074
+    second: yunluo_4
+  - first:
+      213: 6384708167403277860
+    second: yunluo_5
+  - first:
+      213: 8527258295531197595
+    second: yunluo_6
+  - first:
+      213: -2829980271789347435
+    second: yunluo_7
+  - first:
+      213: 2268158089460912634
+    second: yunluo_8
+  - first:
+      213: -4035450937444364792
+    second: yunluo_9
+  - first:
+      213: 1836312728619002258
+    second: yunluo_10
+  - first:
+      213: -1509224852748747687
+    second: yunluo_11
+  - first:
+      213: -7026279506853077414
+    second: yunluo_12
+  - first:
+      213: -2435288046011042748
+    second: yunluo_13
+  - first:
+      213: -422000457893317506
+    second: yunluo_14
+  - first:
+      213: 7837095677831806903
+    second: yunluo_15
+  - first:
+      213: -2310647140287175503
+    second: yunluo_16
+  - first:
+      213: 6538737112936483242
+    second: yunluo_17
+  - first:
+      213: 537276495256451800
+    second: yunluo_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yunluo_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 440
+        width: 336
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0c8a352f56d8d0800000000000000
+      internalID: -2821963503000352001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 464
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeceaea7779f774b0800000000000000
+      internalID: -5442607333095314198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 32
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d88023617fbf8a0800000000000000
+      internalID: -6270146381482521254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f705558778a0110800000000000000
+      internalID: 1227942799309045520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68938df208b8854e0800000000000000
+      internalID: -1992689452436670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 334
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e8b98204a0b9850800000000000000
+      internalID: 6384708167403277860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d32d8d38e65670800000000000000
+      internalID: 8527258295531197595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 334
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de1aacfe3e9b8d0800000000000000
+      internalID: -2829980271789347435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af11fb0e3cd1a7f10800000000000000
+      internalID: 2268158089460912634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 334
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8c1dc0c23ff7c0800000000000000
+      internalID: -4035450937444364792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 32
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992ddd82b4eb7910800000000000000
+      internalID: 1836312728619002258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 304
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c38bd1ef72e0be0800000000000000
+      internalID: -1509224852748747687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5a6de304ad7e90800000000000000
+      internalID: -7026279506853077414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b1c3cc6e143ed0800000000000000
+      internalID: -2435288046011042748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 158
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e747734c1d0c42af0800000000000000
+      internalID: -422000457893317506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff9eb0ff4f2cc60800000000000000
+      internalID: 7837095677831806903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 158
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b429e11baeeeefd0800000000000000
+      internalID: -2310647140287175503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa90e30b2c24eba50800000000000000
+      internalID: 6538737112936483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunluo_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7de5302ac47700800000000000000
+      internalID: 537276495256451800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yunluo_0: -2821963503000352001
+      yunluo_1: -5442607333095314198
+      yunluo_10: 1836312728619002258
+      yunluo_11: -1509224852748747687
+      yunluo_12: -7026279506853077414
+      yunluo_13: -2435288046011042748
+      yunluo_14: -422000457893317506
+      yunluo_15: 7837095677831806903
+      yunluo_16: -2310647140287175503
+      yunluo_17: 6538737112936483242
+      yunluo_18: 537276495256451800
+      yunluo_2: -6270146381482521254
+      yunluo_3: 1227942799309045520
+      yunluo_4: -1992689452436670074
+      yunluo_5: 6384708167403277860
+      yunluo_6: 8527258295531197595
+      yunluo_7: -2829980271789347435
+      yunluo_8: 2268158089460912634
+      yunluo_9: -4035450937444364792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 6ce256d5e764da34688d7f55b6ef9fa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8914504017601616159
+    second: encrypted-channel_0
+  - first:
+      213: -8054686209170785231
+    second: encrypted-channel_1
+  - first:
+      213: -1683612395420611756
+    second: encrypted-channel_2
+  - first:
+      213: 8976692371627326447
+    second: encrypted-channel_3
+  - first:
+      213: 433600351689444991
+    second: encrypted-channel_4
+  - first:
+      213: 8077968953421974521
+    second: encrypted-channel_5
+  - first:
+      213: 2622353165087541355
+    second: encrypted-channel_6
+  - first:
+      213: -4537165286943169906
+    second: encrypted-channel_7
+  - first:
+      213: 9136752208890238117
+    second: encrypted-channel_8
+  - first:
+      213: -6108805538799660853
+    second: encrypted-channel_9
+  - first:
+      213: -3924769254953979923
+    second: encrypted-channel_10
+  - first:
+      213: -8474061293891066606
+    second: encrypted-channel_11
+  - first:
+      213: 7644689802172302688
+    second: encrypted-channel_12
+  - first:
+      213: -4151061352698683847
+    second: encrypted-channel_13
+  - first:
+      213: -209478903211441963
+    second: encrypted-channel_14
+  - first:
+      213: 8939260199924626055
+    second: encrypted-channel_15
+  - first:
+      213: 1163213845284910277
+    second: encrypted-channel_16
+  - first:
+      213: -8119579691055444422
+    second: encrypted-channel_17
+  - first:
+      213: 4159107464591361203
+    second: encrypted-channel_18
+  - first:
+      213: -1787353656452967710
+    second: encrypted-channel_19
+  - first:
+      213: -8671122135156356997
+    second: encrypted-channel_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: encrypted-channel_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 412
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19dfe54c2ea6bb70800000000000000
+      internalID: 8914504017601616159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 342
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c332d7191083090800000000000000
+      internalID: -8054686209170785231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 294
+        width: 226
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b828f427b92a8e0800000000000000
+      internalID: -1683612395420611756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 411
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb3ec4c62e939c70800000000000000
+      internalID: 8976692371627326447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 342
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0fe8f835740600800000000000000
+      internalID: 433600351689444991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 276
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc957d6f5ba1070800000000000000
+      internalID: 8077968953421974521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b680aa05f48746420800000000000000
+      internalID: 2622353165087541355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 276
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82e480e530c801c0800000000000000
+      internalID: -4537165286943169906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 236
+        width: 105
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a41ba3b9b34cce70800000000000000
+      internalID: 9136752208890238117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 236
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc058e17ab9293ba0800000000000000
+      internalID: -6108805538799660853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 236
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe71d282b6889c0800000000000000
+      internalID: -3924769254953979923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 204
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2156cb49626166a80800000000000000
+      internalID: -8474061293891066606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 204
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065088c2fd4671a60800000000000000
+      internalID: 7644689802172302688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 156
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eda8761b77466c0800000000000000
+      internalID: -4151061352698683847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 156
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c4222c08c71df0800000000000000
+      internalID: -209478903211441963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827b432ac1ae0c70800000000000000
+      internalID: 8939260199924626055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 108
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f50e44d0942010800000000000000
+      internalID: 1163213845284910277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 108
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0a255a45715f80800000000000000
+      internalID: -8119579691055444422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 60
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c4a1043e18b930800000000000000
+      internalID: 4159107464591361203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 60
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2102bb15b0237e0800000000000000
+      internalID: -1787353656452967710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: encrypted-channel_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 60
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b788af11c5cf9a780800000000000000
+      internalID: -8671122135156356997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      encrypted-channel_0: 8914504017601616159
+      encrypted-channel_1: -8054686209170785231
+      encrypted-channel_10: -3924769254953979923
+      encrypted-channel_11: -8474061293891066606
+      encrypted-channel_12: 7644689802172302688
+      encrypted-channel_13: -4151061352698683847
+      encrypted-channel_14: -209478903211441963
+      encrypted-channel_15: 8939260199924626055
+      encrypted-channel_16: 1163213845284910277
+      encrypted-channel_17: -8119579691055444422
+      encrypted-channel_18: 4159107464591361203
+      encrypted-channel_19: -1787353656452967710
+      encrypted-channel_2: -1683612395420611756
+      encrypted-channel_20: -8671122135156356997
+      encrypted-channel_3: 8976692371627326447
+      encrypted-channel_4: 433600351689444991
+      encrypted-channel_5: 8077968953421974521
+      encrypted-channel_6: 2622353165087541355
+      encrypted-channel_7: -4537165286943169906
+      encrypted-channel_8: 9136752208890238117
+      encrypted-channel_9: -6108805538799660853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

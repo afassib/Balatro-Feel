@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 28fd649071082634ab28d5a0472934b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3294886599193804539
+    second: raise-skeleton_0
+  - first:
+      213: -8097272760707333447
+    second: raise-skeleton_1
+  - first:
+      213: -3178580994032139400
+    second: raise-skeleton_2
+  - first:
+      213: -609920032543520130
+    second: raise-skeleton_3
+  - first:
+      213: -4456089605186964489
+    second: raise-skeleton_4
+  - first:
+      213: 4372959846773490746
+    second: raise-skeleton_5
+  - first:
+      213: 1945496247461663022
+    second: raise-skeleton_6
+  - first:
+      213: 3988444295406415636
+    second: raise-skeleton_7
+  - first:
+      213: -5468921355710314374
+    second: raise-skeleton_8
+  - first:
+      213: 2069987440540917531
+    second: raise-skeleton_9
+  - first:
+      213: -2592903764210635373
+    second: raise-skeleton_10
+  - first:
+      213: 51159947285955336
+    second: raise-skeleton_11
+  - first:
+      213: -886075716939568798
+    second: raise-skeleton_12
+  - first:
+      213: 4175661359442479175
+    second: raise-skeleton_13
+  - first:
+      213: -335277677800508208
+    second: raise-skeleton_14
+  - first:
+      213: 8063614349782394039
+    second: raise-skeleton_15
+  - first:
+      213: 4885020846330163994
+    second: raise-skeleton_16
+  - first:
+      213: 5623327214383826264
+    second: raise-skeleton_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raise-skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 368
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501cbd758163642d0800000000000000
+      internalID: -3294886599193804539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 385
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c7984355b0af80800000000000000
+      internalID: -8097272760707333447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 378
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87308e04d6963e3d0800000000000000
+      internalID: -3178580994032139400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a49de36f02987f0800000000000000
+      internalID: -609920032543520130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 317
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3358b0d1ac822c0800000000000000
+      internalID: -4456089605186964489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 329
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340bfbcfcfdfac30800000000000000
+      internalID: 4372959846773490746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 320
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21dec5878acffa10800000000000000
+      internalID: 1945496247461663022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe12a74fcc95730800000000000000
+      internalID: 3988444295406415636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 252
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78c658a00d7a14b0800000000000000
+      internalID: -5468921355710314374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f16f22c921abc10800000000000000
+      internalID: 2069987440540917531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 277
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da375a3c7240cd0800000000000000
+      internalID: -2592903764210635373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 269
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80305b473b1c5b000800000000000000
+      internalID: 51159947285955336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 247
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a7bf74d604b3f0800000000000000
+      internalID: -886075716939568798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 278
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748c4eff1ede2f930800000000000000
+      internalID: 4175661359442479175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d435997abad85bf0800000000000000
+      internalID: -335277677800508208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 476
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a58c3786b7ef60800000000000000
+      internalID: 8063614349782394039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 68
+        width: 34
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1333e9e3941bc340800000000000000
+      internalID: 4885020846330163994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raise-skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 62
+        width: 26
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855822dce421a0e40800000000000000
+      internalID: 5623327214383826264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      raise-skeleton_0: -3294886599193804539
+      raise-skeleton_1: -8097272760707333447
+      raise-skeleton_10: -2592903764210635373
+      raise-skeleton_11: 51159947285955336
+      raise-skeleton_12: -886075716939568798
+      raise-skeleton_13: 4175661359442479175
+      raise-skeleton_14: -335277677800508208
+      raise-skeleton_15: 8063614349782394039
+      raise-skeleton_16: 4885020846330163994
+      raise-skeleton_17: 5623327214383826264
+      raise-skeleton_2: -3178580994032139400
+      raise-skeleton_3: -609920032543520130
+      raise-skeleton_4: -4456089605186964489
+      raise-skeleton_5: 4372959846773490746
+      raise-skeleton_6: 1945496247461663022
+      raise-skeleton_7: 3988444295406415636
+      raise-skeleton_8: -5468921355710314374
+      raise-skeleton_9: 2069987440540917531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 50b94d5374f045f49bc6bf5d68d76aa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2486941233168456524
+    second: level-end-flag_0
+  - first:
+      213: 2030605075491113033
+    second: level-end-flag_1
+  - first:
+      213: 2250666088591353014
+    second: level-end-flag_2
+  - first:
+      213: 7672015599141776854
+    second: level-end-flag_3
+  - first:
+      213: -4705920151701962944
+    second: level-end-flag_4
+  - first:
+      213: 3807587099148967744
+    second: level-end-flag_5
+  - first:
+      213: -7275910765750415910
+    second: level-end-flag_6
+  - first:
+      213: 6576633900053492590
+    second: level-end-flag_7
+  - first:
+      213: 4544196480259682588
+    second: level-end-flag_8
+  - first:
+      213: 1103006347888984243
+    second: level-end-flag_9
+  - first:
+      213: -7959549763262395446
+    second: level-end-flag_10
+  - first:
+      213: 3320290334763924073
+    second: level-end-flag_11
+  - first:
+      213: 2082172582700741494
+    second: level-end-flag_12
+  - first:
+      213: -8443238974740686320
+    second: level-end-flag_13
+  - first:
+      213: 1376468804663631305
+    second: level-end-flag_14
+  - first:
+      213: 5079467858563686928
+    second: level-end-flag_15
+  - first:
+      213: 5029260663942278822
+    second: level-end-flag_16
+  - first:
+      213: 1581896777518739228
+    second: level-end-flag_17
+  - first:
+      213: -2609906481152179620
+    second: level-end-flag_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level-end-flag_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b174c00e3638220800000000000000
+      internalID: 2486941233168456524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 394
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c0cbbe882e2c10800000000000000
+      internalID: 2030605075491113033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4618e02e8fb3f10800000000000000
+      internalID: 2250666088591353014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 88
+        width: 20
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dde9121a89787a60800000000000000
+      internalID: 7672015599141776854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb3781e8631beb0800000000000000
+      internalID: -4705920151701962944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f52201b4447d430800000000000000
+      internalID: 3807587099148967744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add810e35b5c60b90800000000000000
+      internalID: -7275910765750415910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63fa7600b5e44b50800000000000000
+      internalID: 6576633900053492590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1175736f9a301f30800000000000000
+      internalID: 4544196480259682588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08ceeed6aae4f00800000000000000
+      internalID: 1103006347888984243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb43bc69aff98190800000000000000
+      internalID: -7959549763262395446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a34c2c77a041e20800000000000000
+      internalID: 3320290334763924073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6737fe0aeec55ec10800000000000000
+      internalID: 2082172582700741494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a19dcf2e693da80800000000000000
+      internalID: -8443238974740686320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd162c5133a1310800000000000000
+      internalID: 1376468804663631305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e3bdea15ed7640800000000000000
+      internalID: 5079467858563686928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeef1d7de58bc540800000000000000
+      internalID: 5029260663942278822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe657ecb604f510800000000000000
+      internalID: 1581896777518739228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-end-flag_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524fed12efb7cbd0800000000000000
+      internalID: -2609906481152179620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      level-end-flag_0: 2486941233168456524
+      level-end-flag_1: 2030605075491113033
+      level-end-flag_10: -7959549763262395446
+      level-end-flag_11: 3320290334763924073
+      level-end-flag_12: 2082172582700741494
+      level-end-flag_13: -8443238974740686320
+      level-end-flag_14: 1376468804663631305
+      level-end-flag_15: 5079467858563686928
+      level-end-flag_16: 5029260663942278822
+      level-end-flag_17: 1581896777518739228
+      level-end-flag_18: -2609906481152179620
+      level-end-flag_2: 2250666088591353014
+      level-end-flag_3: 7672015599141776854
+      level-end-flag_4: -4705920151701962944
+      level-end-flag_5: 3807587099148967744
+      level-end-flag_6: -7275910765750415910
+      level-end-flag_7: 6576633900053492590
+      level-end-flag_8: 4544196480259682588
+      level-end-flag_9: 1103006347888984243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

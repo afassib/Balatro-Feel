@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: b8bae6bfe893b054aab442bb596741c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4117375341125042327
+    second: sharp-lips_0
+  - first:
+      213: 7634499028839087301
+    second: sharp-lips_1
+  - first:
+      213: -6714186952381959525
+    second: sharp-lips_2
+  - first:
+      213: 7268328072880258643
+    second: sharp-lips_3
+  - first:
+      213: 7217123457115918617
+    second: sharp-lips_4
+  - first:
+      213: 7799570997639960677
+    second: sharp-lips_5
+  - first:
+      213: 4268345330727249676
+    second: sharp-lips_6
+  - first:
+      213: 8782419950468498641
+    second: sharp-lips_7
+  - first:
+      213: 7990120696150410397
+    second: sharp-lips_8
+  - first:
+      213: -8764521951643827864
+    second: sharp-lips_9
+  - first:
+      213: -8938354524291307319
+    second: sharp-lips_10
+  - first:
+      213: 4215710436752613860
+    second: sharp-lips_11
+  - first:
+      213: 3749941955073497671
+    second: sharp-lips_12
+  - first:
+      213: 2795235859770188349
+    second: sharp-lips_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sharp-lips_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 374
+        width: 434
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79006b6de0bd32930800000000000000
+      internalID: 4117375341125042327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb40cda6033f960800000000000000
+      internalID: 7634499028839087301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 250
+        width: 60
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f5b34a8a62d2a0800000000000000
+      internalID: -6714186952381959525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 307
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ef60f7fd94ed460800000000000000
+      internalID: 7268328072880258643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 307
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9119889db8f582460800000000000000
+      internalID: 7217123457115918617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 250
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d4ca9f74ad3c60800000000000000
+      internalID: 7799570997639960677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 276
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e1b0b6753c3b30800000000000000
+      internalID: 4268345330727249676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 399
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48af7e96c61e970800000000000000
+      internalID: 8782419950468498641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 97
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ca8e807c92ee60800000000000000
+      internalID: 7990120696150410397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 84
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861082ea8b92e5680800000000000000
+      internalID: -8764521951643827864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86c17eae594f380800000000000000
+      internalID: -8938354524291307319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 80
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1eb827e46318a30800000000000000
+      internalID: 4215710436752613860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 84
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a5d7017587a0430800000000000000
+      internalID: 3749941955073497671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp-lips_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322905643caac620800000000000000
+      internalID: 2795235859770188349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sharp-lips_0: 4117375341125042327
+      sharp-lips_1: 7634499028839087301
+      sharp-lips_10: -8938354524291307319
+      sharp-lips_11: 4215710436752613860
+      sharp-lips_12: 3749941955073497671
+      sharp-lips_13: 2795235859770188349
+      sharp-lips_2: -6714186952381959525
+      sharp-lips_3: 7268328072880258643
+      sharp-lips_4: 7217123457115918617
+      sharp-lips_5: 7799570997639960677
+      sharp-lips_6: 4268345330727249676
+      sharp-lips_7: 8782419950468498641
+      sharp-lips_8: 7990120696150410397
+      sharp-lips_9: -8764521951643827864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: c08c9e870930ca248b43b4c2c173044d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8138252658769085693
+    second: spiked-wall_0
+  - first:
+      213: -7763806650845922796
+    second: spiked-wall_1
+  - first:
+      213: -2610341353122333608
+    second: spiked-wall_2
+  - first:
+      213: 1911730800501964038
+    second: spiked-wall_3
+  - first:
+      213: -2775522074596228055
+    second: spiked-wall_4
+  - first:
+      213: -8856259727696924210
+    second: spiked-wall_5
+  - first:
+      213: 5105679327429131805
+    second: spiked-wall_6
+  - first:
+      213: 198419657149279952
+    second: spiked-wall_7
+  - first:
+      213: 8857361163886845128
+    second: spiked-wall_8
+  - first:
+      213: -8941389408144101742
+    second: spiked-wall_9
+  - first:
+      213: 2674672445525897387
+    second: spiked-wall_10
+  - first:
+      213: 4748003331962862790
+    second: spiked-wall_11
+  - first:
+      213: 9167712985547907360
+    second: spiked-wall_12
+  - first:
+      213: -1747407443233126855
+    second: spiked-wall_13
+  - first:
+      213: -435311084030089956
+    second: spiked-wall_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiked-wall_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 48
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb0bd335e1f0f80800000000000000
+      internalID: -8138252658769085693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 395
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a73874cfa614490800000000000000
+      internalID: -7763806650845922796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 395
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c71a89e5436cbd0800000000000000
+      internalID: -2610341353122333608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 24
+        width: 48
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db716c805d78a10800000000000000
+      internalID: 1911730800501964038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 331
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924cf65e06d5b79d0800000000000000
+      internalID: -2775522074596228055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 153
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f60c33be381580800000000000000
+      internalID: -8856259727696924210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 331
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef7781c440bd640800000000000000
+      internalID: 5105679327429131805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 267
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de66dc70ade0c200800000000000000
+      internalID: 198419657149279952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 267
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd0dcdc0babea70800000000000000
+      internalID: 8857361163886845128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e6121f4bdc9e380800000000000000
+      internalID: -8941389408144101742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 203
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b81e0b685e1520800000000000000
+      internalID: 2674672445525897387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc740adfdb44e140800000000000000
+      internalID: 4748003331962862790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 139
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a15243624a3f70800000000000000
+      internalID: 9167712985547907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93647344036ffb7e0800000000000000
+      internalID: -1747407443233126855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiked-wall_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 75
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15a89d10e675f9f0800000000000000
+      internalID: -435311084030089956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spiked-wall_0: -8138252658769085693
+      spiked-wall_1: -7763806650845922796
+      spiked-wall_10: 2674672445525897387
+      spiked-wall_11: 4748003331962862790
+      spiked-wall_12: 9167712985547907360
+      spiked-wall_13: -1747407443233126855
+      spiked-wall_14: -435311084030089956
+      spiked-wall_2: -2610341353122333608
+      spiked-wall_3: 1911730800501964038
+      spiked-wall_4: -2775522074596228055
+      spiked-wall_5: -8856259727696924210
+      spiked-wall_6: 5105679327429131805
+      spiked-wall_7: 198419657149279952
+      spiked-wall_8: 8857361163886845128
+      spiked-wall_9: -8941389408144101742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

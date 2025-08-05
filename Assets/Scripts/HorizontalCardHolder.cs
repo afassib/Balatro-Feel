@@ -5,9 +5,14 @@ using Unity.VisualScripting;
 using UnityEngine;
 using DG.Tweening;
 using System.Linq;
-
 public class HorizontalCardHolder : MonoBehaviour
 {
+
+    public enum Orientation
+    {
+        Horizontal,
+        Vertical
+    }
 
     [SerializeField] private Card selectedCard;
     [SerializeReference] private Card hoveredCard;
@@ -18,6 +23,11 @@ public class HorizontalCardHolder : MonoBehaviour
     [Header("Spawn Settings")]
     [SerializeField] private int cardsToSpawn = 7;
     public List<Card> cards;
+    [SerializeField] private VisualCardsHandler VisualHandler;
+    [SerializeField] public GameObject VisualHandlerObject;
+
+    [Header("Order Settings Settings")]
+    [SerializeField] public Orientation orientation = Orientation.Horizontal;
 
     bool isCrossing = false;
     [SerializeField] private bool tweenCardReturn = true;
@@ -26,6 +36,10 @@ public class HorizontalCardHolder : MonoBehaviour
     {
         rect = GetComponent<RectTransform>();
         cards = new List<Card>();
+        if (VisualHandler == null)
+            VisualHandler = FindFirstObjectByType<VisualCardsHandler>();
+        if(VisualHandlerObject == null)
+            VisualHandlerObject = Instantiate(new GameObject(), VisualHandler.transform);
     }
     void Start()
     {
@@ -51,6 +65,7 @@ public class HorizontalCardHolder : MonoBehaviour
         card.BeginDragEvent.AddListener(BeginDrag);
         card.EndDragEvent.AddListener(EndDrag);
         card.name = "Card " + (1 + cards.Count).ToString();
+        card.Initialize(this);
         cards.Add(card);
     }
 
@@ -62,6 +77,7 @@ public class HorizontalCardHolder : MonoBehaviour
         card.EndDragEvent.AddListener(EndDrag);
         card.name = "Card " + (1 + cards.Count).ToString();
         card.transform.parent.SetParent(transform);
+        card.Initialize(this, true);
         cards.Add(card);
     }
 
@@ -147,24 +163,47 @@ public class HorizontalCardHolder : MonoBehaviour
 
         for (int i = 0; i < cards.Count; i++)
         {
-
-            if (selectedCard.transform.position.x > cards[i].transform.position.x)
+            if (orientation == Orientation.Horizontal)
             {
-                if (selectedCard.ParentIndex() < cards[i].ParentIndex())
+                if (selectedCard.transform.position.x > cards[i].transform.position.x)
                 {
-                    Swap(i);
-                    break;
+                    if (selectedCard.ParentIndex() < cards[i].ParentIndex())
+                    {
+                        Swap(i);
+                        break;
+                    }
+                }
+
+                if (selectedCard.transform.position.x < cards[i].transform.position.x)
+                {
+                    if (selectedCard.ParentIndex() > cards[i].ParentIndex())
+                    {
+                        Swap(i);
+                        break;
+                    }
                 }
             }
-
-            if (selectedCard.transform.position.x < cards[i].transform.position.x)
+            else
             {
-                if (selectedCard.ParentIndex() > cards[i].ParentIndex())
+                if (selectedCard.transform.position.y < cards[i].transform.position.y)
                 {
-                    Swap(i);
-                    break;
+                    if (selectedCard.ParentIndex() < cards[i].ParentIndex())
+                    {
+                        Swap(i);
+                        break;
+                    }
+                }
+
+                if (selectedCard.transform.position.y > cards[i].transform.position.y)
+                {
+                    if (selectedCard.ParentIndex() > cards[i].ParentIndex())
+                    {
+                        Swap(i);
+                        break;
+                    }
                 }
             }
+            
         }
     }
 
@@ -186,11 +225,21 @@ public class HorizontalCardHolder : MonoBehaviour
 
         bool swapIsRight = cards[index].ParentIndex() > selectedCard.ParentIndex();
         cards[index].cardVisual.Swap(swapIsRight ? -1 : 1);
-
+        SwapCards(cards[index].ParentIndex(), selectedCard.ParentIndex());
         //Updated Visual Indexes
         foreach (Card card in cards)
         {
             card.cardVisual.UpdateIndex(transform.childCount);
+        }
+    }
+
+    private void SwapCards(int indexA, int indexB)
+    {
+        if (indexA >= 0 && indexB >= 0 && indexA < cards.Count && indexB < cards.Count && indexA != indexB)
+        {
+            Card temp = cards[indexA];
+            cards[indexA] = cards[indexB];
+            cards[indexB] = temp;
         }
     }
 

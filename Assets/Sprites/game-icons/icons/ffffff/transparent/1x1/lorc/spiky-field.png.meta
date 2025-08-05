@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 59d19deef35bf014cb92e8eac705c4dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3451934293140703408
+    second: spiky-field_0
+  - first:
+      213: 8434186488554833954
+    second: spiky-field_1
+  - first:
+      213: 3296765500502099383
+    second: spiky-field_2
+  - first:
+      213: -1406830834602174293
+    second: spiky-field_3
+  - first:
+      213: -5401784914368264796
+    second: spiky-field_4
+  - first:
+      213: 9134864914644426091
+    second: spiky-field_5
+  - first:
+      213: -2513238906530730989
+    second: spiky-field_6
+  - first:
+      213: 6129065187689815370
+    second: spiky-field_7
+  - first:
+      213: -5289176718443063205
+    second: spiky-field_8
+  - first:
+      213: -2459286221181213230
+    second: spiky-field_9
+  - first:
+      213: -8296075789654314562
+    second: spiky-field_10
+  - first:
+      213: 5190863618545700907
+    second: spiky-field_11
+  - first:
+      213: -1272472414693820065
+    second: spiky-field_12
+  - first:
+      213: -3898747891890598352
+    second: spiky-field_13
+  - first:
+      213: 506476762635644371
+    second: spiky-field_14
+  - first:
+      213: -6876905777746368558
+    second: spiky-field_15
+  - first:
+      213: 3644876204927538505
+    second: spiky-field_16
+  - first:
+      213: 1494321122584103836
+    second: spiky-field_17
+  - first:
+      213: 7689703840527301172
+    second: spiky-field_18
+  - first:
+      213: -7798789220983801882
+    second: spiky-field_19
+  - first:
+      213: 607680898835864038
+    second: spiky-field_20
+  - first:
+      213: -1237532657908334714
+    second: spiky-field_21
+  - first:
+      213: 4507411597027649350
+    second: spiky-field_22
+  - first:
+      213: -6912113081343640375
+    second: spiky-field_23
+  - first:
+      213: 1463484602709690643
+    second: spiky-field_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiky-field_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 381
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b804a253fbb7ef20800000000000000
+      internalID: 3451934293140703408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 404
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c5b3dcef3c0570800000000000000
+      internalID: 8434186488554833954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5c03571c670cd20800000000000000
+      internalID: 3296765500502099383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 415
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba898744fcee97ce0800000000000000
+      internalID: -1406830834602174293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 403
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a504028d310905b0800000000000000
+      internalID: -5401784914368264796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 381
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d5f84cd3f85ce70800000000000000
+      internalID: 9134864914644426091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 309
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6b8cb78e2f1dd0800000000000000
+      internalID: -2513238906530730989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 349
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd675a050de0550800000000000000
+      internalID: 6129065187689815370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 126
+        width: 270
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585fee3cc11996b0800000000000000
+      internalID: -5289176718443063205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 348
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52b71363cdeddd0800000000000000
+      internalID: -2459286221181213230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 308
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1bfe7160b6edc80800000000000000
+      internalID: -8296075789654314562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 264
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b205aec65f6a90840800000000000000
+      internalID: 5190863618545700907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 263
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59f0b7a415475ee0800000000000000
+      internalID: -1272472414693820065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 216
+        width: 79
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ece03e27dd4e9c0800000000000000
+      internalID: -3898747891890598352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 215
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd23e3aeed570700800000000000000
+      internalID: 506476762635644371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 165
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a89b61a25090a0800000000000000
+      internalID: -6876905777746368558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 111
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945daf4d893359230800000000000000
+      internalID: 3644876204927538505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 163
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0dfbc425ecb410800000000000000
+      internalID: 1494321122584103836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 67
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a3692b6e057ba60800000000000000
+      internalID: 7689703840527301172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e77d15f58225c390800000000000000
+      internalID: -7798789220983801882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 66
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d6efce8aee6800800000000000000
+      internalID: 607680898835864038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 110
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fbd67ba9663dee0800000000000000
+      internalID: -1237532657908334714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472f4957fa8d8e30800000000000000
+      internalID: 4507411597027649350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 19
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc7e2346cd3310a0800000000000000
+      internalID: -6912113081343640375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiky-field_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 35
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319c3c60e775f4410800000000000000
+      internalID: 1463484602709690643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spiky-field_0: 3451934293140703408
+      spiky-field_1: 8434186488554833954
+      spiky-field_10: -8296075789654314562
+      spiky-field_11: 5190863618545700907
+      spiky-field_12: -1272472414693820065
+      spiky-field_13: -3898747891890598352
+      spiky-field_14: 506476762635644371
+      spiky-field_15: -6876905777746368558
+      spiky-field_16: 3644876204927538505
+      spiky-field_17: 1494321122584103836
+      spiky-field_18: 7689703840527301172
+      spiky-field_19: -7798789220983801882
+      spiky-field_2: 3296765500502099383
+      spiky-field_20: 607680898835864038
+      spiky-field_21: -1237532657908334714
+      spiky-field_22: 4507411597027649350
+      spiky-field_23: -6912113081343640375
+      spiky-field_24: 1463484602709690643
+      spiky-field_3: -1406830834602174293
+      spiky-field_4: -5401784914368264796
+      spiky-field_5: 9134864914644426091
+      spiky-field_6: -2513238906530730989
+      spiky-field_7: 6129065187689815370
+      spiky-field_8: -5289176718443063205
+      spiky-field_9: -2459286221181213230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

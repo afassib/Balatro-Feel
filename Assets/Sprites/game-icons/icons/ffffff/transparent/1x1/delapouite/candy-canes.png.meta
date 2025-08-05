@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: c9091df13cfaed541a02e41a7bd1a10c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3278059373301673696
+    second: candy-canes_0
+  - first:
+      213: 2446345582019247651
+    second: candy-canes_1
+  - first:
+      213: 182377728481593248
+    second: candy-canes_2
+  - first:
+      213: -4684040108049639551
+    second: candy-canes_3
+  - first:
+      213: -6711236533163338331
+    second: candy-canes_4
+  - first:
+      213: -952119137831031353
+    second: candy-canes_5
+  - first:
+      213: 6170944747997309171
+    second: candy-canes_6
+  - first:
+      213: 776457444931752435
+    second: candy-canes_7
+  - first:
+      213: 7162770137928934529
+    second: candy-canes_8
+  - first:
+      213: 4005970456556949171
+    second: candy-canes_9
+  - first:
+      213: -2370723511828028465
+    second: candy-canes_10
+  - first:
+      213: -7251799598843842038
+    second: candy-canes_11
+  - first:
+      213: -8642347097328556239
+    second: candy-canes_12
+  - first:
+      213: 6816249723485068060
+    second: candy-canes_13
+  - first:
+      213: 7775087901899618231
+    second: candy-canes_14
+  - first:
+      213: 426468989869398181
+    second: candy-canes_15
+  - first:
+      213: 2819185807818818084
+    second: candy-canes_16
+  - first:
+      213: 4949080155735317935
+    second: candy-canes_17
+  - first:
+      213: -2116119554647947490
+    second: candy-canes_18
+  - first:
+      213: 8129565561956377463
+    second: candy-canes_19
+  - first:
+      213: -4504605958182831687
+    second: candy-canes_20
+  - first:
+      213: 7355593013523763179
+    second: candy-canes_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candy-canes_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 358
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2942d1a10e7d20800000000000000
+      internalID: 3278059373301673696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 435
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7a16785a23f120800000000000000
+      internalID: 2446345582019247651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 424
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78619e39fe78200800000000000000
+      internalID: 182377728481593248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 424
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187d40eb652fefeb0800000000000000
+      internalID: -4684040108049639551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 435
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5dc254ee5ecd2a0800000000000000
+      internalID: -6711236533163338331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 357
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdeabd40b469c2f0800000000000000
+      internalID: -952119137831031353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 367
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f821f0ad8993a550800000000000000
+      internalID: 6170944747997309171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 367
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15d5caee786ca00800000000000000
+      internalID: 776457444931752435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 311
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a70f8d75476360800000000000000
+      internalID: 7162770137928934529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 310
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be49cbd7e0189730800000000000000
+      internalID: 4005970456556949171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 310
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e2d0d68f791fd0800000000000000
+      internalID: -2370723511828028465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 311
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b790cfae6c5b90800000000000000
+      internalID: -7251799598843842038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 253
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1376a16aa17301880800000000000000
+      internalID: -8642347097328556239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 264
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9eac620f289e50800000000000000
+      internalID: 6816249723485068060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f92aa049a6eb60800000000000000
+      internalID: 7775087901899618231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a892e8694f1be500800000000000000
+      internalID: 426468989869398181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4220dd63e82cf1720800000000000000
+      internalID: 2819185807818818084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 139
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd9872e2aaea440800000000000000
+      internalID: 4949080155735317935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 82
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1783fa0a7802a2e0800000000000000
+      internalID: -2116119554647947490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773a8aa6ec402d070800000000000000
+      internalID: 8129565561956377463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 26
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b977695fbc6c71c0800000000000000
+      internalID: -4504605958182831687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy-canes_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 26
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befcd6bcfd0541660800000000000000
+      internalID: 7355593013523763179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      candy-canes_0: 3278059373301673696
+      candy-canes_1: 2446345582019247651
+      candy-canes_10: -2370723511828028465
+      candy-canes_11: -7251799598843842038
+      candy-canes_12: -8642347097328556239
+      candy-canes_13: 6816249723485068060
+      candy-canes_14: 7775087901899618231
+      candy-canes_15: 426468989869398181
+      candy-canes_16: 2819185807818818084
+      candy-canes_17: 4949080155735317935
+      candy-canes_18: -2116119554647947490
+      candy-canes_19: 8129565561956377463
+      candy-canes_2: 182377728481593248
+      candy-canes_20: -4504605958182831687
+      candy-canes_21: 7355593013523763179
+      candy-canes_3: -4684040108049639551
+      candy-canes_4: -6711236533163338331
+      candy-canes_5: -952119137831031353
+      candy-canes_6: 6170944747997309171
+      candy-canes_7: 776457444931752435
+      candy-canes_8: 7162770137928934529
+      candy-canes_9: 4005970456556949171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 62c3c96fad5bee04e999392ed9962bcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1188099148499854062
+    second: wooden-door_0
+  - first:
+      213: -1117166403696825534
+    second: wooden-door_1
+  - first:
+      213: -5486698415018785438
+    second: wooden-door_2
+  - first:
+      213: -2510813591018653718
+    second: wooden-door_3
+  - first:
+      213: 1573451698854388704
+    second: wooden-door_4
+  - first:
+      213: 3914119284327598165
+    second: wooden-door_5
+  - first:
+      213: 8978963057271111144
+    second: wooden-door_6
+  - first:
+      213: -178658226448486223
+    second: wooden-door_7
+  - first:
+      213: -3799935966455589743
+    second: wooden-door_8
+  - first:
+      213: 8826868945464595007
+    second: wooden-door_9
+  - first:
+      213: -7299614557177503395
+    second: wooden-door_10
+  - first:
+      213: -8209003456680933995
+    second: wooden-door_11
+  - first:
+      213: -6009699078723413127
+    second: wooden-door_12
+  - first:
+      213: 1987384738232839281
+    second: wooden-door_13
+  - first:
+      213: 8943641646214064139
+    second: wooden-door_14
+  - first:
+      213: 283304093387295761
+    second: wooden-door_15
+  - first:
+      213: -3827307892257244048
+    second: wooden-door_16
+  - first:
+      213: 3368770344867540789
+    second: wooden-door_17
+  - first:
+      213: -7181488940332173243
+    second: wooden-door_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden-door_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 347
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2274871e9fc7010800000000000000
+      internalID: 1188099148499854062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 347
+        width: 68
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b66a823170f70f0800000000000000
+      internalID: -1117166403696825534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 347
+        width: 69
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2654b1f7cd45bd3b0800000000000000
+      internalID: -5486698415018785438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 347
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73c12875cc72dd0800000000000000
+      internalID: -2510813591018653718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 347
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3637dcbf506d510800000000000000
+      internalID: 1573451698854388704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 296
+        width: 377
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5584ade40ceb15630800000000000000
+      internalID: 3914119284327598165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edfff7f35fab9c70800000000000000
+      internalID: 8978963057271111144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 147
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b036542a47458df0800000000000000
+      internalID: -178658226448486223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 147
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1941f261f5ae34bc0800000000000000
+      internalID: -3799935966455589743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 147
+        width: 65
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3218550a865f7a70800000000000000
+      internalID: 8826868945464595007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 260
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512a2a3c3f82ba90800000000000000
+      internalID: -7299614557177503395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595449c69d2c31e80800000000000000
+      internalID: -8209003456680933995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 147
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd2b55782499ca0800000000000000
+      internalID: -6009699078723413127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 377
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca66ac3eb949b10800000000000000
+      internalID: 1987384738232839281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08aaf811b23e1c70800000000000000
+      internalID: 8943641646214064139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 18
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c83c9629f7ee300800000000000000
+      internalID: 283304093387295761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c35fbffbba2eac0800000000000000
+      internalID: -3827307892257244048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 18
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f23b7b7c640ce20800000000000000
+      internalID: 3368770344867540789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-door_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 60
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ba11abd9365c90800000000000000
+      internalID: -7181488940332173243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wooden-door_0: 1188099148499854062
+      wooden-door_1: -1117166403696825534
+      wooden-door_10: -7299614557177503395
+      wooden-door_11: -8209003456680933995
+      wooden-door_12: -6009699078723413127
+      wooden-door_13: 1987384738232839281
+      wooden-door_14: 8943641646214064139
+      wooden-door_15: 283304093387295761
+      wooden-door_16: -3827307892257244048
+      wooden-door_17: 3368770344867540789
+      wooden-door_18: -7181488940332173243
+      wooden-door_2: -5486698415018785438
+      wooden-door_3: -2510813591018653718
+      wooden-door_4: 1573451698854388704
+      wooden-door_5: 3914119284327598165
+      wooden-door_6: 8978963057271111144
+      wooden-door_7: -178658226448486223
+      wooden-door_8: -3799935966455589743
+      wooden-door_9: 8826868945464595007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

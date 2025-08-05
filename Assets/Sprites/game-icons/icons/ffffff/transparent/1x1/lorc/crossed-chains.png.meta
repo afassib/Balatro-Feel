@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: a8d9ea01aedfe0a44b551432626ec48d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2475397778277690376
+    second: crossed-chains_0
+  - first:
+      213: -318584202166123283
+    second: crossed-chains_1
+  - first:
+      213: -5080881748617455814
+    second: crossed-chains_2
+  - first:
+      213: 5085379401500056065
+    second: crossed-chains_3
+  - first:
+      213: 5823101128967268782
+    second: crossed-chains_4
+  - first:
+      213: -1641053865378851129
+    second: crossed-chains_5
+  - first:
+      213: -4082146681257167550
+    second: crossed-chains_6
+  - first:
+      213: 4855508920505533365
+    second: crossed-chains_7
+  - first:
+      213: -7110206447094150415
+    second: crossed-chains_8
+  - first:
+      213: 7332711402288580460
+    second: crossed-chains_9
+  - first:
+      213: 534143538513638987
+    second: crossed-chains_10
+  - first:
+      213: 6457288763791519647
+    second: crossed-chains_11
+  - first:
+      213: 4090349916766090636
+    second: crossed-chains_12
+  - first:
+      213: -2521804932263341183
+    second: crossed-chains_13
+  - first:
+      213: -8143650724594595467
+    second: crossed-chains_14
+  - first:
+      213: -4682668727894508073
+    second: crossed-chains_15
+  - first:
+      213: -5161112799777275854
+    second: crossed-chains_16
+  - first:
+      213: 5267464453729677702
+    second: crossed-chains_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crossed-chains_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 406
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c68040a216a5220800000000000000
+      internalID: 2475397778277690376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de446d62b59249bf0800000000000000
+      internalID: -318584202166123283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 369
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3714e328f41d79b0800000000000000
+      internalID: -5080881748617455814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10adf764f95e29640800000000000000
+      internalID: 5085379401500056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 182
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9254bef9fcfc050800000000000000
+      internalID: 5823101128967268782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 259
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6dfc0443ec939e0800000000000000
+      internalID: -1641053865378851129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 171
+        width: 157
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24570a6b83d4957c0800000000000000
+      internalID: -4082146681257167550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 268
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3097a33ab326340800000000000000
+      internalID: 4855508920505533365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fac24968e8735d90800000000000000
+      internalID: -7110206447094150415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 201
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c670ed58b2603c560800000000000000
+      internalID: 7332711402288580460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 139
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46fc20e7b8a96700800000000000000
+      internalID: 534143538513638987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 67
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2ae12be5ec9950800000000000000
+      internalID: 6457288763791519647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 102
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8534e3e397d3c830800000000000000
+      internalID: 4090349916766090636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 17
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839d9376cfb00dd0800000000000000
+      internalID: -2521804932263341183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 70
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579cfa910d0fbfe80800000000000000
+      internalID: -8143650724594595467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 122
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd74011a91d30fb0800000000000000
+      internalID: -4682668727894508073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 118
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230cd8bd04b0068b0800000000000000
+      internalID: -5161112799777275854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossed-chains_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 17
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fd8f230bc91940800000000000000
+      internalID: 5267464453729677702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crossed-chains_0: 2475397778277690376
+      crossed-chains_1: -318584202166123283
+      crossed-chains_10: 534143538513638987
+      crossed-chains_11: 6457288763791519647
+      crossed-chains_12: 4090349916766090636
+      crossed-chains_13: -2521804932263341183
+      crossed-chains_14: -8143650724594595467
+      crossed-chains_15: -4682668727894508073
+      crossed-chains_16: -5161112799777275854
+      crossed-chains_17: 5267464453729677702
+      crossed-chains_2: -5080881748617455814
+      crossed-chains_3: 5085379401500056065
+      crossed-chains_4: 5823101128967268782
+      crossed-chains_5: -1641053865378851129
+      crossed-chains_6: -4082146681257167550
+      crossed-chains_7: 4855508920505533365
+      crossed-chains_8: -7110206447094150415
+      crossed-chains_9: 7332711402288580460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

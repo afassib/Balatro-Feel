@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: bb6ad2ae3e17e5044a003bcb531e6abf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8241678559048382359
+    second: stapler-pneumatic_0
+  - first:
+      213: -4949075980021938300
+    second: stapler-pneumatic_1
+  - first:
+      213: 5971949466359728473
+    second: stapler-pneumatic_2
+  - first:
+      213: 3561792012866470360
+    second: stapler-pneumatic_3
+  - first:
+      213: -4667816406567590883
+    second: stapler-pneumatic_4
+  - first:
+      213: 235488959951360816
+    second: stapler-pneumatic_5
+  - first:
+      213: -7195665199894869094
+    second: stapler-pneumatic_6
+  - first:
+      213: -6381930469571854856
+    second: stapler-pneumatic_7
+  - first:
+      213: -7329241621155619053
+    second: stapler-pneumatic_8
+  - first:
+      213: -1272858828824759454
+    second: stapler-pneumatic_9
+  - first:
+      213: 5268776362740540919
+    second: stapler-pneumatic_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stapler-pneumatic_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 326
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7973801bbf2506270800000000000000
+      internalID: 8241678559048382359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 177
+        width: 124
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487cf541e99515bb0800000000000000
+      internalID: -4949075980021938300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 315
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95984fe1660a0e250800000000000000
+      internalID: 5971949466359728473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 44
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1cabae6f60e6130800000000000000
+      internalID: 3561792012866470360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 373
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146cc995b5983fb0800000000000000
+      internalID: -4667816406567590883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 210
+        width: 79
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335d6e16ff944300800000000000000
+      internalID: 235488959951360816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 221
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b40adff9cd32c90800000000000000
+      internalID: -7195665199894869094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 177
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7de30d04de67a0800000000000000
+      internalID: -6381930469571854856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 183
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fd20ad39d494a90800000000000000
+      internalID: -7329241621155619053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 85
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2633eaa93a5e55ee0800000000000000
+      internalID: -1272858828824759454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stapler-pneumatic_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 346
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ef1ecf247e1940800000000000000
+      internalID: 5268776362740540919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stapler-pneumatic_0: 8241678559048382359
+      stapler-pneumatic_1: -4949075980021938300
+      stapler-pneumatic_10: 5268776362740540919
+      stapler-pneumatic_2: 5971949466359728473
+      stapler-pneumatic_3: 3561792012866470360
+      stapler-pneumatic_4: -4667816406567590883
+      stapler-pneumatic_5: 235488959951360816
+      stapler-pneumatic_6: -7195665199894869094
+      stapler-pneumatic_7: -6381930469571854856
+      stapler-pneumatic_8: -7329241621155619053
+      stapler-pneumatic_9: -1272858828824759454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

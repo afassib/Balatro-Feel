@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 47f32c13a3fc96b4fafe98c0b7735dc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9089117484026251138
+    second: gauntlet_0
+  - first:
+      213: -4231026723034860799
+    second: gauntlet_1
+  - first:
+      213: 4087648969782064757
+    second: gauntlet_2
+  - first:
+      213: 5773017183776685285
+    second: gauntlet_3
+  - first:
+      213: 4620246541757322824
+    second: gauntlet_4
+  - first:
+      213: 8463009287847518246
+    second: gauntlet_5
+  - first:
+      213: 1097025739325910444
+    second: gauntlet_6
+  - first:
+      213: -7296470817787732960
+    second: gauntlet_7
+  - first:
+      213: -61084560411560924
+    second: gauntlet_8
+  - first:
+      213: -7359301249787674508
+    second: gauntlet_9
+  - first:
+      213: 1271579835743321356
+    second: gauntlet_10
+  - first:
+      213: 7926653329665779100
+    second: gauntlet_11
+  - first:
+      213: -6162369366130826303
+    second: gauntlet_12
+  - first:
+      213: -8788934697604004
+    second: gauntlet_13
+  - first:
+      213: 8236607808159025999
+    second: gauntlet_14
+  - first:
+      213: 2244960842229520222
+    second: gauntlet_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gauntlet_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 247
+        width: 121
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b2d2fdc7fcd180800000000000000
+      internalID: -9089117484026251138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 257
+        width: 133
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037252cc9f5845c0800000000000000
+      internalID: -4231026723034860799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 212
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f95aa41f3ab830800000000000000
+      internalID: 4087648969782064757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 123
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec3c39ba80ed1050800000000000000
+      internalID: 5773017183776685285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 139
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461c2820c96e1040800000000000000
+      internalID: 4620246541757322824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 106
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620abfcbb16a27570800000000000000
+      internalID: 8463009287847518246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 124
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2bfdf81b693f00800000000000000
+      internalID: 1097025739325910444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 141
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c12c7137abdba90800000000000000
+      internalID: -7296470817787732960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 59
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424786b7aebf62ff0800000000000000
+      internalID: -61084560411560924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 61
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470415b21828ed990800000000000000
+      internalID: -7359301249787674508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 77
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db70d9f1f85a110800000000000000
+      internalID: 1271579835743321356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 93
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956564c431210e60800000000000000
+      internalID: 7926653329665779100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e50d06bdda7aa0800000000000000
+      internalID: -6162369366130826303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 23
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c256da286c0eff0800000000000000
+      internalID: -8788934697604004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 40
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b078f792f4e4270800000000000000
+      internalID: 8236607808159025999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauntlet_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 55
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5790cfddf3b72f10800000000000000
+      internalID: 2244960842229520222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gauntlet_0: -9089117484026251138
+      gauntlet_1: -4231026723034860799
+      gauntlet_10: 1271579835743321356
+      gauntlet_11: 7926653329665779100
+      gauntlet_12: -6162369366130826303
+      gauntlet_13: -8788934697604004
+      gauntlet_14: 8236607808159025999
+      gauntlet_15: 2244960842229520222
+      gauntlet_2: 4087648969782064757
+      gauntlet_3: 5773017183776685285
+      gauntlet_4: 4620246541757322824
+      gauntlet_5: 8463009287847518246
+      gauntlet_6: 1097025739325910444
+      gauntlet_7: -7296470817787732960
+      gauntlet_8: -61084560411560924
+      gauntlet_9: -7359301249787674508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

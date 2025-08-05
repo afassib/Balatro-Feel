@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 5a3d607cb828434489c5a8e42e566938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7173429967713766408
+    second: egyptian-urns_0
+  - first:
+      213: -1898003193014745858
+    second: egyptian-urns_1
+  - first:
+      213: -5016426336861445655
+    second: egyptian-urns_2
+  - first:
+      213: 6072573686563661150
+    second: egyptian-urns_3
+  - first:
+      213: -5693549237644802013
+    second: egyptian-urns_4
+  - first:
+      213: -5390379627001341976
+    second: egyptian-urns_5
+  - first:
+      213: -2487463132444751873
+    second: egyptian-urns_6
+  - first:
+      213: -903059900353697982
+    second: egyptian-urns_7
+  - first:
+      213: -4854727591490439181
+    second: egyptian-urns_8
+  - first:
+      213: 3205176107559685408
+    second: egyptian-urns_9
+  - first:
+      213: 6257959354479699772
+    second: egyptian-urns_10
+  - first:
+      213: -9068819221489785251
+    second: egyptian-urns_11
+  - first:
+      213: -4050774035407834023
+    second: egyptian-urns_12
+  - first:
+      213: 8488403537521949052
+    second: egyptian-urns_13
+  - first:
+      213: 4789373587787205042
+    second: egyptian-urns_14
+  - first:
+      213: 4364878130975968489
+    second: egyptian-urns_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: egyptian-urns_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 383
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c88b69c842d8360800000000000000
+      internalID: 7173429967713766408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 383
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef48cc9e620f8a5e0800000000000000
+      internalID: -1898003193014745858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 464
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a57523d2126ab0800000000000000
+      internalID: -5016426336861445655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e204189d164450800000000000000
+      internalID: 6072573686563661150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 412
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3284cf252237cf0b0800000000000000
+      internalID: -5693549237644802013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 363
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71518e9468135b0800000000000000
+      internalID: -5390379627001341976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 412
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff700cec571ca7dd0800000000000000
+      internalID: -2487463132444751873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 280
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a4842ecfa773f0800000000000000
+      internalID: -903059900353697982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 280
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7bceb1afa80acb0800000000000000
+      internalID: -4854727591490439181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 276
+        width: 172
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d0aa520b21b7c20800000000000000
+      internalID: 3205176107559685408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 337
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37689670ecb8d650800000000000000
+      internalID: 6257959354479699772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 337
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56edda77f4152280800000000000000
+      internalID: -9068819221489785251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f32a0a72c8c7c0800000000000000
+      internalID: -4050774035407834023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 176
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c793a2c3b0edcc570800000000000000
+      internalID: 8488403537521949052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 16
+        width: 172
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c1b427e5477240800000000000000
+      internalID: 4789373587787205042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian-urns_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 16
+        width: 176
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec81b4b889239c30800000000000000
+      internalID: 4364878130975968489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      egyptian-urns_0: 7173429967713766408
+      egyptian-urns_1: -1898003193014745858
+      egyptian-urns_10: 6257959354479699772
+      egyptian-urns_11: -9068819221489785251
+      egyptian-urns_12: -4050774035407834023
+      egyptian-urns_13: 8488403537521949052
+      egyptian-urns_14: 4789373587787205042
+      egyptian-urns_15: 4364878130975968489
+      egyptian-urns_2: -5016426336861445655
+      egyptian-urns_3: 6072573686563661150
+      egyptian-urns_4: -5693549237644802013
+      egyptian-urns_5: -5390379627001341976
+      egyptian-urns_6: -2487463132444751873
+      egyptian-urns_7: -903059900353697982
+      egyptian-urns_8: -4854727591490439181
+      egyptian-urns_9: 3205176107559685408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

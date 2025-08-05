@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 4a5c63631576c6146a5cb5a204bed7a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6052897112426162762
+    second: refinery_0
+  - first:
+      213: 4191965823007805075
+    second: refinery_1
+  - first:
+      213: 3588502188070183137
+    second: refinery_2
+  - first:
+      213: 4674512078716416837
+    second: refinery_3
+  - first:
+      213: -8297376811940104033
+    second: refinery_4
+  - first:
+      213: 2743059672124126126
+    second: refinery_5
+  - first:
+      213: -5155178053496821280
+    second: refinery_6
+  - first:
+      213: -7219475551937143367
+    second: refinery_7
+  - first:
+      213: 4274612104798686626
+    second: refinery_8
+  - first:
+      213: 7045898091311699872
+    second: refinery_9
+  - first:
+      213: -9173079791175339668
+    second: refinery_10
+  - first:
+      213: 124691009268398680
+    second: refinery_11
+  - first:
+      213: 9115138232056361258
+    second: refinery_12
+  - first:
+      213: -7290103388886975560
+    second: refinery_13
+  - first:
+      213: -4618366523995282315
+    second: refinery_14
+  - first:
+      213: 1443641169671911026
+    second: refinery_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: refinery_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 295
+        width: 253
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d9d7552acffba0800000000000000
+      internalID: -6052897112426162762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 406
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e45feb4badc2a30800000000000000
+      internalID: 4191965823007805075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 372
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0a2a33abbecc130800000000000000
+      internalID: 3588502188070183137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 230
+        width: 46
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433a2e08f33fd040800000000000000
+      internalID: 4674512078716416837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 80
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f983fbc30cbc9dc80800000000000000
+      internalID: -8297376811940104033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 262
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea378aa0d3e411620800000000000000
+      internalID: 2743059672124126126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 180
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9ae67afd02578b0800000000000000
+      internalID: -5155178053496821280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 190
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5b266c354fcb90800000000000000
+      internalID: -7219475551937143367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 102
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad4c1bbf09725b30800000000000000
+      internalID: 4274612104798686626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 144
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79c38bbfe08c160800000000000000
+      internalID: 7045898091311699872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61fdaee78ca2b080800000000000000
+      internalID: -9173079791175339668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 21
+        width: 170
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab022ffcdfab100800000000000000
+      internalID: 124691009268398680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 102
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213d409de97f7e70800000000000000
+      internalID: 9115138232056361258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb3589a79954da90800000000000000
+      internalID: -7290103388886975560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 21
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a4b69d1448efb0800000000000000
+      internalID: -4618366523995282315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refinery_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 21
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767c6dbef7d80410800000000000000
+      internalID: 1443641169671911026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      refinery_0: -6052897112426162762
+      refinery_1: 4191965823007805075
+      refinery_10: -9173079791175339668
+      refinery_11: 124691009268398680
+      refinery_12: 9115138232056361258
+      refinery_13: -7290103388886975560
+      refinery_14: -4618366523995282315
+      refinery_15: 1443641169671911026
+      refinery_2: 3588502188070183137
+      refinery_3: 4674512078716416837
+      refinery_4: -8297376811940104033
+      refinery_5: 2743059672124126126
+      refinery_6: -5155178053496821280
+      refinery_7: -7219475551937143367
+      refinery_8: 4274612104798686626
+      refinery_9: 7045898091311699872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

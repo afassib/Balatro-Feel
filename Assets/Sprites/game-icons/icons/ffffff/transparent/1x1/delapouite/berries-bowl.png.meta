@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f0e3c9b8c2eeb8d4e9b66c8990c4d0be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6021723742332599943
+    second: berries-bowl_0
+  - first:
+      213: 6918953251017027329
+    second: berries-bowl_1
+  - first:
+      213: -3368299684609080920
+    second: berries-bowl_2
+  - first:
+      213: 468786869377229818
+    second: berries-bowl_3
+  - first:
+      213: 9159320069760682792
+    second: berries-bowl_4
+  - first:
+      213: 7662972776443590872
+    second: berries-bowl_5
+  - first:
+      213: -3787850298257542482
+    second: berries-bowl_6
+  - first:
+      213: -2782547549873226324
+    second: berries-bowl_7
+  - first:
+      213: -4695366630828791963
+    second: berries-bowl_8
+  - first:
+      213: -4394164145215943048
+    second: berries-bowl_9
+  - first:
+      213: -7757459441143381605
+    second: berries-bowl_10
+  - first:
+      213: 944424355270943366
+    second: berries-bowl_11
+  - first:
+      213: -7297457740927539918
+    second: berries-bowl_12
+  - first:
+      213: -5648768686977603152
+    second: berries-bowl_13
+  - first:
+      213: -2782108873566939408
+    second: berries-bowl_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: berries-bowl_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 356
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971caba292a8e6ca0800000000000000
+      internalID: -6021723742332599943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 401
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f6768d25f050060800000000000000
+      internalID: 6918953251017027329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 356
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c0d968456141d0800000000000000
+      internalID: -3368299684609080920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 306
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3e8988c27718600800000000000000
+      internalID: 468786869377229818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 287
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b013643117c1f70800000000000000
+      internalID: 9159320069760682792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 334
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b867d329585a60800000000000000
+      internalID: 7662972776443590872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 299
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2700ef83ade6bc0800000000000000
+      internalID: -3787850298257542482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 283
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad3c27feb76269d0800000000000000
+      internalID: -2782547549873226324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 251
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5672a372de4b6deb0800000000000000
+      internalID: -4695366630828791963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e45afbdfac403c0800000000000000
+      internalID: -4394164145215943048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 276
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9106233db7f75490800000000000000
+      internalID: -7757459441143381605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 237
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e62582f44b1d00800000000000000
+      internalID: 944424355270943366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 247
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e69429d83aba90800000000000000
+      internalID: -7297457740927539918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 452
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a952ceca8b91b0800000000000000
+      internalID: -5648768686977603152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries-bowl_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 236
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6949048b6f369d0800000000000000
+      internalID: -2782108873566939408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      berries-bowl_0: -6021723742332599943
+      berries-bowl_1: 6918953251017027329
+      berries-bowl_10: -7757459441143381605
+      berries-bowl_11: 944424355270943366
+      berries-bowl_12: -7297457740927539918
+      berries-bowl_13: -5648768686977603152
+      berries-bowl_14: -2782108873566939408
+      berries-bowl_2: -3368299684609080920
+      berries-bowl_3: 468786869377229818
+      berries-bowl_4: 9159320069760682792
+      berries-bowl_5: 7662972776443590872
+      berries-bowl_6: -3787850298257542482
+      berries-bowl_7: -2782547549873226324
+      berries-bowl_8: -4695366630828791963
+      berries-bowl_9: -4394164145215943048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

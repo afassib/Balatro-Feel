@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 897226555fbac6e4ebfdedc9727e6988
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7877857322377163641
+    second: mars-curiosity_0
+  - first:
+      213: -8401654534563650726
+    second: mars-curiosity_1
+  - first:
+      213: -6317760486537579523
+    second: mars-curiosity_2
+  - first:
+      213: 3877433048122585592
+    second: mars-curiosity_3
+  - first:
+      213: 3327386619128304581
+    second: mars-curiosity_4
+  - first:
+      213: 6010774227417199896
+    second: mars-curiosity_5
+  - first:
+      213: 5954464286797031934
+    second: mars-curiosity_6
+  - first:
+      213: -3450222318092460111
+    second: mars-curiosity_7
+  - first:
+      213: -5847892867801534389
+    second: mars-curiosity_8
+  - first:
+      213: 308498251506530075
+    second: mars-curiosity_9
+  - first:
+      213: -1574102043512881382
+    second: mars-curiosity_10
+  - first:
+      213: 6777783922019470533
+    second: mars-curiosity_11
+  - first:
+      213: 6135969495879629465
+    second: mars-curiosity_12
+  - first:
+      213: -677965604182016349
+    second: mars-curiosity_13
+  - first:
+      213: -5513827464972715644
+    second: mars-curiosity_14
+  - first:
+      213: -6640133791299000905
+    second: mars-curiosity_15
+  - first:
+      213: 8363311827791260724
+    second: mars-curiosity_16
+  - first:
+      213: 1932635598810093998
+    second: mars-curiosity_17
+  - first:
+      213: -8295311297055216339
+    second: mars-curiosity_18
+  - first:
+      213: -3692481163647346200
+    second: mars-curiosity_19
+  - first:
+      213: -5437715569306583160
+    second: mars-curiosity_20
+  - first:
+      213: -6646958431830821149
+    second: mars-curiosity_21
+  - first:
+      213: 6412937108724775082
+    second: mars-curiosity_22
+  - first:
+      213: -3391969010126884863
+    second: mars-curiosity_23
+  - first:
+      213: -2248785566436611561
+    second: mars-curiosity_24
+  - first:
+      213: -6980178075422168123
+    second: mars-curiosity_25
+  - first:
+      213: 6394420645405637995
+    second: mars-curiosity_26
+  - first:
+      213: 633320200191637333
+    second: mars-curiosity_27
+  - first:
+      213: -1838978231385059331
+    second: mars-curiosity_28
+  - first:
+      213: 2343427722972560282
+    second: mars-curiosity_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mars-curiosity_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 466
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973308bfe75c35d60800000000000000
+      internalID: 7877857322377163641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53a8c5f6b3576b80800000000000000
+      internalID: -8401654534563650726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 438
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3bde77f4ec258a0800000000000000
+      internalID: -6317760486537579523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 447
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f4b150d86fc530800000000000000
+      internalID: 3877433048122585592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 438
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d78730804d2e20800000000000000
+      internalID: 3327386619128304581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 359
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815764a305f8a6350800000000000000
+      internalID: 6010774227417199896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 405
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9694288b182a250800000000000000
+      internalID: 5954464286797031934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf59fde4195e10d0800000000000000
+      internalID: -3450222318092460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 401
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4036229b6c18dea0800000000000000
+      internalID: -5847892867801534389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 326
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1730e67681084400800000000000000
+      internalID: 308498251506530075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 326
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fb238088aa72ae0800000000000000
+      internalID: -1574102043512881382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc035c11968f0e50800000000000000
+      internalID: 6777783922019470533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 230
+        width: 19
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ab98a2fb7572550800000000000000
+      internalID: 6135969495879629465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 294
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae3cc000e16796f0800000000000000
+      internalID: -677965604182016349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 294
+        width: 98
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48932855223fa73b0800000000000000
+      internalID: -5513827464972715644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b52e8c6f7189d3a0800000000000000
+      internalID: -6640133791299000905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 294
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c2251fbc3701470800000000000000
+      internalID: 8363311827791260724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9995b66d912da10800000000000000
+      internalID: 1932635598810093998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 198
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2db5635221ec80800000000000000
+      internalID: -8295311297055216339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 182
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99afcf1fba1ccc0800000000000000
+      internalID: -3692481163647346200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fbeddff7a5984b0800000000000000
+      internalID: -5437715569306583160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 161
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6bfe9f58241c3a0800000000000000
+      internalID: -6646958431830821149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f57cb2545ff850800000000000000
+      internalID: 6412937108724775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 126
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100f04e182e4de0d0800000000000000
+      internalID: -3391969010126884863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 106
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a25802175bac0e0800000000000000
+      internalID: -2248785566436611561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbed71e50d612f90800000000000000
+      internalID: -6980178075422168123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 23
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db3d9a2bb8db850800000000000000
+      internalID: 6394420645405637995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5577089dd510ac800800000000000000
+      internalID: 633320200191637333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 85
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff0e98ba03aa76e0800000000000000
+      internalID: -1838978231385059331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars-curiosity_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 22
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bf4981917858020800000000000000
+      internalID: 2343427722972560282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mars-curiosity_0: 7877857322377163641
+      mars-curiosity_1: -8401654534563650726
+      mars-curiosity_10: -1574102043512881382
+      mars-curiosity_11: 6777783922019470533
+      mars-curiosity_12: 6135969495879629465
+      mars-curiosity_13: -677965604182016349
+      mars-curiosity_14: -5513827464972715644
+      mars-curiosity_15: -6640133791299000905
+      mars-curiosity_16: 8363311827791260724
+      mars-curiosity_17: 1932635598810093998
+      mars-curiosity_18: -8295311297055216339
+      mars-curiosity_19: -3692481163647346200
+      mars-curiosity_2: -6317760486537579523
+      mars-curiosity_20: -5437715569306583160
+      mars-curiosity_21: -6646958431830821149
+      mars-curiosity_22: 6412937108724775082
+      mars-curiosity_23: -3391969010126884863
+      mars-curiosity_24: -2248785566436611561
+      mars-curiosity_25: -6980178075422168123
+      mars-curiosity_26: 6394420645405637995
+      mars-curiosity_27: 633320200191637333
+      mars-curiosity_28: -1838978231385059331
+      mars-curiosity_29: 2343427722972560282
+      mars-curiosity_3: 3877433048122585592
+      mars-curiosity_4: 3327386619128304581
+      mars-curiosity_5: 6010774227417199896
+      mars-curiosity_6: 5954464286797031934
+      mars-curiosity_7: -3450222318092460111
+      mars-curiosity_8: -5847892867801534389
+      mars-curiosity_9: 308498251506530075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

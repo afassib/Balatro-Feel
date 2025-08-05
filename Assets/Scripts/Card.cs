@@ -29,6 +29,7 @@ public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHand
     [Header("Card informations")]
     [SerializeField] public int cardNumber = 1 ;
     [SerializeField] public CardType cardType = CardType.Hearts;
+    [SerializeField] private HorizontalCardHolder horizontalCardHolder;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeedLimit = 50;
@@ -57,6 +58,14 @@ public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHand
     [HideInInspector] public UnityEvent<Card> EndDragEvent;
     [HideInInspector] public UnityEvent<Card, bool> SelectEvent;
 
+    public void Initialize(HorizontalCardHolder holder, bool MoveVisual = false)
+    {
+        horizontalCardHolder = holder;
+        if (MoveVisual)
+        {
+            cardVisual.transform.SetParent(horizontalCardHolder.VisualHandlerObject.transform, false);
+        }
+    }
     private void Awake()
     {
         parentTransform = transform.parent;
@@ -71,14 +80,16 @@ public class Card : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHand
         if (!instantiateVisual)
             return;
 
+        /*visualHandler = FindFirstObjectByType<VisualCardsHandler>();
+        cardVisual = Instantiate(cardVisualPrefab, visualHandler ? visualHandler.transform : canvas.transform).GetComponent<CardVisual>();*/
         visualHandler = FindFirstObjectByType<VisualCardsHandler>();
-        cardVisual = Instantiate(cardVisualPrefab, visualHandler ? visualHandler.transform : canvas.transform).GetComponent<CardVisual>();
+        cardVisual = Instantiate(cardVisualPrefab, horizontalCardHolder.VisualHandlerObject.transform).GetComponent<CardVisual>();
         cardVisual.Initialize(this);
     }
 
     void Update()
     {
-        ClampPosition();
+        //ClampPosition();
 
         if (isDragging)
         {

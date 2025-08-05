@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: c937381256f77d144931bd9012782353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1148289402769161713
+    second: viking-helmet_0
+  - first:
+      213: -4809835746139993314
+    second: viking-helmet_1
+  - first:
+      213: 3518796303003316835
+    second: viking-helmet_2
+  - first:
+      213: -7295277973748605989
+    second: viking-helmet_3
+  - first:
+      213: -8629608442047999502
+    second: viking-helmet_4
+  - first:
+      213: -6347791148682616918
+    second: viking-helmet_5
+  - first:
+      213: -5345506854343115760
+    second: viking-helmet_6
+  - first:
+      213: 8363821618122629137
+    second: viking-helmet_7
+  - first:
+      213: -854005896491224020
+    second: viking-helmet_8
+  - first:
+      213: 6541980132522781482
+    second: viking-helmet_9
+  - first:
+      213: -5626182713597128772
+    second: viking-helmet_10
+  - first:
+      213: 2313563326119306471
+    second: viking-helmet_11
+  - first:
+      213: -2981351397166987829
+    second: viking-helmet_12
+  - first:
+      213: -7367063130966255599
+    second: viking-helmet_13
+  - first:
+      213: 1066342996187290405
+    second: viking-helmet_14
+  - first:
+      213: 4921120910882448731
+    second: viking-helmet_15
+  - first:
+      213: 819946861009291785
+    second: viking-helmet_16
+  - first:
+      213: 5834264437470576697
+    second: viking-helmet_17
+  - first:
+      213: 3248888212412615097
+    second: viking-helmet_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viking-helmet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 115
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0249904fd47010f0800000000000000
+      internalID: -1148289402769161713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 144
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b895b5fd7004db0800000000000000
+      internalID: -4809835746139993314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 302
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362787d189645d030800000000000000
+      internalID: 3518796303003316835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 120
+        width: 144
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9bfcb557f1ca90800000000000000
+      internalID: -7295277973748605989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 231
+        width: 115
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15405f7d87d3880800000000000000
+      internalID: -8629608442047999502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 195
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5762159d18e7a0800000000000000
+      internalID: -6347791148682616918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 274
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c767276d1f0d5b0800000000000000
+      internalID: -5345506854343115760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 195
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110aee0c273421470800000000000000
+      internalID: 8363821618122629137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 212
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c243d8f6926f524f0800000000000000
+      internalID: -854005896491224020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2beea60548c9ca50800000000000000
+      internalID: 6541980132522781482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 124
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf899a71a8cbe1b0800000000000000
+      internalID: -5626182713597128772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e466ba569d6b1020800000000000000
+      internalID: 2313563326119306471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54f3d33bc10a6d0800000000000000
+      internalID: -2981351397166987829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 72
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11811e06d1fe2c990800000000000000
+      internalID: -7367063130966255599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b18782e496cce00800000000000000
+      internalID: 1066342996187290405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5525ed25655b4440800000000000000
+      internalID: 4921120910882448731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ac7296359016b00800000000000000
+      internalID: 819946861009291785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930c029389877f050800000000000000
+      internalID: 5834264437470576697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viking-helmet_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9cec7ad9e561d20800000000000000
+      internalID: 3248888212412615097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      viking-helmet_0: -1148289402769161713
+      viking-helmet_1: -4809835746139993314
+      viking-helmet_10: -5626182713597128772
+      viking-helmet_11: 2313563326119306471
+      viking-helmet_12: -2981351397166987829
+      viking-helmet_13: -7367063130966255599
+      viking-helmet_14: 1066342996187290405
+      viking-helmet_15: 4921120910882448731
+      viking-helmet_16: 819946861009291785
+      viking-helmet_17: 5834264437470576697
+      viking-helmet_18: 3248888212412615097
+      viking-helmet_2: 3518796303003316835
+      viking-helmet_3: -7295277973748605989
+      viking-helmet_4: -8629608442047999502
+      viking-helmet_5: -6347791148682616918
+      viking-helmet_6: -5345506854343115760
+      viking-helmet_7: 8363821618122629137
+      viking-helmet_8: -854005896491224020
+      viking-helmet_9: 6541980132522781482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

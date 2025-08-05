@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 9a3b7e1d9a006814fac4c642aa4d0507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4065464700226030921
+    second: siege-tower_0
+  - first:
+      213: -8840504489886919937
+    second: siege-tower_1
+  - first:
+      213: -5375565914642272638
+    second: siege-tower_2
+  - first:
+      213: -1058708368488783519
+    second: siege-tower_3
+  - first:
+      213: -1027343171160067431
+    second: siege-tower_4
+  - first:
+      213: 1569953156451309088
+    second: siege-tower_5
+  - first:
+      213: 6426808449365626046
+    second: siege-tower_6
+  - first:
+      213: -5927773114063716827
+    second: siege-tower_7
+  - first:
+      213: -6409877936659788435
+    second: siege-tower_8
+  - first:
+      213: 620214151134887939
+    second: siege-tower_9
+  - first:
+      213: -7466281803484173909
+    second: siege-tower_10
+  - first:
+      213: 5219353078786031667
+    second: siege-tower_11
+  - first:
+      213: 1999700854615601294
+    second: siege-tower_12
+  - first:
+      213: -7341557514158383674
+    second: siege-tower_13
+  - first:
+      213: -8095454164515789467
+    second: siege-tower_14
+  - first:
+      213: 8852455557664192123
+    second: siege-tower_15
+  - first:
+      213: -5448961869156164543
+    second: siege-tower_16
+  - first:
+      213: 1289174115443775503
+    second: siege-tower_17
+  - first:
+      213: -1028340539479078597
+    second: siege-tower_18
+  - first:
+      213: 1452512657749088285
+    second: siege-tower_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: siege-tower_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 192
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dccd7ea9e6b6830800000000000000
+      internalID: 4065464700226030921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 358
+        width: 130
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff25b056108305580800000000000000
+      internalID: -8840504489886919937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 328
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eac0718472665b0800000000000000
+      internalID: -5375565914642272638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 328
+        width: 132
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612e7f1956be41f0800000000000000
+      internalID: -1058708368488783519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 328
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b49434d42eb1f0800000000000000
+      internalID: -1027343171160067431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 264
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026984ce31899c510800000000000000
+      internalID: 1569953156451309088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 264
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebccae7eb3c903950800000000000000
+      internalID: 6426808449365626046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 264
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52efe1b62c15cbda0800000000000000
+      internalID: -5927773114063716827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d87c34af98b07a0800000000000000
+      internalID: -6409877936659788435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 200
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c0130c717b9800800000000000000
+      internalID: 620214151134887939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 200
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ec5ef140726890800000000000000
+      internalID: -7466281803484173909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 136
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330026ac8fdde6840800000000000000
+      internalID: 5219353078786031667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 136
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807868155d50cb10800000000000000
+      internalID: 1999700854615601294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 136
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5d7e865c8d1a90800000000000000
+      internalID: -7341557514158383674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 81
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656494345b27af80800000000000000
+      internalID: -8095454164515789467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 40
+        width: 158
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b1886d6d3ada70800000000000000
+      internalID: 8852455557664192123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 87
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5c42cc066164b0800000000000000
+      internalID: -5448961869156164543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0897a4170114e110800000000000000
+      internalID: 1289174115443775503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39473c4ab99ab1f0800000000000000
+      internalID: -1028340539479078597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siege-tower_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1894e4019c582410800000000000000
+      internalID: 1452512657749088285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      siege-tower_0: 4065464700226030921
+      siege-tower_1: -8840504489886919937
+      siege-tower_10: -7466281803484173909
+      siege-tower_11: 5219353078786031667
+      siege-tower_12: 1999700854615601294
+      siege-tower_13: -7341557514158383674
+      siege-tower_14: -8095454164515789467
+      siege-tower_15: 8852455557664192123
+      siege-tower_16: -5448961869156164543
+      siege-tower_17: 1289174115443775503
+      siege-tower_18: -1028340539479078597
+      siege-tower_19: 1452512657749088285
+      siege-tower_2: -5375565914642272638
+      siege-tower_3: -1058708368488783519
+      siege-tower_4: -1027343171160067431
+      siege-tower_5: 1569953156451309088
+      siege-tower_6: 6426808449365626046
+      siege-tower_7: -5927773114063716827
+      siege-tower_8: -6409877936659788435
+      siege-tower_9: 620214151134887939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

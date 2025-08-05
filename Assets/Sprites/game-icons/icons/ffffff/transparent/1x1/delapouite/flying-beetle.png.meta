@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: d01e3030e5d841348b2bbb5371612f09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2775430342939583863
+    second: flying-beetle_0
+  - first:
+      213: 4627064292596242849
+    second: flying-beetle_1
+  - first:
+      213: -7840821078116405580
+    second: flying-beetle_2
+  - first:
+      213: -2445882085651283334
+    second: flying-beetle_3
+  - first:
+      213: -7867741522283276600
+    second: flying-beetle_4
+  - first:
+      213: -5001651925922542525
+    second: flying-beetle_5
+  - first:
+      213: -6237799764995587889
+    second: flying-beetle_6
+  - first:
+      213: 9120737608925288860
+    second: flying-beetle_7
+  - first:
+      213: -8554775775893077687
+    second: flying-beetle_8
+  - first:
+      213: 3046904956700983379
+    second: flying-beetle_9
+  - first:
+      213: 1557653855665876559
+    second: flying-beetle_10
+  - first:
+      213: 326830608429352161
+    second: flying-beetle_11
+  - first:
+      213: -2907413358173217402
+    second: flying-beetle_12
+  - first:
+      213: 21216792247132386
+    second: flying-beetle_13
+  - first:
+      213: 8900962528460565463
+    second: flying-beetle_14
+  - first:
+      213: 5727869524120680662
+    second: flying-beetle_15
+  - first:
+      213: -1019901254917232332
+    second: flying-beetle_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying-beetle_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 269
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ade36dec0bb79d0800000000000000
+      internalID: -2775430342939583863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 419
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9d7197572a63040800000000000000
+      internalID: 4627064292596242849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 269
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee97b95cecf2390800000000000000
+      internalID: -7840821078116405580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 251
+        width: 176
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728342b33b7e0ed0800000000000000
+      internalID: -2445882085651283334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 356
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d6b345ca20d290800000000000000
+      internalID: -7867741522283276600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 356
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0d31c210969ab0800000000000000
+      internalID: -5001651925922542525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 171
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc04c6bb922ee69a0800000000000000
+      internalID: -6237799764995587889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 219
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c999985188e539e70800000000000000
+      internalID: 9120737608925288860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 196
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941c6c8c1c4574980800000000000000
+      internalID: -8554775775893077687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 94
+        width: 176
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500a883ae7c84a20800000000000000
+      internalID: 3046904956700983379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 196
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e6bfdcde5ed9510800000000000000
+      internalID: 1557653855665876559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 219
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4082de4b2298400800000000000000
+      internalID: 326830608429352161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 171
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1cd274fac6a7d0800000000000000
+      internalID: -2907413358173217402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 124
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e9256f806b4000800000000000000
+      internalID: 21216792247132386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db64f3a242968b70800000000000000
+      internalID: 8900962528460565463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 28
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8bff01cfa7d7f40800000000000000
+      internalID: 5727869524120680662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-beetle_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 28
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439eeaa563598d1f0800000000000000
+      internalID: -1019901254917232332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flying-beetle_0: -2775430342939583863
+      flying-beetle_1: 4627064292596242849
+      flying-beetle_10: 1557653855665876559
+      flying-beetle_11: 326830608429352161
+      flying-beetle_12: -2907413358173217402
+      flying-beetle_13: 21216792247132386
+      flying-beetle_14: 8900962528460565463
+      flying-beetle_15: 5727869524120680662
+      flying-beetle_16: -1019901254917232332
+      flying-beetle_2: -7840821078116405580
+      flying-beetle_3: -2445882085651283334
+      flying-beetle_4: -7867741522283276600
+      flying-beetle_5: -5001651925922542525
+      flying-beetle_6: -6237799764995587889
+      flying-beetle_7: 9120737608925288860
+      flying-beetle_8: -8554775775893077687
+      flying-beetle_9: 3046904956700983379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

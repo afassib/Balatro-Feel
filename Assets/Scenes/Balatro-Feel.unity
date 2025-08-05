@@ -256,7 +256,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1461140437895791237, guid: e49f73fa453ebb34e821083ed96d3538, type: 3}
+  m_Sprite: {fileID: -2883767796444079762, guid: d8f95376df70d57438d34cc1f466e310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -585,6 +585,8 @@ MonoBehaviour:
   slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
   cardsToSpawn: 4
   cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
   tweenCardReturn: 1
 --- !u!114 &176730505
 MonoBehaviour:
@@ -977,7 +979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbc8c2522da1b0642b63535e1afc34d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  from: {fileID: 782878004}
+  from: {fileID: 693655015}
   to: {fileID: 667881467}
   index: 0
 --- !u!114 &445867714
@@ -1207,7 +1209,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1461140437895791237, guid: e49f73fa453ebb34e821083ed96d3538, type: 3}
+  m_Sprite: {fileID: -2883767796444079762, guid: d8f95376df70d57438d34cc1f466e310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1282,7 +1284,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1461140437895791237, guid: e49f73fa453ebb34e821083ed96d3538, type: 3}
+  m_Sprite: {fileID: -2883767796444079762, guid: d8f95376df70d57438d34cc1f466e310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1682,7 +1684,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: -0.000068665, y: -109.19}
-  m_SizeDelta: {x: 135.58, y: 96.41}
+  m_SizeDelta: {x: 71.75, y: 46.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &595022195
 CanvasRenderer:
@@ -1705,15 +1707,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.24172509, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 0
+  m_Sprite: {fileID: 21300000, guid: 072f9a3983fd642b18925f878f115f57, type: 3}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1721,7 +1723,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
+  m_PixelsPerUnitMultiplier: 0.57
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -1863,7 +1865,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3946063012299042307, guid: 25f2e617db81cb744b3c803a755dad93, type: 3}
+  m_Sprite: {fileID: 2451123608927275836, guid: bc7f14ab149f4364d963024cd88a163f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2097,6 +2099,8 @@ MonoBehaviour:
   slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
   cardsToSpawn: 3
   cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
   tweenCardReturn: 0
 --- !u!114 &667881469
 MonoBehaviour:
@@ -2136,6 +2140,129 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 667881464}
   m_CullTransparentMesh: 1
+--- !u!1 &693655014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 693655019}
+  - component: {fileID: 693655018}
+  - component: {fileID: 693655015}
+  - component: {fileID: 693655017}
+  - component: {fileID: 693655016}
+  m_Layer: 5
+  m_Name: Pile (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &693655015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693655014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8436a7e3d3df42d7a7058aec5e41a69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedCard: {fileID: 0}
+  hoveredCard: {fileID: 0}
+  slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
+  cardsToSpawn: 10
+  cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
+  tweenCardReturn: 1
+--- !u!114 &693655016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693655014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 0
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 1
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
+--- !u!222 &693655017
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693655014}
+  m_CullTransparentMesh: 1
+--- !u!114 &693655018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693655014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.4245283, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 2ed4dd708e4004d95982d8bbd36124c0, type: 3}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!224 &693655019
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 693655014}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2074635280}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1146, y: -204}
+  m_SizeDelta: {x: 199.38, y: 659.17}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &706460316
 GameObject:
   m_ObjectHideFlags: 0
@@ -2234,6 +2361,8 @@ MonoBehaviour:
   slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
   cardsToSpawn: 2
   cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
   tweenCardReturn: 1
 --- !u!114 &732881785
 MonoBehaviour:
@@ -2505,6 +2634,8 @@ MonoBehaviour:
   slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
   cardsToSpawn: 10
   cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
   tweenCardReturn: 1
 --- !u!114 &782878006
 MonoBehaviour:
@@ -2844,7 +2975,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1461140437895791237, guid: e49f73fa453ebb34e821083ed96d3538, type: 3}
+  m_Sprite: {fileID: -2883767796444079762, guid: d8f95376df70d57438d34cc1f466e310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3306,7 +3437,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1461140437895791237, guid: e49f73fa453ebb34e821083ed96d3538, type: 3}
+  m_Sprite: {fileID: -2883767796444079762, guid: d8f95376df70d57438d34cc1f466e310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3611,6 +3742,8 @@ MonoBehaviour:
   slotPrefab: {fileID: 3655645598659960977, guid: e99c361e7acdd41f0b904fef6be48fea, type: 3}
   cardsToSpawn: 12
   cards: []
+  VisualHandler: {fileID: 0}
+  VisualHandlerObject: {fileID: 0}
   tweenCardReturn: 1
 --- !u!114 &2014043863
 MonoBehaviour:
@@ -3915,6 +4048,7 @@ RectTransform:
   - {fileID: 1296720586}
   - {fileID: 667881465}
   - {fileID: 782878002}
+  - {fileID: 693655019}
   - {fileID: 791284277}
   - {fileID: 445867712}
   - {fileID: 176730502}

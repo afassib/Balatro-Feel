@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 9a4e9d3795924854ba9785a9b46ab05f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3056102737755202561
+    second: byzantin-temple_0
+  - first:
+      213: -7401508840713542603
+    second: byzantin-temple_1
+  - first:
+      213: 8096490752751800491
+    second: byzantin-temple_2
+  - first:
+      213: 2814237670390060766
+    second: byzantin-temple_3
+  - first:
+      213: -6948494186526705933
+    second: byzantin-temple_4
+  - first:
+      213: 6738338899974220627
+    second: byzantin-temple_5
+  - first:
+      213: -8863227469536471060
+    second: byzantin-temple_6
+  - first:
+      213: -5192619525064939677
+    second: byzantin-temple_7
+  - first:
+      213: -6505896876428179263
+    second: byzantin-temple_8
+  - first:
+      213: -8059988557020456713
+    second: byzantin-temple_9
+  - first:
+      213: -6352473838171045284
+    second: byzantin-temple_10
+  - first:
+      213: -8332435403887952142
+    second: byzantin-temple_11
+  - first:
+      213: 2622152104150463479
+    second: byzantin-temple_12
+  - first:
+      213: 2076039894059554026
+    second: byzantin-temple_13
+  - first:
+      213: 7411177545832490699
+    second: byzantin-temple_14
+  - first:
+      213: -1284682860545015537
+    second: byzantin-temple_15
+  - first:
+      213: 6723905172792205838
+    second: byzantin-temple_16
+  - first:
+      213: 4195899186748056151
+    second: byzantin-temple_17
+  - first:
+      213: -5290012038698684880
+    second: byzantin-temple_18
+  - first:
+      213: 9021512163551051811
+    second: byzantin-temple_19
+  - first:
+      213: 5158504476968101106
+    second: byzantin-temple_20
+  - first:
+      213: 9080784271305593801
+    second: byzantin-temple_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: byzantin-temple_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 390
+        width: 208
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb900f70ca8695d0800000000000000
+      internalID: -3056102737755202561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 310
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342b5b9cee884990800000000000000
+      internalID: -7401508840713542603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 230
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0910d41738c5070800000000000000
+      internalID: 8096490752751800491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 326
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed65f11304e2e0720800000000000000
+      internalID: 2814237670390060766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 230
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f675302a5df19f90800000000000000
+      internalID: -6948494186526705933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 310
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be82d3783638d50800000000000000
+      internalID: 6738338899974220627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 230
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce75bca639d7ff480800000000000000
+      internalID: -8863227469536471060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 150
+        width: 240
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672fbabd0c10f7b0800000000000000
+      internalID: -5192619525064939677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8cc27b24966b5a0800000000000000
+      internalID: -6505896876428179263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8151d6c1b252090800000000000000
+      internalID: -8059988557020456713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 182
+        width: 154
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524ad673ba77d7a0800000000000000
+      internalID: -6352473838171045284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 182
+        width: 154
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2febe55b52e3d5c80800000000000000
+      internalID: -8332435403887952142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 118
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37eea2271c36420800000000000000
+      internalID: 2622152104150463479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 118
+        width: 324
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae495f8c8439fcc10800000000000000
+      internalID: 2076039894059554026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 118
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc662ba36bac9d660800000000000000
+      internalID: 7411177545832490699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018e20beb3eb2ee0800000000000000
+      internalID: -1284682860545015537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 22
+        width: 116
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e0bf312c105d50800000000000000
+      internalID: 6723905172792205838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 22
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e77b5414da3a30800000000000000
+      internalID: 4195899186748056151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 22
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e23d7141a1696b0800000000000000
+      internalID: -5290012038698684880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208355c389d23d70800000000000000
+      internalID: 9021512163551051811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f422f9ad70b69740800000000000000
+      internalID: 5158504476968101106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: byzantin-temple_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 22
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3df15ce2d650e70800000000000000
+      internalID: 9080784271305593801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      byzantin-temple_0: -3056102737755202561
+      byzantin-temple_1: -7401508840713542603
+      byzantin-temple_10: -6352473838171045284
+      byzantin-temple_11: -8332435403887952142
+      byzantin-temple_12: 2622152104150463479
+      byzantin-temple_13: 2076039894059554026
+      byzantin-temple_14: 7411177545832490699
+      byzantin-temple_15: -1284682860545015537
+      byzantin-temple_16: 6723905172792205838
+      byzantin-temple_17: 4195899186748056151
+      byzantin-temple_18: -5290012038698684880
+      byzantin-temple_19: 9021512163551051811
+      byzantin-temple_2: 8096490752751800491
+      byzantin-temple_20: 5158504476968101106
+      byzantin-temple_21: 9080784271305593801
+      byzantin-temple_3: 2814237670390060766
+      byzantin-temple_4: -6948494186526705933
+      byzantin-temple_5: 6738338899974220627
+      byzantin-temple_6: -8863227469536471060
+      byzantin-temple_7: -5192619525064939677
+      byzantin-temple_8: -6505896876428179263
+      byzantin-temple_9: -8059988557020456713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

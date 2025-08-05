@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 05505696aa48e1d4e82b760264a6d851
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1477911039896360473
+    second: level-crossing_0
+  - first:
+      213: -2661318128133563928
+    second: level-crossing_1
+  - first:
+      213: 7941801858493024037
+    second: level-crossing_2
+  - first:
+      213: -4133256656597834280
+    second: level-crossing_3
+  - first:
+      213: 6725523031888422669
+    second: level-crossing_4
+  - first:
+      213: 5677040804248354936
+    second: level-crossing_5
+  - first:
+      213: -1865931115474655585
+    second: level-crossing_6
+  - first:
+      213: 5041284035136180966
+    second: level-crossing_7
+  - first:
+      213: -1851304957877654191
+    second: level-crossing_8
+  - first:
+      213: 2118181118364828776
+    second: level-crossing_9
+  - first:
+      213: -6233906033676655066
+    second: level-crossing_10
+  - first:
+      213: -3544652112650142317
+    second: level-crossing_11
+  - first:
+      213: 89826803493427254
+    second: level-crossing_12
+  - first:
+      213: -3482688728932041052
+    second: level-crossing_13
+  - first:
+      213: -1519072090754861994
+    second: level-crossing_14
+  - first:
+      213: 2790767225630728508
+    second: level-crossing_15
+  - first:
+      213: 6473457283361947033
+    second: level-crossing_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level-crossing_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 379
+        width: 145
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e969515db76d7be0800000000000000
+      internalID: -1477911039896360473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 438
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99a424349111bd0800000000000000
+      internalID: -2661318128133563928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 305
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527830c76b2f63e60800000000000000
+      internalID: 7941801858493024037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 296
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a7f148f8b3a6c0800000000000000
+      internalID: -4133256656597834280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 320
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ea6c609bd55d50800000000000000
+      internalID: 6725523031888422669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 344
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700f908886e8ce40800000000000000
+      internalID: 5677040804248354936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 282
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e8ce5981ea16e0800000000000000
+      internalID: -1865931115474655585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 217
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d32ebe1d36f540800000000000000
+      internalID: 5041284035136180966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 282
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d68ce03f7de46e0800000000000000
+      internalID: -1851304957877654191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864431a218a456d10800000000000000
+      internalID: 2118181118364828776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e983bd77bc79a0800000000000000
+      internalID: -6233906033676655066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 182
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d76251faddecec0800000000000000
+      internalID: -3544652112650142317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 200
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d88970012f3100800000000000000
+      internalID: 89826803493427254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 224
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aebfb89d010bafc0800000000000000
+      internalID: -3482688728932041052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 145
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b85a5bfb2beae0800000000000000
+      internalID: -1519072090754861994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 25
+        width: 81
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a58e610ccab620800000000000000
+      internalID: 2790767225630728508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level-crossing_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 23
+        width: 21
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d3473f91756d950800000000000000
+      internalID: 6473457283361947033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      level-crossing_0: -1477911039896360473
+      level-crossing_1: -2661318128133563928
+      level-crossing_10: -6233906033676655066
+      level-crossing_11: -3544652112650142317
+      level-crossing_12: 89826803493427254
+      level-crossing_13: -3482688728932041052
+      level-crossing_14: -1519072090754861994
+      level-crossing_15: 2790767225630728508
+      level-crossing_16: 6473457283361947033
+      level-crossing_2: 7941801858493024037
+      level-crossing_3: -4133256656597834280
+      level-crossing_4: 6725523031888422669
+      level-crossing_5: 5677040804248354936
+      level-crossing_6: -1865931115474655585
+      level-crossing_7: 5041284035136180966
+      level-crossing_8: -1851304957877654191
+      level-crossing_9: 2118181118364828776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

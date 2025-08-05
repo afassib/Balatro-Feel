@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: f62ead14406f65b4f9b59e667bf106eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2281415384235731421
+    second: calendar-half-year_0
+  - first:
+      213: -8006370314146234124
+    second: calendar-half-year_1
+  - first:
+      213: 4966468631685142215
+    second: calendar-half-year_2
+  - first:
+      213: 5698687023909360849
+    second: calendar-half-year_3
+  - first:
+      213: -2421608016252627110
+    second: calendar-half-year_4
+  - first:
+      213: 1567492036404428875
+    second: calendar-half-year_5
+  - first:
+      213: -4650720423016256323
+    second: calendar-half-year_6
+  - first:
+      213: 8086427177360267108
+    second: calendar-half-year_7
+  - first:
+      213: -5279872237349225310
+    second: calendar-half-year_8
+  - first:
+      213: 2890283614322451705
+    second: calendar-half-year_9
+  - first:
+      213: -3063849495701194046
+    second: calendar-half-year_10
+  - first:
+      213: 5648022564418992893
+    second: calendar-half-year_11
+  - first:
+      213: 597386804054359115
+    second: calendar-half-year_12
+  - first:
+      213: -4484102460419173841
+    second: calendar-half-year_13
+  - first:
+      213: 918544990846246140
+    second: calendar-half-year_14
+  - first:
+      213: -5058557865719483140
+    second: calendar-half-year_15
+  - first:
+      213: -4335691219942496863
+    second: calendar-half-year_16
+  - first:
+      213: 8059246068007466510
+    second: calendar-half-year_17
+  - first:
+      213: -2898774780164676564
+    second: calendar-half-year_18
+  - first:
+      213: 3467859646118953215
+    second: calendar-half-year_19
+  - first:
+      213: 6450410862194975224
+    second: calendar-half-year_20
+  - first:
+      213: -2662881216833239865
+    second: calendar-half-year_21
+  - first:
+      213: 2260295894940230636
+    second: calendar-half-year_22
+  - first:
+      213: -8657459512480555171
+    second: calendar-half-year_23
+  - first:
+      213: 3590636660487553865
+    second: calendar-half-year_24
+  - first:
+      213: 7597982043367571490
+    second: calendar-half-year_25
+  - first:
+      213: -6528638343485410763
+    second: calendar-half-year_26
+  - first:
+      213: -3732252778383356345
+    second: calendar-half-year_27
+  - first:
+      213: -133214447080725477
+    second: calendar-half-year_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calendar-half-year_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 424
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3269485abc8c650e0800000000000000
+      internalID: -2281415384235731421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0c41d6e98a3e090800000000000000
+      internalID: -8006370314146234124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c696b338e07ce440800000000000000
+      internalID: 4966468631685142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 440
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4de32c7adc51f40800000000000000
+      internalID: 5698687023909360849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 415
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571606e658b46ed0800000000000000
+      internalID: -2421608016252627110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 376
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40c322c3b9d0c510800000000000000
+      internalID: 1567492036404428875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 328
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc26747a62557fb0800000000000000
+      internalID: -4650720423016256323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4679f909ca2c83070800000000000000
+      internalID: 8086427177360267108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3a519c202ab6b0800000000000000
+      internalID: -5279872237349225310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 344
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f462d342a95c1820800000000000000
+      internalID: 2890283614322451705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 319
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca787bdd150b75d0800000000000000
+      internalID: -3063849495701194046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 280
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab59b099ec16e40800000000000000
+      internalID: 5648022564418992893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 232
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7a2912285a4800800000000000000
+      internalID: 597386804054359115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 168
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22924ee19445c1c0800000000000000
+      internalID: -4484102460419173841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 200
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcda917dc35fbc00800000000000000
+      internalID: 918544990846246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4380a2c646cc9b0800000000000000
+      internalID: -5058557865719483140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 223
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52c839ec784d3c0800000000000000
+      internalID: -4335691219942496863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 184
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067c01699138df60800000000000000
+      internalID: 8059246068007466510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c246c6022bb75c7d0800000000000000
+      internalID: -2898774780164676564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff005d189ff402030800000000000000
+      internalID: 3467859646118953215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e370e086748950800000000000000
+      internalID: 6450410862194975224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4489f44ab8b0bd0800000000000000
+      internalID: -2662881216833239865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 127
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3af21142f2e5f10800000000000000
+      internalID: 2260295894940230636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 88
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f154d41768ad780800000000000000
+      internalID: -8657459512480555171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9430bd9c40184d130800000000000000
+      internalID: 3590636660487553865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22088b0a964717960800000000000000
+      internalID: 7597982043367571490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532be8d440e9565a0800000000000000
+      internalID: -6528638343485410763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 40
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ece745fdf543cc0800000000000000
+      internalID: -3732252778383356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calendar-half-year_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 56
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14adca8a2ab62ef0800000000000000
+      internalID: -133214447080725477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      calendar-half-year_0: -2281415384235731421
+      calendar-half-year_1: -8006370314146234124
+      calendar-half-year_10: -3063849495701194046
+      calendar-half-year_11: 5648022564418992893
+      calendar-half-year_12: 597386804054359115
+      calendar-half-year_13: -4484102460419173841
+      calendar-half-year_14: 918544990846246140
+      calendar-half-year_15: -5058557865719483140
+      calendar-half-year_16: -4335691219942496863
+      calendar-half-year_17: 8059246068007466510
+      calendar-half-year_18: -2898774780164676564
+      calendar-half-year_19: 3467859646118953215
+      calendar-half-year_2: 4966468631685142215
+      calendar-half-year_20: 6450410862194975224
+      calendar-half-year_21: -2662881216833239865
+      calendar-half-year_22: 2260295894940230636
+      calendar-half-year_23: -8657459512480555171
+      calendar-half-year_24: 3590636660487553865
+      calendar-half-year_25: 7597982043367571490
+      calendar-half-year_26: -6528638343485410763
+      calendar-half-year_27: -3732252778383356345
+      calendar-half-year_28: -133214447080725477
+      calendar-half-year_3: 5698687023909360849
+      calendar-half-year_4: -2421608016252627110
+      calendar-half-year_5: 1567492036404428875
+      calendar-half-year_6: -4650720423016256323
+      calendar-half-year_7: 8086427177360267108
+      calendar-half-year_8: -5279872237349225310
+      calendar-half-year_9: 2890283614322451705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

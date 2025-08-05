@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 7f9ba04c62cacc24d85d59a924010832
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7672528070952109655
+    second: woman-elf-face_0
+  - first:
+      213: 2830184719580639399
+    second: woman-elf-face_1
+  - first:
+      213: -2194357946767983436
+    second: woman-elf-face_2
+  - first:
+      213: 6245273284433938901
+    second: woman-elf-face_3
+  - first:
+      213: -3894028520651506365
+    second: woman-elf-face_4
+  - first:
+      213: 6201958642567482686
+    second: woman-elf-face_5
+  - first:
+      213: -6926508441906586198
+    second: woman-elf-face_6
+  - first:
+      213: 6735840572345038742
+    second: woman-elf-face_7
+  - first:
+      213: 5791976874754860931
+    second: woman-elf-face_8
+  - first:
+      213: 1462235885692146764
+    second: woman-elf-face_9
+  - first:
+      213: -2473364671785062604
+    second: woman-elf-face_10
+  - first:
+      213: -6871994904604593700
+    second: woman-elf-face_11
+  - first:
+      213: 3629448787120299377
+    second: woman-elf-face_12
+  - first:
+      213: -3677573910657797555
+    second: woman-elf-face_13
+  - first:
+      213: -5045726664892989008
+    second: woman-elf-face_14
+  - first:
+      213: -1124827137182265019
+    second: woman-elf-face_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: woman-elf-face_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 414
+        width: 182
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756405631ab4a7a60800000000000000
+      internalID: 7672528070952109655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b75be106d64720800000000000000
+      internalID: 2830184719580639399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 410
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcb6d8d2131c81e0800000000000000
+      internalID: -2194357946767983436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 396
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d90ceb96faaba650800000000000000
+      internalID: 6245273284433938901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34db35121b1a5f9c0800000000000000
+      internalID: -3894028520651506365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 89
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d06e9a688c11650800000000000000
+      internalID: 6201958642567482686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 136
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd962354910ef90800000000000000
+      internalID: -6926508441906586198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 197
+        width: 89
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6973a4200538a7d50800000000000000
+      internalID: 6735840572345038742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 272
+        width: 90
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3876a07c74c316050800000000000000
+      internalID: 5791976874754860931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 107
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4452807ac7ea4410800000000000000
+      internalID: 1462235885692146764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f204a7fe7dcadd0800000000000000
+      internalID: -2473364671785062604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 93
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1bfbc2b05c1a0a0800000000000000
+      internalID: -6871994904604593700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 54
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d17c631746e5230800000000000000
+      internalID: 3629448787120299377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 93
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d427ffb4302a6fcc0800000000000000
+      internalID: -3677573910657797555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 40
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14659e45af9f9b0800000000000000
+      internalID: -5045726664892989008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woman-elf-face_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411886adafc360f0800000000000000
+      internalID: -1124827137182265019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      woman-elf-face_0: 7672528070952109655
+      woman-elf-face_1: 2830184719580639399
+      woman-elf-face_10: -2473364671785062604
+      woman-elf-face_11: -6871994904604593700
+      woman-elf-face_12: 3629448787120299377
+      woman-elf-face_13: -3677573910657797555
+      woman-elf-face_14: -5045726664892989008
+      woman-elf-face_15: -1124827137182265019
+      woman-elf-face_2: -2194357946767983436
+      woman-elf-face_3: 6245273284433938901
+      woman-elf-face_4: -3894028520651506365
+      woman-elf-face_5: 6201958642567482686
+      woman-elf-face_6: -6926508441906586198
+      woman-elf-face_7: 6735840572345038742
+      woman-elf-face_8: 5791976874754860931
+      woman-elf-face_9: 1462235885692146764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 786a9658012175e43b83965eebcbaff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4190188423512307928
+    second: moncler-jacket_0
+  - first:
+      213: -3391697409744798873
+    second: moncler-jacket_1
+  - first:
+      213: -8717216061522956157
+    second: moncler-jacket_2
+  - first:
+      213: -1563775627129462851
+    second: moncler-jacket_3
+  - first:
+      213: -1622978837104198667
+    second: moncler-jacket_4
+  - first:
+      213: -7878742556155654326
+    second: moncler-jacket_5
+  - first:
+      213: 4213695133035178579
+    second: moncler-jacket_6
+  - first:
+      213: -4422320379970372229
+    second: moncler-jacket_7
+  - first:
+      213: 1457409527995444576
+    second: moncler-jacket_8
+  - first:
+      213: 2186683534963514506
+    second: moncler-jacket_9
+  - first:
+      213: 491375583399883134
+    second: moncler-jacket_10
+  - first:
+      213: -7398392106057829356
+    second: moncler-jacket_11
+  - first:
+      213: -8832886392092697979
+    second: moncler-jacket_12
+  - first:
+      213: -3550579613948354927
+    second: moncler-jacket_13
+  - first:
+      213: 5067901877123523088
+    second: moncler-jacket_14
+  - first:
+      213: 4470519918218021699
+    second: moncler-jacket_15
+  - first:
+      213: -3339540283432559630
+    second: moncler-jacket_16
+  - first:
+      213: 8872985505150929382
+    second: moncler-jacket_17
+  - first:
+      213: -8759026876019433693
+    second: moncler-jacket_18
+  - first:
+      213: -3440051724851207904
+    second: moncler-jacket_19
+  - first:
+      213: -6876510284646826988
+    second: moncler-jacket_20
+  - first:
+      213: 2754597749011291743
+    second: moncler-jacket_21
+  - first:
+      213: 6539270928613808081
+    second: moncler-jacket_22
+  - first:
+      213: -4423669539255837330
+    second: moncler-jacket_23
+  - first:
+      213: -7571064757738960644
+    second: moncler-jacket_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moncler-jacket_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 439
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b76dab2a862a30800000000000000
+      internalID: 4190188423512307928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 387
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b7c820d254ee0d0800000000000000
+      internalID: -3391697409744798873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 387
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38038968d2a360780800000000000000
+      internalID: -8717216061522956157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 281
+        width: 178
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd8843a5a5c4ae0800000000000000
+      internalID: -1563775627129462851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb7d68b8550a79e0800000000000000
+      internalID: -1622978837104198667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 343
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc697736519a290800000000000000
+      internalID: -7878742556155654326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 280
+        width: 178
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aaa5cf56d0a7a30800000000000000
+      internalID: 4213695133035178579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 187
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d35ec7b03c0a2c0800000000000000
+      internalID: -4422320379970372229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 251
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d20787e32c93410800000000000000
+      internalID: 1457409527995444576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 211
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c12b9e619a85e10800000000000000
+      internalID: 2186683534963514506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 211
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b9db5d77b1d600800000000000000
+      internalID: 491375583399883134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 251
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147e51f391a35990800000000000000
+      internalID: -7398392106057829356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 187
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58adee100a84b6580800000000000000
+      internalID: -8832886392092697979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5dd327aec9bec0800000000000000
+      internalID: -3550579613948354927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012ab7608edc45640800000000000000
+      internalID: 5067901877123523088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b81b60e2a7a0e30800000000000000
+      internalID: 4470519918218021699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 145
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb15ec4ec197a1d0800000000000000
+      internalID: -3339540283432559630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 107
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e906bb4e4d232b70800000000000000
+      internalID: 8872985505150929382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 134
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f13cca67fa17680800000000000000
+      internalID: -8759026876019433693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212643be2b7240d0800000000000000
+      internalID: -3440051724851207904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 77
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3e45545ab190a0800000000000000
+      internalID: -6876510284646826988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 77
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e98e8ee0c4a3620800000000000000
+      internalID: 2754597749011291743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 98
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79016534820ca50800000000000000
+      internalID: 6539270928613808081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 111
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d90fcddf7fb92c0800000000000000
+      internalID: -4423669539255837330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moncler-jacket_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 15
+        width: 111
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88d7f47bc2ee690800000000000000
+      internalID: -7571064757738960644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      moncler-jacket_0: 4190188423512307928
+      moncler-jacket_1: -3391697409744798873
+      moncler-jacket_10: 491375583399883134
+      moncler-jacket_11: -7398392106057829356
+      moncler-jacket_12: -8832886392092697979
+      moncler-jacket_13: -3550579613948354927
+      moncler-jacket_14: 5067901877123523088
+      moncler-jacket_15: 4470519918218021699
+      moncler-jacket_16: -3339540283432559630
+      moncler-jacket_17: 8872985505150929382
+      moncler-jacket_18: -8759026876019433693
+      moncler-jacket_19: -3440051724851207904
+      moncler-jacket_2: -8717216061522956157
+      moncler-jacket_20: -6876510284646826988
+      moncler-jacket_21: 2754597749011291743
+      moncler-jacket_22: 6539270928613808081
+      moncler-jacket_23: -4423669539255837330
+      moncler-jacket_24: -7571064757738960644
+      moncler-jacket_3: -1563775627129462851
+      moncler-jacket_4: -1622978837104198667
+      moncler-jacket_5: -7878742556155654326
+      moncler-jacket_6: 4213695133035178579
+      moncler-jacket_7: -4422320379970372229
+      moncler-jacket_8: 1457409527995444576
+      moncler-jacket_9: 2186683534963514506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

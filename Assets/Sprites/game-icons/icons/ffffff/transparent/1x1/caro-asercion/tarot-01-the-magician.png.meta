@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: a04a5cc42784bef4d81349ca1ecc76ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5574393116253465274
+    second: tarot-01-the-magician_0
+  - first:
+      213: 2467625611333464351
+    second: tarot-01-the-magician_1
+  - first:
+      213: -190797832084450043
+    second: tarot-01-the-magician_2
+  - first:
+      213: 4751816084934449628
+    second: tarot-01-the-magician_3
+  - first:
+      213: 155734368387812146
+    second: tarot-01-the-magician_4
+  - first:
+      213: 41564825881073399
+    second: tarot-01-the-magician_5
+  - first:
+      213: -5112590072344955761
+    second: tarot-01-the-magician_6
+  - first:
+      213: -4896571094832328979
+    second: tarot-01-the-magician_7
+  - first:
+      213: -7376496951182282586
+    second: tarot-01-the-magician_8
+  - first:
+      213: 8245550347806416996
+    second: tarot-01-the-magician_9
+  - first:
+      213: -2160648929651630435
+    second: tarot-01-the-magician_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tarot-01-the-magician_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 443
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaabac31093c5d40800000000000000
+      internalID: 5574393116253465274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 431
+        width: 125
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11ff226b64ce3220800000000000000
+      internalID: 2467625611333464351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 390
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50511b2f1662a5df0800000000000000
+      internalID: -190797832084450043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 311
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd951849d87d1f140800000000000000
+      internalID: 4751816084934449628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 331
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b431b3597492200800000000000000
+      internalID: 155734368387812146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 322
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6dac92dfaa39000800000000000000
+      internalID: 41564825881073399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 165
+        width: 92
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b0b7ba6e6c09b0800000000000000
+      internalID: -5112590072344955761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 165
+        width: 111
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec21b4882eb0cb0800000000000000
+      internalID: -4896571094832328979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 397
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03702fa1b61a990800000000000000
+      internalID: -7376496951182282586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 123
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a992ca541e6270800000000000000
+      internalID: 8245550347806416996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-01-the-magician_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 139
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e59cffe35d302e0800000000000000
+      internalID: -2160648929651630435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tarot-01-the-magician_0: 5574393116253465274
+      tarot-01-the-magician_1: 2467625611333464351
+      tarot-01-the-magician_10: -2160648929651630435
+      tarot-01-the-magician_2: -190797832084450043
+      tarot-01-the-magician_3: 4751816084934449628
+      tarot-01-the-magician_4: 155734368387812146
+      tarot-01-the-magician_5: 41564825881073399
+      tarot-01-the-magician_6: -5112590072344955761
+      tarot-01-the-magician_7: -4896571094832328979
+      tarot-01-the-magician_8: -7376496951182282586
+      tarot-01-the-magician_9: 8245550347806416996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

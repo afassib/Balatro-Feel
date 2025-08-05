@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: 5064e9ff0b794494b8dcd357e17432f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7394213010814797811
+    second: prayer-beads_0
+  - first:
+      213: 3143945499316931355
+    second: prayer-beads_1
+  - first:
+      213: 4114553924454444796
+    second: prayer-beads_2
+  - first:
+      213: 6656883219580480204
+    second: prayer-beads_3
+  - first:
+      213: -2580198202985698283
+    second: prayer-beads_4
+  - first:
+      213: 5571616703234194993
+    second: prayer-beads_5
+  - first:
+      213: -3346375116494677787
+    second: prayer-beads_6
+  - first:
+      213: 2496224490636940076
+    second: prayer-beads_7
+  - first:
+      213: 5952730492816324942
+    second: prayer-beads_8
+  - first:
+      213: 7359317986514076309
+    second: prayer-beads_9
+  - first:
+      213: -3188802810663102275
+    second: prayer-beads_10
+  - first:
+      213: -4580584352309101189
+    second: prayer-beads_11
+  - first:
+      213: -5340491431467636481
+    second: prayer-beads_12
+  - first:
+      213: -4209626716592986757
+    second: prayer-beads_13
+  - first:
+      213: -3777623874555945864
+    second: prayer-beads_14
+  - first:
+      213: 4772332717196984589
+    second: prayer-beads_15
+  - first:
+      213: -8957392743165715502
+    second: prayer-beads_16
+  - first:
+      213: -2993964119522326299
+    second: prayer-beads_17
+  - first:
+      213: 1198154257267084502
+    second: prayer-beads_18
+  - first:
+      213: 4137150579178588911
+    second: prayer-beads_19
+  - first:
+      213: -1636030803299999377
+    second: prayer-beads_20
+  - first:
+      213: 7065261380643550692
+    second: prayer-beads_21
+  - first:
+      213: -340272811953191001
+    second: prayer-beads_22
+  - first:
+      213: 6061577724031097757
+    second: prayer-beads_23
+  - first:
+      213: -6877396890917977631
+    second: prayer-beads_24
+  - first:
+      213: -871020874557336648
+    second: prayer-beads_25
+  - first:
+      213: -1370812918653379381
+    second: prayer-beads_26
+  - first:
+      213: -882510946077745576
+    second: prayer-beads_27
+  - first:
+      213: 4957938102496166825
+    second: prayer-beads_28
+  - first:
+      213: -4042458767394611482
+    second: prayer-beads_29
+  - first:
+      213: 3113445030119596550
+    second: prayer-beads_30
+  - first:
+      213: -6086534108250169249
+    second: prayer-beads_31
+  - first:
+      213: 4584560312755175775
+    second: prayer-beads_32
+  - first:
+      213: -660303666918941670
+    second: prayer-beads_33
+  - first:
+      213: -2275595841581059875
+    second: prayer-beads_34
+  - first:
+      213: 4192227929175004735
+    second: prayer-beads_35
+  - first:
+      213: 8143547332890782561
+    second: prayer-beads_36
+  - first:
+      213: -6794835012372251298
+    second: prayer-beads_37
+  - first:
+      213: 112472538640773979
+    second: prayer-beads_38
+  - first:
+      213: -4304742348311627379
+    second: prayer-beads_39
+  - first:
+      213: 3713937046310218425
+    second: prayer-beads_40
+  - first:
+      213: -5327695436972724442
+    second: prayer-beads_41
+  - first:
+      213: 8816428055840540490
+    second: prayer-beads_42
+  - first:
+      213: 591158246026850639
+    second: prayer-beads_43
+  - first:
+      213: 8026374410110597748
+    second: prayer-beads_44
+  - first:
+      213: 124226611226025624
+    second: prayer-beads_45
+  - first:
+      213: -7323477577565842499
+    second: prayer-beads_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prayer-beads_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 442
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ffc0617a726990800000000000000
+      internalID: -7394213010814797811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 460
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b49f736c981ab20800000000000000
+      internalID: 3143945499316931355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 466
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeeb449ef4d91930800000000000000
+      internalID: 4114553924454444796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 469
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca6a5eb400026c50800000000000000
+      internalID: 6656883219580480204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cafe4a76b413cd0800000000000000
+      internalID: -2580198202985698283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 452
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e38e43fdb525d40800000000000000
+      internalID: 5571616703234194993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 416
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d028bf894f81d0800000000000000
+      internalID: -3346375116494677787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 436
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239b0cd2fe54a220800000000000000
+      internalID: 2496224490636940076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 421
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f3f328d85c9250800000000000000
+      internalID: 5952730492816324942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 380
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5928057a7bc812660800000000000000
+      internalID: 7359317986514076309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 375
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db898ab1db81fb3d0800000000000000
+      internalID: -3188802810663102275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 393
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d37e0fcce7e60c0800000000000000
+      internalID: -4580584352309101189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 393
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8aa559653c2e5b0800000000000000
+      internalID: -5340491431467636481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 389
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752b780ec66495c0800000000000000
+      internalID: -4209626716592986757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 370
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cde0ec91f239bc0800000000000000
+      internalID: -3777623874555945864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 398
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014086425bba3240800000000000000
+      internalID: 4772332717196984589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 370
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db12f522c2f0b380800000000000000
+      internalID: -8957392743165715502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 338
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e84b99fe7d4376d0800000000000000
+      internalID: -2993964119522326299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 332
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc68ae2f2b0a010800000000000000
+      internalID: 1198154257267084502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 355
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feacd3e388c1a6930800000000000000
+      internalID: 4137150579178588911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 353
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e4b707a6ab49e0800000000000000
+      internalID: -1636030803299999377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 331
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57b86dac9dc0260800000000000000
+      internalID: 7065261380643550692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 303
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78ecc2eab174bf0800000000000000
+      internalID: -340272811953191001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 314
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5b4b03dc0f1450800000000000000
+      internalID: 6061577724031097757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 323
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1457937f39e80a0800000000000000
+      internalID: -6877396890917977631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b35f04212389e3f0800000000000000
+      internalID: -871020874557336648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1622d9e4e9fce0800000000000000
+      internalID: -1370812918653379381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e54a468f0b0c3f0800000000000000
+      internalID: -882510946077745576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 229
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a388a99f622ec440800000000000000
+      internalID: 4957938102496166825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 224
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed74e3b2d46e7c0800000000000000
+      internalID: -4042458767394611482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ebf752cd253b20800000000000000
+      internalID: 3113445030119596550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f502374f979488ba0800000000000000
+      internalID: -6086534108250169249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 189
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51402d7051af9f30800000000000000
+      internalID: 4584560312755175775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c9869305126d6f0800000000000000
+      internalID: -660303666918941670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 216
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0743283a57b60e0800000000000000
+      internalID: -2275595841581059875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 216
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3692f71719cd2a30800000000000000
+      internalID: 4192227929175004735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 209
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be8842721b30170800000000000000
+      internalID: 8143547332890782561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d3a2c8e85e3b1a0800000000000000
+      internalID: -6794835012372251298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 173
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b537ba09d259f8100800000000000000
+      internalID: 112472538640773979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 143
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89fd4744ab7244c0800000000000000
+      internalID: -4304742348311627379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 174
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baeb7bf01e8a8330800000000000000
+      internalID: 3713937046310218425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f65c73a393016b0800000000000000
+      internalID: -5327695436972724442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 133
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c928fa9e3a5a70800000000000000
+      internalID: 8816428055840540490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41397cea47343800800000000000000
+      internalID: 591158246026850639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 104
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7dec1009636f60800000000000000
+      internalID: 8026374410110597748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 88
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e17c9d17759b100800000000000000
+      internalID: 124226611226025624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prayer-beads_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db356a4d1f7cd5a90800000000000000
+      internalID: -7323477577565842499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      prayer-beads_0: -7394213010814797811
+      prayer-beads_1: 3143945499316931355
+      prayer-beads_10: -3188802810663102275
+      prayer-beads_11: -4580584352309101189
+      prayer-beads_12: -5340491431467636481
+      prayer-beads_13: -4209626716592986757
+      prayer-beads_14: -3777623874555945864
+      prayer-beads_15: 4772332717196984589
+      prayer-beads_16: -8957392743165715502
+      prayer-beads_17: -2993964119522326299
+      prayer-beads_18: 1198154257267084502
+      prayer-beads_19: 4137150579178588911
+      prayer-beads_2: 4114553924454444796
+      prayer-beads_20: -1636030803299999377
+      prayer-beads_21: 7065261380643550692
+      prayer-beads_22: -340272811953191001
+      prayer-beads_23: 6061577724031097757
+      prayer-beads_24: -6877396890917977631
+      prayer-beads_25: -871020874557336648
+      prayer-beads_26: -1370812918653379381
+      prayer-beads_27: -882510946077745576
+      prayer-beads_28: 4957938102496166825
+      prayer-beads_29: -4042458767394611482
+      prayer-beads_3: 6656883219580480204
+      prayer-beads_30: 3113445030119596550
+      prayer-beads_31: -6086534108250169249
+      prayer-beads_32: 4584560312755175775
+      prayer-beads_33: -660303666918941670
+      prayer-beads_34: -2275595841581059875
+      prayer-beads_35: 4192227929175004735
+      prayer-beads_36: 8143547332890782561
+      prayer-beads_37: -6794835012372251298
+      prayer-beads_38: 112472538640773979
+      prayer-beads_39: -4304742348311627379
+      prayer-beads_4: -2580198202985698283
+      prayer-beads_40: 3713937046310218425
+      prayer-beads_41: -5327695436972724442
+      prayer-beads_42: 8816428055840540490
+      prayer-beads_43: 591158246026850639
+      prayer-beads_44: 8026374410110597748
+      prayer-beads_45: 124226611226025624
+      prayer-beads_46: -7323477577565842499
+      prayer-beads_5: 5571616703234194993
+      prayer-beads_6: -3346375116494677787
+      prayer-beads_7: 2496224490636940076
+      prayer-beads_8: 5952730492816324942
+      prayer-beads_9: 7359317986514076309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 4f26ba3fe43561d479d2cd3ae9760db0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3708739753324920595
+    second: divided-spiral_0
+  - first:
+      213: -1725296051406748132
+    second: divided-spiral_1
+  - first:
+      213: -5498998712270636100
+    second: divided-spiral_2
+  - first:
+      213: 8141424547581306031
+    second: divided-spiral_3
+  - first:
+      213: -7575259737228650765
+    second: divided-spiral_4
+  - first:
+      213: -7900372976287344794
+    second: divided-spiral_5
+  - first:
+      213: 6894752718407540339
+    second: divided-spiral_6
+  - first:
+      213: -3656246992595302511
+    second: divided-spiral_7
+  - first:
+      213: 5521338809576325423
+    second: divided-spiral_8
+  - first:
+      213: -8627728319024921664
+    second: divided-spiral_9
+  - first:
+      213: 6063384373538574650
+    second: divided-spiral_10
+  - first:
+      213: 2515982250174264272
+    second: divided-spiral_11
+  - first:
+      213: -2387098785418008504
+    second: divided-spiral_12
+  - first:
+      213: -7043617159527578487
+    second: divided-spiral_13
+  - first:
+      213: -9201658385669633664
+    second: divided-spiral_14
+  - first:
+      213: -8219406207934572782
+    second: divided-spiral_15
+  - first:
+      213: -7184963415348487700
+    second: divided-spiral_16
+  - first:
+      213: 3189396649194635763
+    second: divided-spiral_17
+  - first:
+      213: 5725650273003248235
+    second: divided-spiral_18
+  - first:
+      213: -2609639836697432334
+    second: divided-spiral_19
+  - first:
+      213: 5315122554341824532
+    second: divided-spiral_20
+  - first:
+      213: 5534776241507486645
+    second: divided-spiral_21
+  - first:
+      213: -7230381756894963853
+    second: divided-spiral_22
+  - first:
+      213: -605034851804626905
+    second: divided-spiral_23
+  - first:
+      213: 2186015016871468491
+    second: divided-spiral_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: divided-spiral_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 401
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f3d49e727187330800000000000000
+      internalID: 3708739753324920595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 431
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16448bd1648e08e0800000000000000
+      internalID: -1725296051406748132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb37ce5ec1afa3b0800000000000000
+      internalID: -5498998712270636100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4aa3cad762cf070800000000000000
+      internalID: 8141424547581306031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 431
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6da2987654fd690800000000000000
+      internalID: -7575259737228650765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 401
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671c43d2ac3c5290800000000000000
+      internalID: -7900372976287344794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 314
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e17d241151faf50800000000000000
+      internalID: 6894752718407540339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 362
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197444b5bb6624dc0800000000000000
+      internalID: -3656246992595302511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 364
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21006dd46cbf9c40800000000000000
+      internalID: 5521338809576325423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 361
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c301f53ec6244880800000000000000
+      internalID: -8627728319024921664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 314
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31db6966f7752450800000000000000
+      internalID: 6063384373538574650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d333dab6809ae220800000000000000
+      internalID: 2515982250174264272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 263
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a4635d425fded0800000000000000
+      internalID: -2387098785418008504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 202
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9844388138b004e90800000000000000
+      internalID: -7043617159527578487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 202
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089caa163742d4080800000000000000
+      internalID: -9201658385669633664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175b672a9dceed80800000000000000
+      internalID: -8219406207934572782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d9ff57d1e94c90800000000000000
+      internalID: -7184963415348487700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 94
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f14113ba53034c20800000000000000
+      internalID: 3189396649194635763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 145
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1a766698957f40800000000000000
+      internalID: 5725650273003248235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee0fd1562b8cbd0800000000000000
+      internalID: -2609639836697432334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 29
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418163d6dcb13c940800000000000000
+      internalID: 5315122554341824532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 19
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb435acaa97fcc40800000000000000
+      internalID: 5534776241507486645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 19
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3779fcda91688ab90800000000000000
+      internalID: -7230381756894963853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 29
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7204475020c7a97f0800000000000000
+      internalID: -605034851804626905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: divided-spiral_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd1b4a6319465e10800000000000000
+      internalID: 2186015016871468491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      divided-spiral_0: 3708739753324920595
+      divided-spiral_1: -1725296051406748132
+      divided-spiral_10: 6063384373538574650
+      divided-spiral_11: 2515982250174264272
+      divided-spiral_12: -2387098785418008504
+      divided-spiral_13: -7043617159527578487
+      divided-spiral_14: -9201658385669633664
+      divided-spiral_15: -8219406207934572782
+      divided-spiral_16: -7184963415348487700
+      divided-spiral_17: 3189396649194635763
+      divided-spiral_18: 5725650273003248235
+      divided-spiral_19: -2609639836697432334
+      divided-spiral_2: -5498998712270636100
+      divided-spiral_20: 5315122554341824532
+      divided-spiral_21: 5534776241507486645
+      divided-spiral_22: -7230381756894963853
+      divided-spiral_23: -605034851804626905
+      divided-spiral_24: 2186015016871468491
+      divided-spiral_3: 8141424547581306031
+      divided-spiral_4: -7575259737228650765
+      divided-spiral_5: -7900372976287344794
+      divided-spiral_6: 6894752718407540339
+      divided-spiral_7: -3656246992595302511
+      divided-spiral_8: 5521338809576325423
+      divided-spiral_9: -8627728319024921664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

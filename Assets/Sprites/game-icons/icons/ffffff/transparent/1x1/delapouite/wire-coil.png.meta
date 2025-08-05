@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 628ef99ad98c90b438f1ce899af6f512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4371132965972149472
+    second: wire-coil_0
+  - first:
+      213: 3002567174586142421
+    second: wire-coil_1
+  - first:
+      213: 2168006489786031712
+    second: wire-coil_2
+  - first:
+      213: 6696443649697294803
+    second: wire-coil_3
+  - first:
+      213: 3739129413882724024
+    second: wire-coil_4
+  - first:
+      213: 7969083297158704815
+    second: wire-coil_5
+  - first:
+      213: 5992258984731213536
+    second: wire-coil_6
+  - first:
+      213: 334541347808082187
+    second: wire-coil_7
+  - first:
+      213: 8659298971639045332
+    second: wire-coil_8
+  - first:
+      213: -872218158332226915
+    second: wire-coil_9
+  - first:
+      213: 3285253627445859165
+    second: wire-coil_10
+  - first:
+      213: -3397308931598892242
+    second: wire-coil_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wire-coil_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 443
+        width: 303
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405c6f54269ac30800000000000000
+      internalID: 4371132965972149472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 27
+        width: 164
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de847fdfe24ba920800000000000000
+      internalID: 3002567174586142421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 388
+        width: 241
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e10767a6e461e10800000000000000
+      internalID: 2168006489786031712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 356
+        width: 241
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a0a6250c8eec50800000000000000
+      internalID: 6696443649697294803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 323
+        width: 241
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beb1b3246e04e330800000000000000
+      internalID: 3739129413882724024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 268
+        width: 241
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea4a8690fd79e60800000000000000
+      internalID: 7969083297158704815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 228
+        width: 241
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eefb0b5cc7c82350800000000000000
+      internalID: 5992258984731213536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 182
+        width: 241
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f7c6559784a400800000000000000
+      internalID: 334541347808082187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 139
+        width: 241
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc537829820c2870800000000000000
+      internalID: 8659298971639045332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 241
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9256f9c43245e3f0800000000000000
+      internalID: -872218158332226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 238
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5359f4a4c0979d20800000000000000
+      internalID: 3285253627445859165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire-coil_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 305
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2349c3c6855ad0d0800000000000000
+      internalID: -3397308931598892242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wire-coil_0: 4371132965972149472
+      wire-coil_1: 3002567174586142421
+      wire-coil_10: 3285253627445859165
+      wire-coil_11: -3397308931598892242
+      wire-coil_2: 2168006489786031712
+      wire-coil_3: 6696443649697294803
+      wire-coil_4: 3739129413882724024
+      wire-coil_5: 7969083297158704815
+      wire-coil_6: 5992258984731213536
+      wire-coil_7: 334541347808082187
+      wire-coil_8: 8659298971639045332
+      wire-coil_9: -872218158332226915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

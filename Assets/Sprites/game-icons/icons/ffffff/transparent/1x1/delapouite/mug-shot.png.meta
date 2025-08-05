@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 6bf6938917fea984a92f13ee93803e12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2567651782356079113
+    second: mug-shot_0
+  - first:
+      213: 3702469509202008614
+    second: mug-shot_1
+  - first:
+      213: 4637826439197105937
+    second: mug-shot_2
+  - first:
+      213: -6774300875369355964
+    second: mug-shot_3
+  - first:
+      213: 5289049438186754095
+    second: mug-shot_4
+  - first:
+      213: -1428004781249459510
+    second: mug-shot_5
+  - first:
+      213: 1638769929849096352
+    second: mug-shot_6
+  - first:
+      213: 5353365360573352651
+    second: mug-shot_7
+  - first:
+      213: 4453018416677522064
+    second: mug-shot_8
+  - first:
+      213: 8971932477672677490
+    second: mug-shot_9
+  - first:
+      213: -9006851522827741705
+    second: mug-shot_10
+  - first:
+      213: 3005877165054151382
+    second: mug-shot_11
+  - first:
+      213: -3724947654989106124
+    second: mug-shot_12
+  - first:
+      213: -421961140166456367
+    second: mug-shot_13
+  - first:
+      213: 3435732886606182694
+    second: mug-shot_14
+  - first:
+      213: -7423019119936877676
+    second: mug-shot_15
+  - first:
+      213: 7720333035985112213
+    second: mug-shot_16
+  - first:
+      213: -5710545190820745143
+    second: mug-shot_17
+  - first:
+      213: -7251601535705515545
+    second: mug-shot_18
+  - first:
+      213: 6659023857414954884
+    second: mug-shot_19
+  - first:
+      213: -7393427947239374145
+    second: mug-shot_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mug-shot_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 448
+        width: 224
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd64c5de4edd5cd0800000000000000
+      internalID: -2567651782356079113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 242
+        width: 144
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a53bfe660d16330800000000000000
+      internalID: 3702469509202008614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 432
+        width: 224
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f124ef29edc5040800000000000000
+      internalID: 4637826439197105937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 384
+        width: 148
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445edf1ee39dcf1a0800000000000000
+      internalID: -6774300875369355964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 368
+        width: 148
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20d992017a766940800000000000000
+      internalID: 5289049438186754095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 320
+        width: 139
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca0114a735be2ce0800000000000000
+      internalID: -1428004781249459510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 304
+        width: 139
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84f3191941eb610800000000000000
+      internalID: 1638769929849096352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 162
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca0bdd9e69fa4a40800000000000000
+      internalID: 5353365360573352651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 240
+        width: 162
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a065828ac4ccd30800000000000000
+      internalID: 4453018416677522064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 106
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27068789d05b28c70800000000000000
+      internalID: 8971932477672677490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 122
+        width: 258
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f59a25a24c310380800000000000000
+      internalID: -9006851522827741705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 176
+        width: 106
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac2851b5507b920800000000000000
+      internalID: 3005877165054151382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4343379e7d35e4cc0800000000000000
+      internalID: -3724947654989106124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 112
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db0c532494e42af0800000000000000
+      internalID: -421961140166456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f9496bdc2eaf20800000000000000
+      internalID: 3435732886606182694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bca3370732cf890800000000000000
+      internalID: -7423019119936877676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0b9dfdf1242b60800000000000000
+      internalID: 7720333035985112213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 27
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940705b976110c0b0800000000000000
+      internalID: -5710545190820745143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 64
+        width: 114
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9789be2d22d5b90800000000000000
+      internalID: -7251601535705515545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 48
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd114daea996c50800000000000000
+      internalID: 6659023857414954884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mug-shot_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 192
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb20a5c3474456990800000000000000
+      internalID: -7393427947239374145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mug-shot_0: -2567651782356079113
+      mug-shot_1: 3702469509202008614
+      mug-shot_10: -9006851522827741705
+      mug-shot_11: 3005877165054151382
+      mug-shot_12: -3724947654989106124
+      mug-shot_13: -421961140166456367
+      mug-shot_14: 3435732886606182694
+      mug-shot_15: -7423019119936877676
+      mug-shot_16: 7720333035985112213
+      mug-shot_17: -5710545190820745143
+      mug-shot_18: -7251601535705515545
+      mug-shot_19: 6659023857414954884
+      mug-shot_2: 4637826439197105937
+      mug-shot_20: -7393427947239374145
+      mug-shot_3: -6774300875369355964
+      mug-shot_4: 5289049438186754095
+      mug-shot_5: -1428004781249459510
+      mug-shot_6: 1638769929849096352
+      mug-shot_7: 5353365360573352651
+      mug-shot_8: 4453018416677522064
+      mug-shot_9: 8971932477672677490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

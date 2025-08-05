@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 4e254fdc3ffcf6b4185f44c82365bde1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6441392638398448661
+    second: open-treasure-chest_0
+  - first:
+      213: -2495415811444560453
+    second: open-treasure-chest_1
+  - first:
+      213: -7973680358681878846
+    second: open-treasure-chest_2
+  - first:
+      213: 1690170040330609881
+    second: open-treasure-chest_3
+  - first:
+      213: -6453373377421380324
+    second: open-treasure-chest_4
+  - first:
+      213: -3103814527119373316
+    second: open-treasure-chest_5
+  - first:
+      213: 7660222420774987436
+    second: open-treasure-chest_6
+  - first:
+      213: 2586590120124276945
+    second: open-treasure-chest_7
+  - first:
+      213: -401450152726404191
+    second: open-treasure-chest_8
+  - first:
+      213: 1538992933555811207
+    second: open-treasure-chest_9
+  - first:
+      213: 272212468226578386
+    second: open-treasure-chest_10
+  - first:
+      213: 1276995346624223776
+    second: open-treasure-chest_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: open-treasure-chest_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 418
+        width: 328
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebb179f5839b96a0800000000000000
+      internalID: -6441392638398448661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 337
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd24ff6a808e5dd0800000000000000
+      internalID: -2495415811444560453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 314
+        width: 282
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ced14cc5fbc75190800000000000000
+      internalID: -7973680358681878846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 301
+        width: 51
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e9ef52b0b47710800000000000000
+      internalID: 1690170040330609881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 338
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15f5dbca130176a0800000000000000
+      internalID: -6453373377421380324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 260
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb4a5ed1290de4d0800000000000000
+      internalID: -3103814527119373316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 284
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a6c2c4b39e4a60800000000000000
+      internalID: 7660222420774987436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ea89820a65e320800000000000000
+      internalID: 2586590120124276945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 313
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a367bb8633cd6af0800000000000000
+      internalID: -401450152726404191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 42
+        width: 67
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833e6c4be99b5510800000000000000
+      internalID: 1538992933555811207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 26
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d3103cc717c300800000000000000
+      internalID: 272212468226578386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open-treasure-chest_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1d5f708cc8b110800000000000000
+      internalID: 1276995346624223776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      open-treasure-chest_0: -6441392638398448661
+      open-treasure-chest_1: -2495415811444560453
+      open-treasure-chest_10: 272212468226578386
+      open-treasure-chest_11: 1276995346624223776
+      open-treasure-chest_2: -7973680358681878846
+      open-treasure-chest_3: 1690170040330609881
+      open-treasure-chest_4: -6453373377421380324
+      open-treasure-chest_5: -3103814527119373316
+      open-treasure-chest_6: 7660222420774987436
+      open-treasure-chest_7: 2586590120124276945
+      open-treasure-chest_8: -401450152726404191
+      open-treasure-chest_9: 1538992933555811207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

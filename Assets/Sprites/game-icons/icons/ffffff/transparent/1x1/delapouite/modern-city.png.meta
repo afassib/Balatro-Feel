@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 503808166166e174d95ccc38629f488a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6827214273541062840
+    second: modern-city_0
+  - first:
+      213: -2181142240195136014
+    second: modern-city_1
+  - first:
+      213: 8045034629377059041
+    second: modern-city_2
+  - first:
+      213: 1455086579962149387
+    second: modern-city_3
+  - first:
+      213: 3514547692063279776
+    second: modern-city_4
+  - first:
+      213: 843117667176777389
+    second: modern-city_5
+  - first:
+      213: 6217791699864592055
+    second: modern-city_6
+  - first:
+      213: 7207621495904196326
+    second: modern-city_7
+  - first:
+      213: -5666985236647935500
+    second: modern-city_8
+  - first:
+      213: 3753011393619913576
+    second: modern-city_9
+  - first:
+      213: 5947424984788352850
+    second: modern-city_10
+  - first:
+      213: -8729336548175979045
+    second: modern-city_11
+  - first:
+      213: -6658071781840740487
+    second: modern-city_12
+  - first:
+      213: -246368352028385289
+    second: modern-city_13
+  - first:
+      213: 3854261719248080226
+    second: modern-city_14
+  - first:
+      213: -5135601850388108066
+    second: modern-city_15
+  - first:
+      213: -1565931056564212182
+    second: modern-city_16
+  - first:
+      213: 9195724954613846321
+    second: modern-city_17
+  - first:
+      213: -5542502418136342102
+    second: modern-city_18
+  - first:
+      213: -1098060391963346908
+    second: modern-city_19
+  - first:
+      213: 2334271848292116318
+    second: modern-city_20
+  - first:
+      213: 7734419563952252238
+    second: modern-city_21
+  - first:
+      213: -1966182335298680347
+    second: modern-city_22
+  - first:
+      213: 6366925953291728870
+    second: modern-city_23
+  - first:
+      213: -1965237899169715903
+    second: modern-city_24
+  - first:
+      213: -2540894338678222355
+    second: modern-city_25
+  - first:
+      213: 7558118869215689599
+    second: modern-city_26
+  - first:
+      213: -5321861835542715591
+    second: modern-city_27
+  - first:
+      213: 971176061382753457
+    second: modern-city_28
+  - first:
+      213: 7720699587930256529
+    second: modern-city_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: modern-city_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fbb145accd041a0800000000000000
+      internalID: -6827214273541062840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b19050b60bb1e0800000000000000
+      internalID: -2181142240195136014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86cb9fe54b5af60800000000000000
+      internalID: 8045034629377059041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 392
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af41cf881813410800000000000000
+      internalID: 1455086579962149387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac99b418e26c030800000000000000
+      internalID: 3514547692063279776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 392
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da68def1d0b53bb00800000000000000
+      internalID: 843117667176777389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be1dc59b980a4650800000000000000
+      internalID: 6217791699864592055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 328
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d6da109d960460800000000000000
+      internalID: 7207621495904196326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 328
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f18736c3f2da51b0800000000000000
+      internalID: -5666985236647935500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 296
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b65ba6aff551430800000000000000
+      internalID: 3753011393619913576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb79a438f798250800000000000000
+      internalID: 5947424984788352850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd221d8aa2bd680800000000000000
+      internalID: -8729336548175979045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f945a8df6c993a0800000000000000
+      internalID: -6658071781840740487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff13750a49b49cf0800000000000000
+      internalID: -246368352028385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d0b27ec961d7530800000000000000
+      internalID: 3854261719248080226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc27cf935daab8b0800000000000000
+      internalID: -5135601850388108066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eecbe2002b44ae0800000000000000
+      internalID: -1565931056564212182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13114fb0027cd9f70800000000000000
+      internalID: 9195724954613846321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 150
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa16d388a631513b0800000000000000
+      internalID: -5542502418136342102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428391b24e7e2c0f0800000000000000
+      internalID: -1098060391963346908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 136
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5765a6e0eff46020800000000000000
+      internalID: 2334271848292116318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a43d5d9d265b60800000000000000
+      internalID: 7734419563952252238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 136
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9cfd45597b6b4e0800000000000000
+      internalID: -1966182335298680347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 24
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e73b2dcb6ddb5850800000000000000
+      internalID: 6366925953291728870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149aad00b821ab4e0800000000000000
+      internalID: -1965237899169715903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1984baf0eecbcd0800000000000000
+      internalID: -2540894338678222355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b37c12115d3e860800000000000000
+      internalID: 7558118869215689599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a4c46bd2f426b0800000000000000
+      internalID: -5321861835542715591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf4197b7f4a7d00800000000000000
+      internalID: 971176061382753457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern-city_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19476148e5f652b60800000000000000
+      internalID: 7720699587930256529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      modern-city_0: -6827214273541062840
+      modern-city_1: -2181142240195136014
+      modern-city_10: 5947424984788352850
+      modern-city_11: -8729336548175979045
+      modern-city_12: -6658071781840740487
+      modern-city_13: -246368352028385289
+      modern-city_14: 3854261719248080226
+      modern-city_15: -5135601850388108066
+      modern-city_16: -1565931056564212182
+      modern-city_17: 9195724954613846321
+      modern-city_18: -5542502418136342102
+      modern-city_19: -1098060391963346908
+      modern-city_2: 8045034629377059041
+      modern-city_20: 2334271848292116318
+      modern-city_21: 7734419563952252238
+      modern-city_22: -1966182335298680347
+      modern-city_23: 6366925953291728870
+      modern-city_24: -1965237899169715903
+      modern-city_25: -2540894338678222355
+      modern-city_26: 7558118869215689599
+      modern-city_27: -5321861835542715591
+      modern-city_28: 971176061382753457
+      modern-city_29: 7720699587930256529
+      modern-city_3: 1455086579962149387
+      modern-city_4: 3514547692063279776
+      modern-city_5: 843117667176777389
+      modern-city_6: 6217791699864592055
+      modern-city_7: 7207621495904196326
+      modern-city_8: -5666985236647935500
+      modern-city_9: 3753011393619913576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

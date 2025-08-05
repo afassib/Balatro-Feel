@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 1a7bea35229ce3a40840d27e0ec37b25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2554969058528920748
+    second: tarot-07-the-chariot_0
+  - first:
+      213: -4888057084012985685
+    second: tarot-07-the-chariot_1
+  - first:
+      213: 380458759633059908
+    second: tarot-07-the-chariot_2
+  - first:
+      213: -5543537506151689150
+    second: tarot-07-the-chariot_3
+  - first:
+      213: 6403502977865748807
+    second: tarot-07-the-chariot_4
+  - first:
+      213: -4617452446374316607
+    second: tarot-07-the-chariot_5
+  - first:
+      213: 3063812218472665158
+    second: tarot-07-the-chariot_6
+  - first:
+      213: -3970540085697844733
+    second: tarot-07-the-chariot_7
+  - first:
+      213: 3519399011927209501
+    second: tarot-07-the-chariot_8
+  - first:
+      213: -7048742557171438187
+    second: tarot-07-the-chariot_9
+  - first:
+      213: -6018265461639106383
+    second: tarot-07-the-chariot_10
+  - first:
+      213: 5654219476741023287
+    second: tarot-07-the-chariot_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 329
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf4469d2dea8cd0800000000000000
+      internalID: -2554969058528920748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 348
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20399eaf12a2cb0800000000000000
+      internalID: -4888057084012985685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 394
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4404d93e939a74500800000000000000
+      internalID: 380458759633059908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 347
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24416c252066113b0800000000000000
+      internalID: -5543537506151689150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 284
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74118d9f700ddd850800000000000000
+      internalID: 6403502977865748807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 300
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b99ed6738befb0800000000000000
+      internalID: -4617452446374316607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 284
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640909cdaf8d48a20800000000000000
+      internalID: 3063812218472665158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 207
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ae78134dec5e8c0800000000000000
+      internalID: -3970540085697844733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1638c831ca67d030800000000000000
+      internalID: 3519399011927209501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 172
+        width: 190
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2e967df5dd2e90800000000000000
+      internalID: -7048742557171438187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 25
+        width: 207
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0bff2e273da7ca0800000000000000
+      internalID: -6018265461639106383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarot-07-the-chariot_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 128
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366e3128a2d77e40800000000000000
+      internalID: 5654219476741023287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tarot-07-the-chariot_0: -2554969058528920748
+      tarot-07-the-chariot_1: -4888057084012985685
+      tarot-07-the-chariot_10: -6018265461639106383
+      tarot-07-the-chariot_11: 5654219476741023287
+      tarot-07-the-chariot_2: 380458759633059908
+      tarot-07-the-chariot_3: -5543537506151689150
+      tarot-07-the-chariot_4: 6403502977865748807
+      tarot-07-the-chariot_5: -4617452446374316607
+      tarot-07-the-chariot_6: 3063812218472665158
+      tarot-07-the-chariot_7: -3970540085697844733
+      tarot-07-the-chariot_8: 3519399011927209501
+      tarot-07-the-chariot_9: -7048742557171438187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

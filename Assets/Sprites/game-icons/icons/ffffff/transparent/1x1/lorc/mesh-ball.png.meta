@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 37321f9747eecaf4685df89165b1ed7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5521053489840615831
+    second: mesh-ball_0
+  - first:
+      213: 2682678482040676279
+    second: mesh-ball_1
+  - first:
+      213: -3548400496431736279
+    second: mesh-ball_2
+  - first:
+      213: -1099520194528282097
+    second: mesh-ball_3
+  - first:
+      213: 1534522687646694618
+    second: mesh-ball_4
+  - first:
+      213: -9122016543777623422
+    second: mesh-ball_5
+  - first:
+      213: -3709847091950838416
+    second: mesh-ball_6
+  - first:
+      213: -1620819400390153757
+    second: mesh-ball_7
+  - first:
+      213: 7253778423110626755
+    second: mesh-ball_8
+  - first:
+      213: -8710284846858606564
+    second: mesh-ball_9
+  - first:
+      213: 5404603155706564079
+    second: mesh-ball_10
+  - first:
+      213: 5867355230602435927
+    second: mesh-ball_11
+  - first:
+      213: -7622821105049095580
+    second: mesh-ball_12
+  - first:
+      213: 3299701751826552457
+    second: mesh-ball_13
+  - first:
+      213: -2305739979494207082
+    second: mesh-ball_14
+  - first:
+      213: -3478006411073527807
+    second: mesh-ball_15
+  - first:
+      213: -1537246397077176222
+    second: mesh-ball_16
+  - first:
+      213: 5971393185934510291
+    second: mesh-ball_17
+  - first:
+      213: 3373575209525997005
+    second: mesh-ball_18
+  - first:
+      213: -1831955751912078527
+    second: mesh-ball_19
+  - first:
+      213: 4375874309440612904
+    second: mesh-ball_20
+  - first:
+      213: -2429281783569300320
+    second: mesh-ball_21
+  - first:
+      213: -1936871722308996314
+    second: mesh-ball_22
+  - first:
+      213: 1022951213048722376
+    second: mesh-ball_23
+  - first:
+      213: -524955872748935736
+    second: mesh-ball_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mesh-ball_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 384
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e8e105a174163b0800000000000000
+      internalID: -5521053489840615831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 432
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5e90bdd9ca3520800000000000000
+      internalID: 2682678482040676279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 442
+        width: 177
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92add597c8c81cec0800000000000000
+      internalID: -3548400496431736279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 52
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0af5c56538bdb0f0800000000000000
+      internalID: -1099520194528282097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 331
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc75f01148bb4510800000000000000
+      internalID: 1534522687646694618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 288
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f5e0b846186180800000000000000
+      internalID: -9122016543777623422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 355
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1149b9b9f38cc0800000000000000
+      internalID: -3709847091950838416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 390
+        width: 109
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9eea2c751b189e0800000000000000
+      internalID: -1620819400390153757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 228
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde6ec2b099aa460800000000000000
+      internalID: 7253778423110626755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 175
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186682b41ade1780800000000000000
+      internalID: -8710284846858606564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 244
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed48df6fe1010b40800000000000000
+      internalID: 5404603155706564079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 306
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9613ee780d6150800000000000000
+      internalID: 5867355230602435927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 231
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b237a79c463690800000000000000
+      internalID: -7622821105049095580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861b5eb245eacd20800000000000000
+      internalID: 3299701751826552457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 127
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d4d974bd5000e0800000000000000
+      internalID: -2305739979494207082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 139
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006e6da893abbfc0800000000000000
+      internalID: -3478006411073527807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 99
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26047f9eb8a9aaae0800000000000000
+      internalID: -1537246397077176222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 157
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d880ddf676aed250800000000000000
+      internalID: 5971393185934510291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 74
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd6cd277c851de20800000000000000
+      internalID: 3373575209525997005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 111
+        width: 52
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430c0323f59396e0800000000000000
+      internalID: -1831955751912078527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 108
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a27f3008a3abc30800000000000000
+      internalID: 4375874309440612904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 77
+        width: 119
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a44607b615794ed0800000000000000
+      internalID: -2429281783569300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f5483e69de15e0800000000000000
+      internalID: -1936871722308996314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 48
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f25c55b0423e00800000000000000
+      internalID: 1022951213048722376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesh-ball_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 177
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56b024a6bf6b8f0800000000000000
+      internalID: -524955872748935736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mesh-ball_0: -5521053489840615831
+      mesh-ball_1: 2682678482040676279
+      mesh-ball_10: 5404603155706564079
+      mesh-ball_11: 5867355230602435927
+      mesh-ball_12: -7622821105049095580
+      mesh-ball_13: 3299701751826552457
+      mesh-ball_14: -2305739979494207082
+      mesh-ball_15: -3478006411073527807
+      mesh-ball_16: -1537246397077176222
+      mesh-ball_17: 5971393185934510291
+      mesh-ball_18: 3373575209525997005
+      mesh-ball_19: -1831955751912078527
+      mesh-ball_2: -3548400496431736279
+      mesh-ball_20: 4375874309440612904
+      mesh-ball_21: -2429281783569300320
+      mesh-ball_22: -1936871722308996314
+      mesh-ball_23: 1022951213048722376
+      mesh-ball_24: -524955872748935736
+      mesh-ball_3: -1099520194528282097
+      mesh-ball_4: 1534522687646694618
+      mesh-ball_5: -9122016543777623422
+      mesh-ball_6: -3709847091950838416
+      mesh-ball_7: -1620819400390153757
+      mesh-ball_8: 7253778423110626755
+      mesh-ball_9: -8710284846858606564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

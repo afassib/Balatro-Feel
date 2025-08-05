@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 55d3684d63aa1e74e90dad3fddd52d8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7964960350484700803
+    second: glowing-artifact_0
+  - first:
+      213: 3083857138106088750
+    second: glowing-artifact_1
+  - first:
+      213: 3351183271146224192
+    second: glowing-artifact_2
+  - first:
+      213: -5991408997936717536
+    second: glowing-artifact_3
+  - first:
+      213: -1083422737066923133
+    second: glowing-artifact_4
+  - first:
+      213: 6615395979055219108
+    second: glowing-artifact_5
+  - first:
+      213: -2691658762749299880
+    second: glowing-artifact_6
+  - first:
+      213: -1500874348522909954
+    second: glowing-artifact_7
+  - first:
+      213: 5030891479384736756
+    second: glowing-artifact_8
+  - first:
+      213: 185236059962306664
+    second: glowing-artifact_9
+  - first:
+      213: -2432146622135384965
+    second: glowing-artifact_10
+  - first:
+      213: -5080831135081331699
+    second: glowing-artifact_11
+  - first:
+      213: -4203651314175916266
+    second: glowing-artifact_12
+  - first:
+      213: -6037953028898603454
+    second: glowing-artifact_13
+  - first:
+      213: -4163272907264372870
+    second: glowing-artifact_14
+  - first:
+      213: -2650203305537566086
+    second: glowing-artifact_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: glowing-artifact_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 405
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e16b41d39398e60800000000000000
+      internalID: 7964960350484700803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 386
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dbdd66abf0cca20800000000000000
+      internalID: 3083857138106088750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 372
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af6e50e6bc18e20800000000000000
+      internalID: 3351183271146224192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 369
+        width: 28
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02127ed924d3adca0800000000000000
+      internalID: -5991408997936717536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 370
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6b87c2c8e6f0f0800000000000000
+      internalID: -1083422737066923133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 413
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a14224d79b9ecb50800000000000000
+      internalID: 6615395979055219108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853b2c5cd9e45aad0800000000000000
+      internalID: -2691658762749299880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 318
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efecbc36bb2db2be0800000000000000
+      internalID: -1500874348522909954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 214
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3444c452151d540800000000000000
+      internalID: 5030891479384736756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 122
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86075a11737129200800000000000000
+      internalID: 185236059962306664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 40
+        width: 161
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7444f188874f3ed0800000000000000
+      internalID: -2432146622135384965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 150
+        width: 130
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048bb580034d79b0800000000000000
+      internalID: -5080831135081331699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 26
+        width: 106
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c0f2d661a9a5c0800000000000000
+      internalID: -4203651314175916266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 119
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e310ee5b1e43ca0800000000000000
+      internalID: -6037953028898603454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 29
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fcf7b49551936c0800000000000000
+      internalID: -4163272907264372870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glowing-artifact_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 28
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0ede8226983bd0800000000000000
+      internalID: -2650203305537566086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      glowing-artifact_0: 7964960350484700803
+      glowing-artifact_1: 3083857138106088750
+      glowing-artifact_10: -2432146622135384965
+      glowing-artifact_11: -5080831135081331699
+      glowing-artifact_12: -4203651314175916266
+      glowing-artifact_13: -6037953028898603454
+      glowing-artifact_14: -4163272907264372870
+      glowing-artifact_15: -2650203305537566086
+      glowing-artifact_2: 3351183271146224192
+      glowing-artifact_3: -5991408997936717536
+      glowing-artifact_4: -1083422737066923133
+      glowing-artifact_5: 6615395979055219108
+      glowing-artifact_6: -2691658762749299880
+      glowing-artifact_7: -1500874348522909954
+      glowing-artifact_8: 5030891479384736756
+      glowing-artifact_9: 185236059962306664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

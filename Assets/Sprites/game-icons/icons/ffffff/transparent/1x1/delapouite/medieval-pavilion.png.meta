@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: b59f77e85e44ca24ebd23a700379d078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -668073804454686287
+    second: medieval-pavilion_0
+  - first:
+      213: -2873041568258637292
+    second: medieval-pavilion_1
+  - first:
+      213: -8731550516014040612
+    second: medieval-pavilion_2
+  - first:
+      213: 5304074807745833522
+    second: medieval-pavilion_3
+  - first:
+      213: 7140531731594132371
+    second: medieval-pavilion_4
+  - first:
+      213: -7836483897980023361
+    second: medieval-pavilion_5
+  - first:
+      213: 3629590077294351996
+    second: medieval-pavilion_6
+  - first:
+      213: 5470807793650191129
+    second: medieval-pavilion_7
+  - first:
+      213: 2139588839330919442
+    second: medieval-pavilion_8
+  - first:
+      213: -8924466557823803508
+    second: medieval-pavilion_9
+  - first:
+      213: 2980006525458417252
+    second: medieval-pavilion_10
+  - first:
+      213: 7143505108325367735
+    second: medieval-pavilion_11
+  - first:
+      213: 6989279040678385460
+    second: medieval-pavilion_12
+  - first:
+      213: 2391437409583113987
+    second: medieval-pavilion_13
+  - first:
+      213: 7013575422618727364
+    second: medieval-pavilion_14
+  - first:
+      213: -8685598005564244008
+    second: medieval-pavilion_15
+  - first:
+      213: 1048106988355511008
+    second: medieval-pavilion_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medieval-pavilion_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 428
+        width: 122
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b11cb91a668ab6f0800000000000000
+      internalID: -668073804454686287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 370
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412430b6ae7e028d0800000000000000
+      internalID: -2873041568258637292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 368
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9ba92411d43d680800000000000000
+      internalID: -8731550516014040612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 369
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ae9c97febdb9940800000000000000
+      internalID: 5304074807745833522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb21917c3481360800000000000000
+      internalID: 7140531731594132371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 241
+        width: 161
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd05dc0a673f3390800000000000000
+      internalID: -7836483897980023361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 248
+        width: 181
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c769965e1f4ee5230800000000000000
+      internalID: 3629590077294351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 213
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b45f6e3b63ceb40800000000000000
+      internalID: 5470807793650191129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b5bd96b851bd10800000000000000
+      internalID: 2139588839330919442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 40
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1f0313fce52480800000000000000
+      internalID: -8924466557823803508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 197
+        width: 138
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668b4a652c1b5920800000000000000
+      internalID: 2980006525458417252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 40
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffbe05c04d22360800000000000000
+      internalID: 7143505108325367735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 143
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d7b7b148eef060800000000000000
+      internalID: 6989279040678385460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 213
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30728c457a7103120800000000000000
+      internalID: 2391437409583113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 27
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37996ffa9355160800000000000000
+      internalID: 7013575422618727364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 151
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df7088d1ae867780800000000000000
+      internalID: -8685598005564244008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pavilion_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 27
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e887b0cf9b8e00800000000000000
+      internalID: 1048106988355511008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      medieval-pavilion_0: -668073804454686287
+      medieval-pavilion_1: -2873041568258637292
+      medieval-pavilion_10: 2980006525458417252
+      medieval-pavilion_11: 7143505108325367735
+      medieval-pavilion_12: 6989279040678385460
+      medieval-pavilion_13: 2391437409583113987
+      medieval-pavilion_14: 7013575422618727364
+      medieval-pavilion_15: -8685598005564244008
+      medieval-pavilion_16: 1048106988355511008
+      medieval-pavilion_2: -8731550516014040612
+      medieval-pavilion_3: 5304074807745833522
+      medieval-pavilion_4: 7140531731594132371
+      medieval-pavilion_5: -7836483897980023361
+      medieval-pavilion_6: 3629590077294351996
+      medieval-pavilion_7: 5470807793650191129
+      medieval-pavilion_8: 2139588839330919442
+      medieval-pavilion_9: -8924466557823803508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

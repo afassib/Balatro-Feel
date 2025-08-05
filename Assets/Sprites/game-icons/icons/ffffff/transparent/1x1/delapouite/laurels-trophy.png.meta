@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 4778cd827a2a6fe4da2990e41eb45fbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3245864843714522789
+    second: laurels-trophy_0
+  - first:
+      213: 6904415892976501840
+    second: laurels-trophy_1
+  - first:
+      213: 7890623624240757555
+    second: laurels-trophy_2
+  - first:
+      213: 5318128207722216147
+    second: laurels-trophy_3
+  - first:
+      213: -4772776561740896948
+    second: laurels-trophy_4
+  - first:
+      213: 159644282380708505
+    second: laurels-trophy_5
+  - first:
+      213: -3206515071958312382
+    second: laurels-trophy_6
+  - first:
+      213: -5724462193481683386
+    second: laurels-trophy_7
+  - first:
+      213: -4565208735522213900
+    second: laurels-trophy_8
+  - first:
+      213: -6744935477113368229
+    second: laurels-trophy_9
+  - first:
+      213: -5275787966903737554
+    second: laurels-trophy_10
+  - first:
+      213: -5605729554421061201
+    second: laurels-trophy_11
+  - first:
+      213: -6818388252533185464
+    second: laurels-trophy_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laurels-trophy_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 254
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae6886c0e0ab0d20800000000000000
+      internalID: 3245864843714522789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 332
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0540d6a6ca961df50800000000000000
+      internalID: 6904415892976501840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bfc234160218d60800000000000000
+      internalID: 7890623624240757555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 332
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7443ad69cdc940800000000000000
+      internalID: 5318128207722216147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 254
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45af1d1101b3cdb0800000000000000
+      internalID: -4772776561740896948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a69b501ab273200800000000000000
+      internalID: 159644282380708505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a1df8e78b2083d0800000000000000
+      internalID: -3206515071958312382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 86
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eee5be6ff9e80b0800000000000000
+      internalID: -5724462193481683386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 166
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff20b1b7de15a0c0800000000000000
+      internalID: -4565208735522213900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515ab57bec2562a0800000000000000
+      internalID: -6744935477113368229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 145
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e232c62ebc2a8c6b0800000000000000
+      internalID: -5275787966903737554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e2d1bba27432b0800000000000000
+      internalID: -5605729554421061201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laurels-trophy_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 35
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844201b72083061a0800000000000000
+      internalID: -6818388252533185464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      laurels-trophy_0: 3245864843714522789
+      laurels-trophy_1: 6904415892976501840
+      laurels-trophy_10: -5275787966903737554
+      laurels-trophy_11: -5605729554421061201
+      laurels-trophy_12: -6818388252533185464
+      laurels-trophy_2: 7890623624240757555
+      laurels-trophy_3: 5318128207722216147
+      laurels-trophy_4: -4772776561740896948
+      laurels-trophy_5: 159644282380708505
+      laurels-trophy_6: -3206515071958312382
+      laurels-trophy_7: -5724462193481683386
+      laurels-trophy_8: -4565208735522213900
+      laurels-trophy_9: -6744935477113368229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

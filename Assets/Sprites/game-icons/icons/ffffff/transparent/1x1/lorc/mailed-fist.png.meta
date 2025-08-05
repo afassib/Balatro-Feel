@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 0ca0968bbe46d9e43be6b435c7fe351e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8980310735788583245
+    second: mailed-fist_0
+  - first:
+      213: 2621356534005380837
+    second: mailed-fist_1
+  - first:
+      213: 2788090033617199915
+    second: mailed-fist_2
+  - first:
+      213: -4533343797122021009
+    second: mailed-fist_3
+  - first:
+      213: 4827760518295863638
+    second: mailed-fist_4
+  - first:
+      213: 2813801531033937929
+    second: mailed-fist_5
+  - first:
+      213: -8752078960976056173
+    second: mailed-fist_6
+  - first:
+      213: 8964837683320595634
+    second: mailed-fist_7
+  - first:
+      213: 2831505953348433964
+    second: mailed-fist_8
+  - first:
+      213: -2044024154121092860
+    second: mailed-fist_9
+  - first:
+      213: -7435095897725727931
+    second: mailed-fist_10
+  - first:
+      213: 7173921855921652017
+    second: mailed-fist_11
+  - first:
+      213: -2684218679829851638
+    second: mailed-fist_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mailed-fist_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d492e43d80970ac70800000000000000
+      internalID: 8980310735788583245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 342
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e63a0f01ede06420800000000000000
+      internalID: 2621356534005380837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 399
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b236f871d1941b620800000000000000
+      internalID: 2788090033617199915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 367
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6942dfc5d35611c0800000000000000
+      internalID: -4533343797122021009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 322
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514ea1ec96aff240800000000000000
+      internalID: 4827760518295863638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 220
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086ab59591ac0720800000000000000
+      internalID: 2813801531033937929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 97
+        width: 318
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3903ad43e8e5a8680800000000000000
+      internalID: -8752078960976056173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 309
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b42c5f0060896c70800000000000000
+      internalID: 8964837683320595634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 261
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28bcb0a9a78b4720800000000000000
+      internalID: 2831505953348433964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 212
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014b4d8cda22a3e0800000000000000
+      internalID: -2044024154121092860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b08118cab31d890800000000000000
+      internalID: -7435095897725727931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 251
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1310f9c3be3ee8360800000000000000
+      internalID: 7173921855921652017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailed-fist_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 51
+        width: 242
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021641155dbfbad0800000000000000
+      internalID: -2684218679829851638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mailed-fist_0: 8980310735788583245
+      mailed-fist_1: 2621356534005380837
+      mailed-fist_10: -7435095897725727931
+      mailed-fist_11: 7173921855921652017
+      mailed-fist_12: -2684218679829851638
+      mailed-fist_2: 2788090033617199915
+      mailed-fist_3: -4533343797122021009
+      mailed-fist_4: 4827760518295863638
+      mailed-fist_5: 2813801531033937929
+      mailed-fist_6: -8752078960976056173
+      mailed-fist_7: 8964837683320595634
+      mailed-fist_8: 2831505953348433964
+      mailed-fist_9: -2044024154121092860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 9a0a48cde02ca8a439171efaffc654ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 890627732069647706
+    second: holy-hand-grenade_0
+  - first:
+      213: -7337903020039212919
+    second: holy-hand-grenade_1
+  - first:
+      213: 5495702716109869356
+    second: holy-hand-grenade_2
+  - first:
+      213: 4845570512064677139
+    second: holy-hand-grenade_3
+  - first:
+      213: 2529845661156162444
+    second: holy-hand-grenade_4
+  - first:
+      213: 19380470453657993
+    second: holy-hand-grenade_5
+  - first:
+      213: 4776984964548215857
+    second: holy-hand-grenade_6
+  - first:
+      213: 1165136714843183005
+    second: holy-hand-grenade_7
+  - first:
+      213: -6655164410025139564
+    second: holy-hand-grenade_8
+  - first:
+      213: -1707844219668625380
+    second: holy-hand-grenade_9
+  - first:
+      213: -6443894261332015120
+    second: holy-hand-grenade_10
+  - first:
+      213: 4333732948806297053
+    second: holy-hand-grenade_11
+  - first:
+      213: -766424746117903806
+    second: holy-hand-grenade_12
+  - first:
+      213: -6866983014117134680
+    second: holy-hand-grenade_13
+  - first:
+      213: -4314463652721099762
+    second: holy-hand-grenade_14
+  - first:
+      213: -7163823809384253685
+    second: holy-hand-grenade_15
+  - first:
+      213: 1819146256115044417
+    second: holy-hand-grenade_16
+  - first:
+      213: 5618663030467138899
+    second: holy-hand-grenade_17
+  - first:
+      213: -3345215581134860560
+    second: holy-hand-grenade_18
+  - first:
+      213: -6692443527034914406
+    second: holy-hand-grenade_19
+  - first:
+      213: -8001743061506020975
+    second: holy-hand-grenade_20
+  - first:
+      213: -6865313047207931088
+    second: holy-hand-grenade_21
+  - first:
+      213: 5749949149331626882
+    second: holy-hand-grenade_22
+  - first:
+      213: -3212873747100458325
+    second: holy-hand-grenade_23
+  - first:
+      213: 3140112417765247533
+    second: holy-hand-grenade_24
+  - first:
+      213: -4258439583449895221
+    second: holy-hand-grenade_25
+  - first:
+      213: -5735152992508687045
+    second: holy-hand-grenade_26
+  - first:
+      213: 7239431743727501781
+    second: holy-hand-grenade_27
+  - first:
+      213: 7410866786639442514
+    second: holy-hand-grenade_28
+  - first:
+      213: 7722397206174109943
+    second: holy-hand-grenade_29
+  - first:
+      213: -3017596846961618369
+    second: holy-hand-grenade_30
+  - first:
+      213: -8778946769836600243
+    second: holy-hand-grenade_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: holy-hand-grenade_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 335
+        width: 176
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558f1d14352c5c00800000000000000
+      internalID: 890627732069647706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980fb46c4188a2a90800000000000000
+      internalID: -7337903020039212919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 304
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d0e8b088a44c40800000000000000
+      internalID: 5495702716109869356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 287
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31509b135bcee3340800000000000000
+      internalID: 4845570512064677139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 304
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb6c1a931db1320800000000000000
+      internalID: 2529845661156162444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98168f86f6ad44000800000000000000
+      internalID: 19380470453657993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 256
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134474504824b4240800000000000000
+      internalID: 4776984964548215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975ef24ba56b2010800000000000000
+      internalID: 1165136714843183005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49221aaca3b14a3a0800000000000000
+      internalID: -6655164410025139564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1882f21bb48c48e0800000000000000
+      internalID: -1707844219668625380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7802f7f40b296a0800000000000000
+      internalID: -6443894261332015120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56105e723842c30800000000000000
+      internalID: 4333732948806297053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac29c01cc1d55f0800000000000000
+      internalID: -766424746117903806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 157
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae28ecd45393b0a0800000000000000
+      internalID: -6866983014117134680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7937ba22ff14c0800000000000000
+      internalID: -4314463652721099762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 157
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b077a20733cf49c90800000000000000
+      internalID: -7163823809384253685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1401836b1e7ee3910800000000000000
+      internalID: 1819146256115044417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3551d9bd14089fd40800000000000000
+      internalID: 5618663030467138899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feca5517286391d0800000000000000
+      internalID: -3345215581134860560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b8bbf11aaf13a0800000000000000
+      internalID: -6692443527034914406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199acf2a41914f090800000000000000
+      internalID: -8001743061506020975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 157
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331155582289b0a0800000000000000
+      internalID: -6865313047207931088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b987a694cebcf40800000000000000
+      internalID: 5749949149331626882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba226eb79549963d0800000000000000
+      internalID: -3212873747100458325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac0bf5b9be39b20800000000000000
+      internalID: 3140112417765247533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea103d2cbf6e4c0800000000000000
+      internalID: -4258439583449895221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d400d4db4a860b0800000000000000
+      internalID: -5735152992508687045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1809490d0a77460800000000000000
+      internalID: 7239431743727501781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527267f310b8d660800000000000000
+      internalID: 7410866786639442514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_29
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01a7018577b2b60800000000000000
+      internalID: 7722397206174109943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329385d7a75f16d0800000000000000
+      internalID: -3017596846961618369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holy-hand-grenade_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 16
+        width: 282
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4493d9fc6aea2680800000000000000
+      internalID: -8778946769836600243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      holy-hand-grenade_0: 890627732069647706
+      holy-hand-grenade_1: -7337903020039212919
+      holy-hand-grenade_10: -6443894261332015120
+      holy-hand-grenade_11: 4333732948806297053
+      holy-hand-grenade_12: -766424746117903806
+      holy-hand-grenade_13: -6866983014117134680
+      holy-hand-grenade_14: -4314463652721099762
+      holy-hand-grenade_15: -7163823809384253685
+      holy-hand-grenade_16: 1819146256115044417
+      holy-hand-grenade_17: 5618663030467138899
+      holy-hand-grenade_18: -3345215581134860560
+      holy-hand-grenade_19: -6692443527034914406
+      holy-hand-grenade_2: 5495702716109869356
+      holy-hand-grenade_20: -8001743061506020975
+      holy-hand-grenade_21: -6865313047207931088
+      holy-hand-grenade_22: 5749949149331626882
+      holy-hand-grenade_23: -3212873747100458325
+      holy-hand-grenade_24: 3140112417765247533
+      holy-hand-grenade_25: -4258439583449895221
+      holy-hand-grenade_26: -5735152992508687045
+      holy-hand-grenade_27: 7239431743727501781
+      holy-hand-grenade_28: 7410866786639442514
+      holy-hand-grenade_29: 7722397206174109943
+      holy-hand-grenade_3: 4845570512064677139
+      holy-hand-grenade_30: -3017596846961618369
+      holy-hand-grenade_31: -8778946769836600243
+      holy-hand-grenade_4: 2529845661156162444
+      holy-hand-grenade_5: 19380470453657993
+      holy-hand-grenade_6: 4776984964548215857
+      holy-hand-grenade_7: 1165136714843183005
+      holy-hand-grenade_8: -6655164410025139564
+      holy-hand-grenade_9: -1707844219668625380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

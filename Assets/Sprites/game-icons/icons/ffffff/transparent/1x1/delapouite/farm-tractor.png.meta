@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 63b7cfbc3e93ea140b42c623c0625727
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7304146702578217907
+    second: farm-tractor_0
+  - first:
+      213: 8051846548512668092
+    second: farm-tractor_1
+  - first:
+      213: 6972243215778577917
+    second: farm-tractor_2
+  - first:
+      213: 1953263478777489144
+    second: farm-tractor_3
+  - first:
+      213: -3618353500175771399
+    second: farm-tractor_4
+  - first:
+      213: 1346780233054147174
+    second: farm-tractor_5
+  - first:
+      213: 7618069467285262807
+    second: farm-tractor_6
+  - first:
+      213: 5157854678507270970
+    second: farm-tractor_7
+  - first:
+      213: 8719366416816987830
+    second: farm-tractor_8
+  - first:
+      213: 6751636019150909964
+    second: farm-tractor_9
+  - first:
+      213: -8701896439682510114
+    second: farm-tractor_10
+  - first:
+      213: -6901207462721303816
+    second: farm-tractor_11
+  - first:
+      213: 7677865317145152505
+    second: farm-tractor_12
+  - first:
+      213: 9184815703131573936
+    second: farm-tractor_13
+  - first:
+      213: 586449694006763969
+    second: farm-tractor_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farm-tractor_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c0c75e54572aa90800000000000000
+      internalID: -7304146702578217907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 400
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97d0e76c7edbf60800000000000000
+      internalID: 8051846548512668092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 288
+        width: 156
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdfb14a34262c060800000000000000
+      internalID: 6972243215778577917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 277
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a64df8c26b1b10800000000000000
+      internalID: 1953263478777489144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 257
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f85b3699a609cdc0800000000000000
+      internalID: -3618353500175771399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 282
+        width: 21
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d5b58c79b0b210800000000000000
+      internalID: 1346780233054147174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 231
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d199c771d1d8b960800000000000000
+      internalID: 7618069467285262807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33338ba081649740800000000000000
+      internalID: 5157854678507270970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed8d41f89610970800000000000000
+      internalID: 8719366416816987830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 161
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02f83e0031a2bd50800000000000000
+      internalID: 6751636019150909964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 240
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2dc70fa47ac3780800000000000000
+      internalID: -8701896439682510114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 208
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fac837706cf930a0800000000000000
+      internalID: -6901207462721303816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 58
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb8abda3d14d8a60800000000000000
+      internalID: 7677865317145152505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be46900835077f70800000000000000
+      internalID: 9184815703131573936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm-tractor_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 118
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e8e9b3ec732800800000000000000
+      internalID: 586449694006763969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      farm-tractor_0: -7304146702578217907
+      farm-tractor_1: 8051846548512668092
+      farm-tractor_10: -8701896439682510114
+      farm-tractor_11: -6901207462721303816
+      farm-tractor_12: 7677865317145152505
+      farm-tractor_13: 9184815703131573936
+      farm-tractor_14: 586449694006763969
+      farm-tractor_2: 6972243215778577917
+      farm-tractor_3: 1953263478777489144
+      farm-tractor_4: -3618353500175771399
+      farm-tractor_5: 1346780233054147174
+      farm-tractor_6: 7618069467285262807
+      farm-tractor_7: 5157854678507270970
+      farm-tractor_8: 8719366416816987830
+      farm-tractor_9: 6751636019150909964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

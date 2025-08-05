@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: c977f7495efd62749a9d7576708051c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8670311711380318816
+    second: dwarf-king_0
+  - first:
+      213: 7279281467674019153
+    second: dwarf-king_1
+  - first:
+      213: -2914689410413011809
+    second: dwarf-king_2
+  - first:
+      213: -5551899156219985084
+    second: dwarf-king_3
+  - first:
+      213: 1750767627811156702
+    second: dwarf-king_4
+  - first:
+      213: 3899082778657163068
+    second: dwarf-king_5
+  - first:
+      213: -2363525509234813647
+    second: dwarf-king_6
+  - first:
+      213: -7070146436098910593
+    second: dwarf-king_7
+  - first:
+      213: -6612159594636461244
+    second: dwarf-king_8
+  - first:
+      213: -2441021713618423514
+    second: dwarf-king_9
+  - first:
+      213: -89911983475960807
+    second: dwarf-king_10
+  - first:
+      213: -6345422391082319219
+    second: dwarf-king_11
+  - first:
+      213: 7017481134361882473
+    second: dwarf-king_12
+  - first:
+      213: 386930794874783728
+    second: dwarf-king_13
+  - first:
+      213: 274300929062065456
+    second: dwarf-king_14
+  - first:
+      213: -5608076710929627294
+    second: dwarf-king_15
+  - first:
+      213: -718471487993212462
+    second: dwarf-king_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwarf-king_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 191
+        width: 46
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5544f8f6ddca780800000000000000
+      internalID: -8670311711380318816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 365
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1554bc47de3350560800000000000000
+      internalID: 7279281467674019153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 237
+        width: 45
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5db58c61fc87d0800000000000000
+      internalID: -2914689410413011809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 365
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44387b4f121b3f2b0800000000000000
+      internalID: -5551899156219985084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 191
+        width: 46
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2ffeba1e9fb4810800000000000000
+      internalID: 1750767627811156702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 109
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3704b301235c1630800000000000000
+      internalID: 3899082778657163068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351c746212133fd0800000000000000
+      internalID: -2363525509234813647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 109
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76945e864bc1ed90800000000000000
+      internalID: -7070146436098910593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 128
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb083a1e3ec34a0800000000000000
+      internalID: -6612159594636461244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62132ce3fafbf1ed0800000000000000
+      internalID: -2441021713618423514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145dd3078190cef0800000000000000
+      internalID: -89911983475960807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828abd64f780f7a0800000000000000
+      internalID: -6345422391082319219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 128
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f25a759e9136160800000000000000
+      internalID: 7017481134361882473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 128
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7cb250287ae5500800000000000000
+      internalID: 386930794874783728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035dd4edd338ec300800000000000000
+      internalID: 274300929062065456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 75
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26706ebb1fb1c22b0800000000000000
+      internalID: -5608076710929627294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf-king_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 75
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11be00df97706f0800000000000000
+      internalID: -718471487993212462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dwarf-king_0: -8670311711380318816
+      dwarf-king_1: 7279281467674019153
+      dwarf-king_10: -89911983475960807
+      dwarf-king_11: -6345422391082319219
+      dwarf-king_12: 7017481134361882473
+      dwarf-king_13: 386930794874783728
+      dwarf-king_14: 274300929062065456
+      dwarf-king_15: -5608076710929627294
+      dwarf-king_16: -718471487993212462
+      dwarf-king_2: -2914689410413011809
+      dwarf-king_3: -5551899156219985084
+      dwarf-king_4: 1750767627811156702
+      dwarf-king_5: 3899082778657163068
+      dwarf-king_6: -2363525509234813647
+      dwarf-king_7: -7070146436098910593
+      dwarf-king_8: -6612159594636461244
+      dwarf-king_9: -2441021713618423514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

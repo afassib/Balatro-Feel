@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: f4e776de93ae0f34193aa27d9aacf4bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8840004144567579356
+    second: path-tile_0
+  - first:
+      213: -7501042227897311372
+    second: path-tile_1
+  - first:
+      213: 8443065748659447086
+    second: path-tile_2
+  - first:
+      213: 2833207756181944223
+    second: path-tile_3
+  - first:
+      213: 7992884234227783412
+    second: path-tile_4
+  - first:
+      213: -8139077281767064733
+    second: path-tile_5
+  - first:
+      213: 7921508485564240813
+    second: path-tile_6
+  - first:
+      213: -7117864331523715227
+    second: path-tile_7
+  - first:
+      213: 8255357100873557080
+    second: path-tile_8
+  - first:
+      213: 6298169486864995057
+    second: path-tile_9
+  - first:
+      213: -921520860989465067
+    second: path-tile_10
+  - first:
+      213: -1924250660090090114
+    second: path-tile_11
+  - first:
+      213: 6569976794998166228
+    second: path-tile_12
+  - first:
+      213: -1094587480799480439
+    second: path-tile_13
+  - first:
+      213: 481365585238087279
+    second: path-tile_14
+  - first:
+      213: -7024791011744748942
+    second: path-tile_15
+  - first:
+      213: -1190727645951398571
+    second: path-tile_16
+  - first:
+      213: 1989201708372058307
+    second: path-tile_17
+  - first:
+      213: -3681461578569481922
+    second: path-tile_18
+  - first:
+      213: -599354514946294728
+    second: path-tile_19
+  - first:
+      213: -3323993641230501467
+    second: path-tile_20
+  - first:
+      213: -2962104878130515650
+    second: path-tile_21
+  - first:
+      213: 6126191098854591924
+    second: path-tile_22
+  - first:
+      213: -5801211438130149578
+    second: path-tile_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: path-tile_0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 449
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd27ee1eee00eaa70800000000000000
+      internalID: 8840004144567579356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 460
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fd9f006d1f6e790800000000000000
+      internalID: -7501042227897311372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 414
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e252d1ca09bcb2570800000000000000
+      internalID: 8443065748659447086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 421
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973b1a7173915720800000000000000
+      internalID: 2833207756181944223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 395
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f697f7ecdd6cee60800000000000000
+      internalID: 7992884234227783412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 373
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b72dcb5503c0f80800000000000000
+      internalID: -8139077281767064733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 353
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da39c476ff9deed60800000000000000
+      internalID: 7921508485564240813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 332
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f0b104a14483d90800000000000000
+      internalID: -7117864331523715227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85421936b8be09270800000000000000
+      internalID: 8255357100873557080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2dac777c7976750800000000000000
+      internalID: 6298169486864995057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 302
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e5c9bc8a91633f0800000000000000
+      internalID: -921520860989465067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 252
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de4824830bb45e0800000000000000
+      internalID: -1924250660090090114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 236
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2dc68f51f3d2b50800000000000000
+      internalID: 6569976794998166228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 253
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9857b5f4c7e3fc0f0800000000000000
+      internalID: -1094587480799480439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d63b03772ea600800000000000000
+      internalID: 481365585238087279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 184
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae8933bcde28e90800000000000000
+      internalID: -7024791011744748942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 122
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d64d6c38fa97fe0800000000000000
+      internalID: -1190727645951398571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 132
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ed1e1a601b9b10800000000000000
+      internalID: 1989201708372058307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e310e131332d8ecc0800000000000000
+      internalID: -3681461578569481922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 128
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c79128e3aaea7f0800000000000000
+      internalID: -599354514946294728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 86
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97cc2056dced1d0800000000000000
+      internalID: -3323993641230501467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 58
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313497ae4d74e6d0800000000000000
+      internalID: -2962104878130515650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4361b85a940550800000000000000
+      internalID: 6126191098854591924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path-tile_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 50
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c153eee4fd7fa0800000000000000
+      internalID: -5801211438130149578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      path-tile_0: 8840004144567579356
+      path-tile_1: -7501042227897311372
+      path-tile_10: -921520860989465067
+      path-tile_11: -1924250660090090114
+      path-tile_12: 6569976794998166228
+      path-tile_13: -1094587480799480439
+      path-tile_14: 481365585238087279
+      path-tile_15: -7024791011744748942
+      path-tile_16: -1190727645951398571
+      path-tile_17: 1989201708372058307
+      path-tile_18: -3681461578569481922
+      path-tile_19: -599354514946294728
+      path-tile_2: 8443065748659447086
+      path-tile_20: -3323993641230501467
+      path-tile_21: -2962104878130515650
+      path-tile_22: 6126191098854591924
+      path-tile_23: -5801211438130149578
+      path-tile_3: 2833207756181944223
+      path-tile_4: 7992884234227783412
+      path-tile_5: -8139077281767064733
+      path-tile_6: 7921508485564240813
+      path-tile_7: -7117864331523715227
+      path-tile_8: 8255357100873557080
+      path-tile_9: 6298169486864995057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

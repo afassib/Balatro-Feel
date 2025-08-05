@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 48d1c4c8c18c3854491b187906a0343d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 647145593263001124
+    second: shooner-sailboat_0
+  - first:
+      213: 6439832086311781295
+    second: shooner-sailboat_1
+  - first:
+      213: -1538062062631860994
+    second: shooner-sailboat_2
+  - first:
+      213: -3226308776991318847
+    second: shooner-sailboat_3
+  - first:
+      213: 4406750989452987057
+    second: shooner-sailboat_4
+  - first:
+      213: 3806958718393643526
+    second: shooner-sailboat_5
+  - first:
+      213: -8175457958995494219
+    second: shooner-sailboat_6
+  - first:
+      213: -2711705031363753171
+    second: shooner-sailboat_7
+  - first:
+      213: 404729775087985942
+    second: shooner-sailboat_8
+  - first:
+      213: -1864023886122538519
+    second: shooner-sailboat_9
+  - first:
+      213: 5356102485984993834
+    second: shooner-sailboat_10
+  - first:
+      213: 240569352617143657
+    second: shooner-sailboat_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shooner-sailboat_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 288
+        width: 87
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e86640d7f1bf800800000000000000
+      internalID: 647145593263001124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 382
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3c6cda921ee5950800000000000000
+      internalID: 6439832086311781295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 388
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4c25af3b4b7aae0800000000000000
+      internalID: -1538062062631860994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 140
+        width: 134
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc15b3d249d933d0800000000000000
+      internalID: -3226308776991318847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 140
+        width: 93
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba42fb4dace72d30800000000000000
+      internalID: 4406750989452987057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 301
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602fd64c8c805d430800000000000000
+      internalID: 3806958718393643526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 295
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bafeed3d40fa8e80800000000000000
+      internalID: -8175457958995494219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 134
+        width: 68
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8ce524a61e5ad0800000000000000
+      internalID: -2711705031363753171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 152
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a42a0693ed9500800000000000000
+      internalID: 404729775087985942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 176
+        width: 175
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9a2dec628a126e0800000000000000
+      internalID: -1864023886122538519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 311
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22e8b945d2b45a40800000000000000
+      internalID: 5356102485984993834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooner-sailboat_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 110
+        width: 135
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d27963d8ca65300800000000000000
+      internalID: 240569352617143657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shooner-sailboat_0: 647145593263001124
+      shooner-sailboat_1: 6439832086311781295
+      shooner-sailboat_10: 5356102485984993834
+      shooner-sailboat_11: 240569352617143657
+      shooner-sailboat_2: -1538062062631860994
+      shooner-sailboat_3: -3226308776991318847
+      shooner-sailboat_4: 4406750989452987057
+      shooner-sailboat_5: 3806958718393643526
+      shooner-sailboat_6: -8175457958995494219
+      shooner-sailboat_7: -2711705031363753171
+      shooner-sailboat_8: 404729775087985942
+      shooner-sailboat_9: -1864023886122538519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

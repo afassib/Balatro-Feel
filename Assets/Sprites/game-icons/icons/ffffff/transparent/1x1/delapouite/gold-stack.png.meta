@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 0cc51a108f8b8eb48bc07483d6c2175a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7593953066687488707
+    second: gold-stack_0
+  - first:
+      213: -357383572113186522
+    second: gold-stack_1
+  - first:
+      213: -8940431604899857649
+    second: gold-stack_2
+  - first:
+      213: -4963925099576271956
+    second: gold-stack_3
+  - first:
+      213: -832044417373088455
+    second: gold-stack_4
+  - first:
+      213: -3707196010655252106
+    second: gold-stack_5
+  - first:
+      213: 5969013670281112079
+    second: gold-stack_6
+  - first:
+      213: 1102363668466600342
+    second: gold-stack_7
+  - first:
+      213: -2030157937361437018
+    second: gold-stack_8
+  - first:
+      213: -5606158973018841410
+    second: gold-stack_9
+  - first:
+      213: -7792404958319158926
+    second: gold-stack_10
+  - first:
+      213: 6278425680718153884
+    second: gold-stack_11
+  - first:
+      213: 699480897028421982
+    second: gold-stack_12
+  - first:
+      213: 935237912159492904
+    second: gold-stack_13
+  - first:
+      213: 3101421664943745745
+    second: gold-stack_14
+  - first:
+      213: -3983885053104434422
+    second: gold-stack_15
+  - first:
+      213: 2960948070694867059
+    second: gold-stack_16
+  - first:
+      213: 1498160692718731284
+    second: gold-stack_17
+  - first:
+      213: 2266227201427887233
+    second: gold-stack_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold-stack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 478
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9a1b9bebdc9690800000000000000
+      internalID: -7593953066687488707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62122afd8815a0bf0800000000000000
+      internalID: -357383572113186522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb443e2d43de380800000000000000
+      internalID: -8940431604899857649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab5c140c689c1bb0800000000000000
+      internalID: -4963925099576271956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 91
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355121c20cf374f0800000000000000
+      internalID: -832044417373088455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6710620bed46d8cc0800000000000000
+      internalID: -3707196010655252106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6e84de4236d250800000000000000
+      internalID: 5969013670281112079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998f387ae16c4f00800000000000000
+      internalID: 1102363668466600342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 91
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb1a9bc1e63d3e0800000000000000
+      internalID: -2030157937361437018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 72
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed7d2ed1ce232b0800000000000000
+      internalID: -5606158973018841410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d461f9f0dbd390800000000000000
+      internalID: -7792404958319158926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 24
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9845ef54e2712750800000000000000
+      internalID: 6278425680718153884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59fc8a7b2e05b900800000000000000
+      internalID: 699480897028421982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 24
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9ebe0de1aafc00800000000000000
+      internalID: 935237912159492904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 43
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2cad72967a0b20800000000000000
+      internalID: 3101421664943745745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 24
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d8b7d6a566b8c0800000000000000
+      internalID: -3983885053104434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37055202596671920800000000000000
+      internalID: 2960948070694867059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 24
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41004f166398ac410800000000000000
+      internalID: 1498160692718731284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold-stack_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184df69f1a1437f10800000000000000
+      internalID: 2266227201427887233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gold-stack_0: -7593953066687488707
+      gold-stack_1: -357383572113186522
+      gold-stack_10: -7792404958319158926
+      gold-stack_11: 6278425680718153884
+      gold-stack_12: 699480897028421982
+      gold-stack_13: 935237912159492904
+      gold-stack_14: 3101421664943745745
+      gold-stack_15: -3983885053104434422
+      gold-stack_16: 2960948070694867059
+      gold-stack_17: 1498160692718731284
+      gold-stack_18: 2266227201427887233
+      gold-stack_2: -8940431604899857649
+      gold-stack_3: -4963925099576271956
+      gold-stack_4: -832044417373088455
+      gold-stack_5: -3707196010655252106
+      gold-stack_6: 5969013670281112079
+      gold-stack_7: 1102363668466600342
+      gold-stack_8: -2030157937361437018
+      gold-stack_9: -5606158973018841410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

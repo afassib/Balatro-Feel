@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 70c560e862fc35942884e6e9b5b674d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3514593788071308857
+    second: wooden-pier_0
+  - first:
+      213: -267434818672338245
+    second: wooden-pier_1
+  - first:
+      213: -8842993923989465105
+    second: wooden-pier_2
+  - first:
+      213: -6829810163072801174
+    second: wooden-pier_3
+  - first:
+      213: -1355973125749393552
+    second: wooden-pier_4
+  - first:
+      213: -1573622883602527258
+    second: wooden-pier_5
+  - first:
+      213: 686783494684499582
+    second: wooden-pier_6
+  - first:
+      213: 8542190443415272200
+    second: wooden-pier_7
+  - first:
+      213: -4318240478222500034
+    second: wooden-pier_8
+  - first:
+      213: -6219682435267956426
+    second: wooden-pier_9
+  - first:
+      213: -424500851206819689
+    second: wooden-pier_10
+  - first:
+      213: 1524368202362471313
+    second: wooden-pier_11
+  - first:
+      213: 5827833550974699381
+    second: wooden-pier_12
+  - first:
+      213: -6239207285259833419
+    second: wooden-pier_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden-pier_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 406
+        width: 474
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ee8cbdd6856c030800000000000000
+      internalID: 3514593788071308857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 72
+        width: 135
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad6780371e94cf0800000000000000
+      internalID: -267434818672338245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 242
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe79ba9d0ef574580800000000000000
+      internalID: -8842993923989465105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6661b2b7d3a731a0800000000000000
+      internalID: -6829810163072801174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773bba50ad9e2de0800000000000000
+      internalID: -1355973125749393552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 162
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb0274235e592ae0800000000000000
+      internalID: -1573622883602527258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 242
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e554e13f1f78900800000000000000
+      internalID: 686783494684499582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf08723f4fb8670800000000000000
+      internalID: 8542190443415272200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 94
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fb5d00a278214c0800000000000000
+      internalID: -4318240478222500034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 216
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631fd1647cf3fa9a0800000000000000
+      internalID: -6219682435267956426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79077f499bedb1af0800000000000000
+      internalID: -424500851206819689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19347b8bdc4a72510800000000000000
+      internalID: 1524368202362471313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57743f7ccbf90e050800000000000000
+      internalID: 5827833550974699381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-pier_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 51
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfee02e702e969a0800000000000000
+      internalID: -6239207285259833419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wooden-pier_0: 3514593788071308857
+      wooden-pier_1: -267434818672338245
+      wooden-pier_10: -424500851206819689
+      wooden-pier_11: 1524368202362471313
+      wooden-pier_12: 5827833550974699381
+      wooden-pier_13: -6239207285259833419
+      wooden-pier_2: -8842993923989465105
+      wooden-pier_3: -6829810163072801174
+      wooden-pier_4: -1355973125749393552
+      wooden-pier_5: -1573622883602527258
+      wooden-pier_6: 686783494684499582
+      wooden-pier_7: 8542190443415272200
+      wooden-pier_8: -4318240478222500034
+      wooden-pier_9: -6219682435267956426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

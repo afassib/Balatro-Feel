@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 00f51dce1333059458e71faf438e4216
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4165973706722642143
+    second: pharoah_0
+  - first:
+      213: 9068567628001344168
+    second: pharoah_1
+  - first:
+      213: -6324024705338925694
+    second: pharoah_2
+  - first:
+      213: 6003029655712115211
+    second: pharoah_3
+  - first:
+      213: -3183702514075195567
+    second: pharoah_4
+  - first:
+      213: -3173719994761371805
+    second: pharoah_5
+  - first:
+      213: -5362306548612775597
+    second: pharoah_6
+  - first:
+      213: 4641672526420463836
+    second: pharoah_7
+  - first:
+      213: 4191258695459802962
+    second: pharoah_8
+  - first:
+      213: -1396098738735951339
+    second: pharoah_9
+  - first:
+      213: -6106575923460746417
+    second: pharoah_10
+  - first:
+      213: -4060824037482508802
+    second: pharoah_11
+  - first:
+      213: -7917325490286943299
+    second: pharoah_12
+  - first:
+      213: 5428736265838352789
+    second: pharoah_13
+  - first:
+      213: 8357042152568712806
+    second: pharoah_14
+  - first:
+      213: 3687225759441452543
+    second: pharoah_15
+  - first:
+      213: 2319245942696360651
+    second: pharoah_16
+  - first:
+      213: -5712742361828805619
+    second: pharoah_17
+  - first:
+      213: 4900123319666148081
+    second: pharoah_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pharoah_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 412
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd802d4930380d930800000000000000
+      internalID: 4165973706722642143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 426
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa70a8d5360add70800000000000000
+      internalID: 9068567628001344168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 437
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9a7f590d8c38a0800000000000000
+      internalID: -6324024705338925694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 437
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a2bdc9aab0f4350800000000000000
+      internalID: 6003029655712115211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 426
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157a7027e6731d3d0800000000000000
+      internalID: -3183702514075195567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 412
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f91b7da7ea4f3d0800000000000000
+      internalID: -3173719994761371805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 376
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514f21da924595b0800000000000000
+      internalID: -5362306548612775597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 131
+        width: 170
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd05bf4f1988a6040800000000000000
+      internalID: 4641672526420463836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 376
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f06a8c3975a2a30800000000000000
+      internalID: 4191258695459802962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 340
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d54e089f00ace0800000000000000
+      internalID: -1396098738735951339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 341
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435b283d85114ba0800000000000000
+      internalID: -6106575923460746417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 303
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdcc769d0e05a7c0800000000000000
+      internalID: -4060824037482508802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32d441a62002290800000000000000
+      internalID: -7917325490286943299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 267
+        width: 109
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59953900fdeb65b40800000000000000
+      internalID: 5428736265838352789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 267
+        width: 109
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee2dc6f8d2af370800000000000000
+      internalID: 8357042152568712806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 352
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd7d2eda48ab2330800000000000000
+      internalID: 3687225759441452543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabe21a5ed9f2020800000000000000
+      internalID: 2319245942696360651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 74
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d043eddd61348b0b0800000000000000
+      internalID: -5712742361828805619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pharoah_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 232
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20f40823cb00440800000000000000
+      internalID: 4900123319666148081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pharoah_0: 4165973706722642143
+      pharoah_1: 9068567628001344168
+      pharoah_10: -6106575923460746417
+      pharoah_11: -4060824037482508802
+      pharoah_12: -7917325490286943299
+      pharoah_13: 5428736265838352789
+      pharoah_14: 8357042152568712806
+      pharoah_15: 3687225759441452543
+      pharoah_16: 2319245942696360651
+      pharoah_17: -5712742361828805619
+      pharoah_18: 4900123319666148081
+      pharoah_2: -6324024705338925694
+      pharoah_3: 6003029655712115211
+      pharoah_4: -3183702514075195567
+      pharoah_5: -3173719994761371805
+      pharoah_6: -5362306548612775597
+      pharoah_7: 4641672526420463836
+      pharoah_8: 4191258695459802962
+      pharoah_9: -1396098738735951339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

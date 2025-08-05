@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: c32b71dbd7ddd684f8427ca0e5fc41d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3261791995904731490
+    second: venus-of-willendorf_0
+  - first:
+      213: -6653282747135076569
+    second: venus-of-willendorf_1
+  - first:
+      213: -5561053406215414340
+    second: venus-of-willendorf_2
+  - first:
+      213: -7965475709398389651
+    second: venus-of-willendorf_3
+  - first:
+      213: 7198737275481015932
+    second: venus-of-willendorf_4
+  - first:
+      213: 1990616971597474611
+    second: venus-of-willendorf_5
+  - first:
+      213: 144117691777262721
+    second: venus-of-willendorf_6
+  - first:
+      213: -9186495088887977162
+    second: venus-of-willendorf_7
+  - first:
+      213: -1722297030893712077
+    second: venus-of-willendorf_8
+  - first:
+      213: 4766415087230299348
+    second: venus-of-willendorf_9
+  - first:
+      213: 1799478425183522891
+    second: venus-of-willendorf_10
+  - first:
+      213: 1647594680157126386
+    second: venus-of-willendorf_11
+  - first:
+      213: -6363481141605862528
+    second: venus-of-willendorf_12
+  - first:
+      213: 7138170247422738274
+    second: venus-of-willendorf_13
+  - first:
+      213: -8067554638871455108
+    second: venus-of-willendorf_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venus-of-willendorf_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692d1fd986344d20800000000000000
+      internalID: 3261791995904731490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 461
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72757c2979acaa3a0800000000000000
+      internalID: -6653282747135076569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbddd89046b23d2b0800000000000000
+      internalID: -5561053406215414340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 460
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c6e429b02f47190800000000000000
+      internalID: -7965475709398389651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 427
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c868596d07e360800000000000000
+      internalID: 7198737275481015932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 427
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6ee3c69710ab10800000000000000
+      internalID: 1990616971597474611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 427
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184ab30f642000200800000000000000
+      internalID: 144117691777262721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 427
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b26f78363038080800000000000000
+      internalID: -9186495088887977162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 377
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dcedbb9fb2918e0800000000000000
+      internalID: -1722297030893712077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 148
+        width: 252
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcac6ea445b52240800000000000000
+      internalID: 4766415087230299348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 228
+        width: 202
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401b0af71809f810800000000000000
+      internalID: 1799478425183522891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 76
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb69cd1ae6dd610800000000000000
+      internalID: 1647594680157126386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 70
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837fabed9f50b7a0800000000000000
+      internalID: -6363481141605862528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 29
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ff4e73500ef0360800000000000000
+      internalID: 7138170247422738274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venus-of-willendorf_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 26
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1308bcc94a0090800000000000000
+      internalID: -8067554638871455108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      venus-of-willendorf_0: 3261791995904731490
+      venus-of-willendorf_1: -6653282747135076569
+      venus-of-willendorf_10: 1799478425183522891
+      venus-of-willendorf_11: 1647594680157126386
+      venus-of-willendorf_12: -6363481141605862528
+      venus-of-willendorf_13: 7138170247422738274
+      venus-of-willendorf_14: -8067554638871455108
+      venus-of-willendorf_2: -5561053406215414340
+      venus-of-willendorf_3: -7965475709398389651
+      venus-of-willendorf_4: 7198737275481015932
+      venus-of-willendorf_5: 1990616971597474611
+      venus-of-willendorf_6: 144117691777262721
+      venus-of-willendorf_7: -9186495088887977162
+      venus-of-willendorf_8: -1722297030893712077
+      venus-of-willendorf_9: 4766415087230299348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

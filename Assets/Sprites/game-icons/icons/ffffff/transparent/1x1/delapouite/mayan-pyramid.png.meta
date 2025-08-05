@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 390eca26655346945bdd161e4aafe869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3474873224997346485
+    second: mayan-pyramid_0
+  - first:
+      213: -6163305042664549643
+    second: mayan-pyramid_1
+  - first:
+      213: -7801490460693957079
+    second: mayan-pyramid_2
+  - first:
+      213: 2037175606761131518
+    second: mayan-pyramid_3
+  - first:
+      213: 7014942744592348888
+    second: mayan-pyramid_4
+  - first:
+      213: -1969746878672465694
+    second: mayan-pyramid_5
+  - first:
+      213: -1689814110188406045
+    second: mayan-pyramid_6
+  - first:
+      213: 5313934154307152628
+    second: mayan-pyramid_7
+  - first:
+      213: 469375980402830451
+    second: mayan-pyramid_8
+  - first:
+      213: -1802799974242798004
+    second: mayan-pyramid_9
+  - first:
+      213: -743037977462208609
+    second: mayan-pyramid_10
+  - first:
+      213: 686761609606092806
+    second: mayan-pyramid_11
+  - first:
+      213: 1948356234667138952
+    second: mayan-pyramid_12
+  - first:
+      213: -9115253696385098918
+    second: mayan-pyramid_13
+  - first:
+      213: 3527034255044013397
+    second: mayan-pyramid_14
+  - first:
+      213: -7448511826020755211
+    second: mayan-pyramid_15
+  - first:
+      213: 5995774739781020554
+    second: mayan-pyramid_16
+  - first:
+      213: -196283209331907349
+    second: mayan-pyramid_17
+  - first:
+      213: -2176860429973135423
+    second: mayan-pyramid_18
+  - first:
+      213: 365800836340916713
+    second: mayan-pyramid_19
+  - first:
+      213: -9047735584355886887
+    second: mayan-pyramid_20
+  - first:
+      213: 6276635879914943363
+    second: mayan-pyramid_21
+  - first:
+      213: 601701545247078977
+    second: mayan-pyramid_22
+  - first:
+      213: 5502370050820730360
+    second: mayan-pyramid_23
+  - first:
+      213: -8278309165167819366
+    second: mayan-pyramid_24
+  - first:
+      213: -6480019465329258080
+    second: mayan-pyramid_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mayan-pyramid_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 472
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9b7799ca393030800000000000000
+      internalID: 3474873224997346485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f21b91e7ba877aa0800000000000000
+      internalID: -6163305042664549643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 344
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926fcb392c98bb390800000000000000
+      internalID: -7801490460693957079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 376
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8612cb60854c10800000000000000
+      internalID: 2037175606761131518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 344
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6712b62451a5160800000000000000
+      internalID: 7014942744592348888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 344
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01b4766ad0aa4e0800000000000000
+      internalID: -1969746878672465694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 280
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf6c115039c88e0800000000000000
+      internalID: -1689814110188406045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 312
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa2b4b75f2eeb940800000000000000
+      internalID: 5313934154307152628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce202a7fe838600800000000000000
+      internalID: 469375980402830451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 280
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46bc2e99fa2bf6e0800000000000000
+      internalID: -1802799974242798004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978db275e230b5f0800000000000000
+      internalID: -743037977462208609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60852f99b0ed78900800000000000000
+      internalID: 686761609606092806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 216
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f904f2ca3f90b10800000000000000
+      internalID: 1948356234667138952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 216
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b566dce0d108180800000000000000
+      internalID: -9115253696385098918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 152
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d688ac7fa82f030800000000000000
+      internalID: 3527034255044013397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89cb845f191a890800000000000000
+      internalID: -7448511826020755211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 152
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b68eddb55453350800000000000000
+      internalID: 5995774739781020554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 152
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e5680679a64df0800000000000000
+      internalID: -196283209331907349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd8d1f8fc3ac1e0800000000000000
+      internalID: -2176860429973135423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e124ac2ce5931500800000000000000
+      internalID: 365800836340916713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 88
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85ec84c6cff6280800000000000000
+      internalID: -9047735584355886887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833dc6e3171b1750800000000000000
+      internalID: 6276635879914943363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a71411e5ca95800800000000000000
+      internalID: 601701545247078977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 56
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdeaed88685c5c40800000000000000
+      internalID: 5502370050820730360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95cf45bca98d1d80800000000000000
+      internalID: -8278309165167819366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayan-pyramid_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 24
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1de6ff0a85216a0800000000000000
+      internalID: -6480019465329258080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mayan-pyramid_0: 3474873224997346485
+      mayan-pyramid_1: -6163305042664549643
+      mayan-pyramid_10: -743037977462208609
+      mayan-pyramid_11: 686761609606092806
+      mayan-pyramid_12: 1948356234667138952
+      mayan-pyramid_13: -9115253696385098918
+      mayan-pyramid_14: 3527034255044013397
+      mayan-pyramid_15: -7448511826020755211
+      mayan-pyramid_16: 5995774739781020554
+      mayan-pyramid_17: -196283209331907349
+      mayan-pyramid_18: -2176860429973135423
+      mayan-pyramid_19: 365800836340916713
+      mayan-pyramid_2: -7801490460693957079
+      mayan-pyramid_20: -9047735584355886887
+      mayan-pyramid_21: 6276635879914943363
+      mayan-pyramid_22: 601701545247078977
+      mayan-pyramid_23: 5502370050820730360
+      mayan-pyramid_24: -8278309165167819366
+      mayan-pyramid_25: -6480019465329258080
+      mayan-pyramid_3: 2037175606761131518
+      mayan-pyramid_4: 7014942744592348888
+      mayan-pyramid_5: -1969746878672465694
+      mayan-pyramid_6: -1689814110188406045
+      mayan-pyramid_7: 5313934154307152628
+      mayan-pyramid_8: 469375980402830451
+      mayan-pyramid_9: -1802799974242798004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

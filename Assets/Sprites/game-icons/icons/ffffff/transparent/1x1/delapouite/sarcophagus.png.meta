@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 014e6dc1b4515304e82d11398da20247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8912410987799251517
+    second: sarcophagus_0
+  - first:
+      213: 6901849919972287182
+    second: sarcophagus_1
+  - first:
+      213: -993529798436084790
+    second: sarcophagus_2
+  - first:
+      213: -4230344749094083567
+    second: sarcophagus_3
+  - first:
+      213: -7693965162254181865
+    second: sarcophagus_4
+  - first:
+      213: -3159105490144455169
+    second: sarcophagus_5
+  - first:
+      213: 4160197910988747725
+    second: sarcophagus_6
+  - first:
+      213: -8521244244320077866
+    second: sarcophagus_7
+  - first:
+      213: 6558389304096547792
+    second: sarcophagus_8
+  - first:
+      213: -1315680568384975886
+    second: sarcophagus_9
+  - first:
+      213: 1024528662412199644
+    second: sarcophagus_10
+  - first:
+      213: -1982591534730268090
+    second: sarcophagus_11
+  - first:
+      213: 2177023538304911392
+    second: sarcophagus_12
+  - first:
+      213: -1119051048676240970
+    second: sarcophagus_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sarcophagus_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 431
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a001cc29e3fab70800000000000000
+      internalID: 8912410987799251517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 446
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2a1054feb48cf50800000000000000
+      internalID: 6901849919972287182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15
+        width: 222
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a37a89e54632f0800000000000000
+      internalID: -993529798436084790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 377
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114eec03ddbca45c0800000000000000
+      internalID: -4230344749094083567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71adb95037b893590800000000000000
+      internalID: -7693965162254181865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 412
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff514fb5b4a9824d0800000000000000
+      internalID: -3159105490144455169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 194
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37ec755fdfbb930800000000000000
+      internalID: 4160197910988747725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 321
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b5fcd1857eb980800000000000000
+      internalID: -8521244244320077866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 341
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d365610354140b50800000000000000
+      internalID: 6558389304096547792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 242
+        width: 51
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb878b6e73cdbde0800000000000000
+      internalID: -1315680568384975886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 164
+        width: 165
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd60949e36bd73e00800000000000000
+      internalID: 1024528662412199644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 37
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642b4bdd08b6c74e0800000000000000
+      internalID: -1982591534730268090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 57
+        width: 69
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028045caf57563e10800000000000000
+      internalID: 2177023538304911392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarcophagus_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 28
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1df1e00055870f0800000000000000
+      internalID: -1119051048676240970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sarcophagus_0: 8912410987799251517
+      sarcophagus_1: 6901849919972287182
+      sarcophagus_10: 1024528662412199644
+      sarcophagus_11: -1982591534730268090
+      sarcophagus_12: 2177023538304911392
+      sarcophagus_13: -1119051048676240970
+      sarcophagus_2: -993529798436084790
+      sarcophagus_3: -4230344749094083567
+      sarcophagus_4: -7693965162254181865
+      sarcophagus_5: -3159105490144455169
+      sarcophagus_6: 4160197910988747725
+      sarcophagus_7: -8521244244320077866
+      sarcophagus_8: 6558389304096547792
+      sarcophagus_9: -1315680568384975886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

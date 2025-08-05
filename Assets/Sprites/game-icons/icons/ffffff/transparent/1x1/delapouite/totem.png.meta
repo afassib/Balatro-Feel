@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: d8b1342c8d8a33e4d9f4dbec27db0ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4075904309749126048
+    second: totem_0
+  - first:
+      213: -131542613483042244
+    second: totem_1
+  - first:
+      213: 2625550160176913500
+    second: totem_2
+  - first:
+      213: -5808961178615454402
+    second: totem_3
+  - first:
+      213: -6450486023892543692
+    second: totem_4
+  - first:
+      213: -697218652660270934
+    second: totem_5
+  - first:
+      213: 2965502592722388323
+    second: totem_6
+  - first:
+      213: -2389621225857172209
+    second: totem_7
+  - first:
+      213: -5995498936668451232
+    second: totem_8
+  - first:
+      213: 1898474386743228899
+    second: totem_9
+  - first:
+      213: 3803130192567749616
+    second: totem_10
+  - first:
+      213: 7906879570536414349
+    second: totem_11
+  - first:
+      213: -8622739410765992769
+    second: totem_12
+  - first:
+      213: 4084388778594845952
+    second: totem_13
+  - first:
+      213: 7425471307602287546
+    second: totem_14
+  - first:
+      213: -1633996034846731951
+    second: totem_15
+  - first:
+      213: 5103983226089353710
+    second: totem_16
+  - first:
+      213: 533855041188276171
+    second: totem_17
+  - first:
+      213: -6892912589532913305
+    second: totem_18
+  - first:
+      213: 6156557119781304476
+    second: totem_19
+  - first:
+      213: 5666551904486003556
+    second: totem_20
+  - first:
+      213: 2159295323841699367
+    second: totem_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totem_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 333
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6be610aa7f67c0800000000000000
+      internalID: -4075904309749126048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 306
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a4482a0baac2ef0800000000000000
+      internalID: -131542613483042244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c905db5f3df6420800000000000000
+      internalID: 2625550160176913500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 370
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e356792d59c626fa0800000000000000
+      internalID: -5808961178615454402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 314
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437534d23254b76a0800000000000000
+      internalID: -6450486023892543692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 294
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87865545bf256f0800000000000000
+      internalID: -697218652660270934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 306
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c7bb65e4972920800000000000000
+      internalID: 2965502592722388323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 333
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dbc05e72c56ded0800000000000000
+      internalID: -2389621225857172209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 262
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e05ac8b75bbcca0800000000000000
+      internalID: -5995498936668451232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 170
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f10d656cb85a10800000000000000
+      internalID: 1898474386743228899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 233
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4092a2ce67c430800000000000000
+      internalID: 3803130192567749616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 16
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cbd93b311eabd60800000000000000
+      internalID: 7906879570536414349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 233
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc288ee030e55880800000000000000
+      internalID: -8622739410765992769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 170
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005ccb044f9aea830800000000000000
+      internalID: 4084388778594845952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 166
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb5d7bffc29c0760800000000000000
+      internalID: 7425471307602287546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 166
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151509a7341e259e0800000000000000
+      internalID: -1633996034846731951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1bb9ab3bdf4d640800000000000000
+      internalID: 5103983226089353710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7249bd452a86700800000000000000
+      internalID: 533855041188276171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 68
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761a21125847750a0800000000000000
+      internalID: -6892912589532913305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 54
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9877f3e41c707550800000000000000
+      internalID: 6156557119781304476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 78
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46393383fe2a3ae40800000000000000
+      internalID: 5666551904486003556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totem_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 176
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1fb618ab57fd10800000000000000
+      internalID: 2159295323841699367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      totem_0: -4075904309749126048
+      totem_1: -131542613483042244
+      totem_10: 3803130192567749616
+      totem_11: 7906879570536414349
+      totem_12: -8622739410765992769
+      totem_13: 4084388778594845952
+      totem_14: 7425471307602287546
+      totem_15: -1633996034846731951
+      totem_16: 5103983226089353710
+      totem_17: 533855041188276171
+      totem_18: -6892912589532913305
+      totem_19: 6156557119781304476
+      totem_2: 2625550160176913500
+      totem_20: 5666551904486003556
+      totem_21: 2159295323841699367
+      totem_3: -5808961178615454402
+      totem_4: -6450486023892543692
+      totem_5: -697218652660270934
+      totem_6: 2965502592722388323
+      totem_7: -2389621225857172209
+      totem_8: -5995498936668451232
+      totem_9: 1898474386743228899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

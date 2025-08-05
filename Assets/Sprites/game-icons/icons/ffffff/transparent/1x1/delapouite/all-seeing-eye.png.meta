@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 7c648ff4367b95043816c8b5a236acca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8866039099476181579
+    second: all-seeing-eye_0
+  - first:
+      213: -6692284152177818084
+    second: all-seeing-eye_1
+  - first:
+      213: -6272453623209617805
+    second: all-seeing-eye_2
+  - first:
+      213: 2546118471098635138
+    second: all-seeing-eye_3
+  - first:
+      213: 344534852439988276
+    second: all-seeing-eye_4
+  - first:
+      213: -6836621223340456622
+    second: all-seeing-eye_5
+  - first:
+      213: -124843938151522975
+    second: all-seeing-eye_6
+  - first:
+      213: -7415604154907456986
+    second: all-seeing-eye_7
+  - first:
+      213: -6772430186028122478
+    second: all-seeing-eye_8
+  - first:
+      213: 1332776566292052188
+    second: all-seeing-eye_9
+  - first:
+      213: 1847459994566861924
+    second: all-seeing-eye_10
+  - first:
+      213: 7815110568762631580
+    second: all-seeing-eye_11
+  - first:
+      213: 8445946941591350387
+    second: all-seeing-eye_12
+  - first:
+      213: 178184208940818025
+    second: all-seeing-eye_13
+  - first:
+      213: 8229161974058635699
+    second: all-seeing-eye_14
+  - first:
+      213: 7446968756150737156
+    second: all-seeing-eye_15
+  - first:
+      213: 6380768036749323410
+    second: all-seeing-eye_16
+  - first:
+      213: 5865739407916260305
+    second: all-seeing-eye_17
+  - first:
+      213: -2967647005256533868
+    second: all-seeing-eye_18
+  - first:
+      213: 6954988665174374424
+    second: all-seeing-eye_19
+  - first:
+      213: -5393366035138730398
+    second: all-seeing-eye_20
+  - first:
+      213: -1770011206659158978
+    second: all-seeing-eye_21
+  - first:
+      213: 8815803551454391799
+    second: all-seeing-eye_22
+  - first:
+      213: -14941002139176175
+    second: all-seeing-eye_23
+  - first:
+      213: -7807920770265034407
+    second: all-seeing-eye_24
+  - first:
+      213: -3281102282971593120
+    second: all-seeing-eye_25
+  - first:
+      213: 1616802984510005879
+    second: all-seeing-eye_26
+  - first:
+      213: -9206917253072423211
+    second: all-seeing-eye_27
+  - first:
+      213: 9093566799850681516
+    second: all-seeing-eye_28
+  - first:
+      213: 82643525925430362
+    second: all-seeing-eye_29
+  - first:
+      213: 2054164429468403753
+    second: all-seeing-eye_30
+  - first:
+      213: 237809229040801277
+    second: all-seeing-eye_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all-seeing-eye_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 295
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7ffec96085f480800000000000000
+      internalID: -8866039099476181579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 277
+        width: 162
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160775550b3023a0800000000000000
+      internalID: -6692284152177818084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 318
+        width: 110
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769a7e99a4c3f8a0800000000000000
+      internalID: -6272453623209617805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 360
+        width: 45
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28315e17241a55320800000000000000
+      internalID: 2546118471098635138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 412
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385d647f9808c400800000000000000
+      internalID: 344534852439988276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 359
+        width: 46
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25545e628317f11a0800000000000000
+      internalID: -6836621223340456622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 318
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d1e168917744ef0800000000000000
+      internalID: -124843938151522975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 295
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a84d78f4b761990800000000000000
+      internalID: -7415604154907456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 277
+        width: 162
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e39afa0ae7302a0800000000000000
+      internalID: -6772430186028122478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 148
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87dc6c939fe7210800000000000000
+      internalID: 1332776566292052188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 228
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46427e8a31f73a910800000000000000
+      internalID: 1847459994566861924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 263
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956f73f7a9d47c60800000000000000
+      internalID: 7815110568762631580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 251
+        width: 148
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c695daef7063570800000000000000
+      internalID: 8445946941591350387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e508e0899097200800000000000000
+      internalID: 178184208940818025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 118
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1dae6273bd33270800000000000000
+      internalID: 8229161974058635699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 170
+        width: 198
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4091cc3c0a2f85760800000000000000
+      internalID: 7446968756150737156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 211
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c2c9009ba0d8850800000000000000
+      internalID: 6380768036749323410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 184
+        width: 118
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdbd9d9ea476150800000000000000
+      internalID: 5865739407916260305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498bee0a5ccc0d6d0800000000000000
+      internalID: -2967647005256533868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81836948755158060800000000000000
+      internalID: 6954988665174374424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 340
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26626e39a2ae625b0800000000000000
+      internalID: -5393366035138730398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 124
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cce9a7f28af67e0800000000000000
+      internalID: -1770011206659158978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde0163f96085a70800000000000000
+      internalID: 8815803551454391799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f7eadc3beacff0800000000000000
+      internalID: -14941002139176175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95155f57d61b4a390800000000000000
+      internalID: -7807920770265034407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06641cf8bde2772d0800000000000000
+      internalID: -3281102282971593120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a28b8fb9007610800000000000000
+      internalID: 1616802984510005879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 17
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6f336e9857a3080800000000000000
+      internalID: -9206917253072423211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 17
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b26e13d6d23e70800000000000000
+      internalID: 9093566799850681516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5465c559db952100800000000000000
+      internalID: 82643525925430362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92805b84aabd18c10800000000000000
+      internalID: 2054164429468403753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-seeing-eye_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5594ddb3edc4300800000000000000
+      internalID: 237809229040801277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      all-seeing-eye_0: -8866039099476181579
+      all-seeing-eye_1: -6692284152177818084
+      all-seeing-eye_10: 1847459994566861924
+      all-seeing-eye_11: 7815110568762631580
+      all-seeing-eye_12: 8445946941591350387
+      all-seeing-eye_13: 178184208940818025
+      all-seeing-eye_14: 8229161974058635699
+      all-seeing-eye_15: 7446968756150737156
+      all-seeing-eye_16: 6380768036749323410
+      all-seeing-eye_17: 5865739407916260305
+      all-seeing-eye_18: -2967647005256533868
+      all-seeing-eye_19: 6954988665174374424
+      all-seeing-eye_2: -6272453623209617805
+      all-seeing-eye_20: -5393366035138730398
+      all-seeing-eye_21: -1770011206659158978
+      all-seeing-eye_22: 8815803551454391799
+      all-seeing-eye_23: -14941002139176175
+      all-seeing-eye_24: -7807920770265034407
+      all-seeing-eye_25: -3281102282971593120
+      all-seeing-eye_26: 1616802984510005879
+      all-seeing-eye_27: -9206917253072423211
+      all-seeing-eye_28: 9093566799850681516
+      all-seeing-eye_29: 82643525925430362
+      all-seeing-eye_3: 2546118471098635138
+      all-seeing-eye_30: 2054164429468403753
+      all-seeing-eye_31: 237809229040801277
+      all-seeing-eye_4: 344534852439988276
+      all-seeing-eye_5: -6836621223340456622
+      all-seeing-eye_6: -124843938151522975
+      all-seeing-eye_7: -7415604154907456986
+      all-seeing-eye_8: -6772430186028122478
+      all-seeing-eye_9: 1332776566292052188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

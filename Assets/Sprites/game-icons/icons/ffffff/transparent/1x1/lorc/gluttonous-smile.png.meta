@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 05aeece1af66e674f86162b4fedbc9a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3696300083609521468
+    second: gluttonous-smile_0
+  - first:
+      213: -1820377983550961416
+    second: gluttonous-smile_1
+  - first:
+      213: 1776252220389454024
+    second: gluttonous-smile_2
+  - first:
+      213: -8787525932893447619
+    second: gluttonous-smile_3
+  - first:
+      213: -8345469584984154348
+    second: gluttonous-smile_4
+  - first:
+      213: -5851521890131065086
+    second: gluttonous-smile_5
+  - first:
+      213: -8795819803112418971
+    second: gluttonous-smile_6
+  - first:
+      213: -4358233824841929991
+    second: gluttonous-smile_7
+  - first:
+      213: 2211350046998311814
+    second: gluttonous-smile_8
+  - first:
+      213: -1885218154412241505
+    second: gluttonous-smile_9
+  - first:
+      213: 1628675525744518825
+    second: gluttonous-smile_10
+  - first:
+      213: 440551945304844461
+    second: gluttonous-smile_11
+  - first:
+      213: 8380919647720673947
+    second: gluttonous-smile_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gluttonous-smile_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 371
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dcaca9755eb4330800000000000000
+      internalID: 3696300083609521468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 372
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8c0856ed7bcb6e0800000000000000
+      internalID: -1820377983550961416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 191
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ffc3cbf386a810800000000000000
+      internalID: 1776252220389454024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 65
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a5a5be8bf6c0680800000000000000
+      internalID: -8787525932893447619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 190
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f513fe0afee2c80800000000000000
+      internalID: -8345469584984154348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 76
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c057f7d73bcea0800000000000000
+      internalID: -5851521890131065086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 80
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5615327cd78fee580800000000000000
+      internalID: -8795819803112418971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 55
+        width: 82
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa643e5d617483c0800000000000000
+      internalID: -4358233824841929991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 174
+        width: 86
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683b069c62b40be10800000000000000
+      internalID: 2211350046998311814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 45
+        width: 92
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d042ea31c56d5e0800000000000000
+      internalID: -1885218154412241505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 89
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ef56f2c73a9610800000000000000
+      internalID: 1628675525744518825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 45
+        width: 76
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a00df8a72d1600800000000000000
+      internalID: 440551945304844461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gluttonous-smile_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 133
+        width: 74
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929b7df3020f4470800000000000000
+      internalID: 8380919647720673947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gluttonous-smile_0: 3696300083609521468
+      gluttonous-smile_1: -1820377983550961416
+      gluttonous-smile_10: 1628675525744518825
+      gluttonous-smile_11: 440551945304844461
+      gluttonous-smile_12: 8380919647720673947
+      gluttonous-smile_2: 1776252220389454024
+      gluttonous-smile_3: -8787525932893447619
+      gluttonous-smile_4: -8345469584984154348
+      gluttonous-smile_5: -5851521890131065086
+      gluttonous-smile_6: -8795819803112418971
+      gluttonous-smile_7: -4358233824841929991
+      gluttonous-smile_8: 2211350046998311814
+      gluttonous-smile_9: -1885218154412241505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

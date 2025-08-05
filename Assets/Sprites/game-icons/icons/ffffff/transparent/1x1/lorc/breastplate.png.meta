@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 00c23f688ef8c884eb6be0bc7a87c522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4406220082730904383
+    second: breastplate_0
+  - first:
+      213: 2834730555418218211
+    second: breastplate_1
+  - first:
+      213: 9139047028761578507
+    second: breastplate_2
+  - first:
+      213: 3682600286748688455
+    second: breastplate_3
+  - first:
+      213: 5213164541355961974
+    second: breastplate_4
+  - first:
+      213: -5812578260970649763
+    second: breastplate_5
+  - first:
+      213: 3752789059367515523
+    second: breastplate_6
+  - first:
+      213: -8247982181923377945
+    second: breastplate_7
+  - first:
+      213: 3080973468666772083
+    second: breastplate_8
+  - first:
+      213: -6575588945017723585
+    second: breastplate_9
+  - first:
+      213: -2208288246865424874
+    second: breastplate_10
+  - first:
+      213: 2611791837081139903
+    second: breastplate_11
+  - first:
+      213: -2600694163690946689
+    second: breastplate_12
+  - first:
+      213: -4811317487902432125
+    second: breastplate_13
+  - first:
+      213: 7176869578103750494
+    second: breastplate_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breastplate_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 337
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2e51f1d9062d30800000000000000
+      internalID: 4406220082730904383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 340
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee06adcb6cf65720800000000000000
+      internalID: 2834730555418218211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 362
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4ce61ada64de70800000000000000
+      internalID: 9139047028761578507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 153
+        width: 128
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740486513793b1330800000000000000
+      internalID: 3682600286748688455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 386
+        width: 140
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2f23a781e85840800000000000000
+      internalID: 5213164541355961974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 153
+        width: 125
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57cfa53ed2955fa0800000000000000
+      internalID: -5812578260970649763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 362
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b29034c5941430800000000000000
+      internalID: 3752789059367515523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 340
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca4bcb7e7498d80800000000000000
+      internalID: -8247982181923377945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 337
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a394acb01d1ca20800000000000000
+      internalID: 3080973468666772083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 87
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ab3781b0deb4a0800000000000000
+      internalID: -6575588945017723585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 126
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8aeb1a859a51e0800000000000000
+      internalID: -2208288246865424874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 125
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7c7486d2fe3420800000000000000
+      internalID: 2611791837081139903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 87
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff4cbef6a78ebd0800000000000000
+      internalID: -2600694163690946689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38463f77c34ca3db0800000000000000
+      internalID: -4811317487902432125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breastplate_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 40
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7e2a4bdc599360800000000000000
+      internalID: 7176869578103750494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      breastplate_0: 4406220082730904383
+      breastplate_1: 2834730555418218211
+      breastplate_10: -2208288246865424874
+      breastplate_11: 2611791837081139903
+      breastplate_12: -2600694163690946689
+      breastplate_13: -4811317487902432125
+      breastplate_14: 7176869578103750494
+      breastplate_2: 9139047028761578507
+      breastplate_3: 3682600286748688455
+      breastplate_4: 5213164541355961974
+      breastplate_5: -5812578260970649763
+      breastplate_6: 3752789059367515523
+      breastplate_7: -8247982181923377945
+      breastplate_8: 3080973468666772083
+      breastplate_9: -6575588945017723585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

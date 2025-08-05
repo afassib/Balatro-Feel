@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 50c35ce2a1ac6a04f831c7ab9e5d1e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6623295586724951948
+    second: sugar-cane_0
+  - first:
+      213: -6973142217615970584
+    second: sugar-cane_1
+  - first:
+      213: 6569622550769683587
+    second: sugar-cane_2
+  - first:
+      213: 3450713319186364848
+    second: sugar-cane_3
+  - first:
+      213: -3125782608467329584
+    second: sugar-cane_4
+  - first:
+      213: -2587308429955782296
+    second: sugar-cane_5
+  - first:
+      213: 4682199816689577857
+    second: sugar-cane_6
+  - first:
+      213: -2753164525299062221
+    second: sugar-cane_7
+  - first:
+      213: -21175245489265399
+    second: sugar-cane_8
+  - first:
+      213: -8378144126270071025
+    second: sugar-cane_9
+  - first:
+      213: -4596796494190088523
+    second: sugar-cane_10
+  - first:
+      213: 3263069818646524177
+    second: sugar-cane_11
+  - first:
+      213: 5761133298828908971
+    second: sugar-cane_12
+  - first:
+      213: -3672586402828768290
+    second: sugar-cane_13
+  - first:
+      213: -9148741569827758783
+    second: sugar-cane_14
+  - first:
+      213: -6390469734778775464
+    second: sugar-cane_15
+  - first:
+      213: 9069467199664195070
+    second: sugar-cane_16
+  - first:
+      213: 8498447767172352548
+    second: sugar-cane_17
+  - first:
+      213: 1078064145224381128
+    second: sugar-cane_18
+  - first:
+      213: 8495097915553805205
+    second: sugar-cane_19
+  - first:
+      213: -7787192192146310058
+    second: sugar-cane_20
+  - first:
+      213: -5616829789121984191
+    second: sugar-cane_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sugar-cane_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c8de61c35514a0800000000000000
+      internalID: -6623295586724951948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 96
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee68be291c6a3f90800000000000000
+      internalID: -6973142217615970584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 291
+        width: 106
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cc50f07ecfb2b50800000000000000
+      internalID: 6569622550769683587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 328
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ffcb2b7563ef20800000000000000
+      internalID: 3450713319186364848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 266
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf539574dfe94d0800000000000000
+      internalID: -3125782608467329584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 308
+        width: 78
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ac1ce0b8081cd0800000000000000
+      internalID: -2587308429955782296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 271
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f6e290de38af040800000000000000
+      internalID: 4682199816689577857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 150
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aa75d737bcac9d0800000000000000
+      internalID: -2753164525299062221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 188
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905a496f935c4bff0800000000000000
+      internalID: -21175245489265399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 154
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f95a47e4adabb80800000000000000
+      internalID: -8378144126270071025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 226
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bee90381f5e430c0800000000000000
+      internalID: -4596796494190088523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 209
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11179b926b0c84d20800000000000000
+      internalID: 3263069818646524177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 130
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba91f542638a3ff40800000000000000
+      internalID: 5761133298828908971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 92
+        width: 58
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2674ff1a580dc0800000000000000
+      internalID: -3672586402828768290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d119ca304290180800000000000000
+      internalID: -9148741569827758783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 138
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85850a662ad7057a0800000000000000
+      internalID: -6390469734778775464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58a02bd583ddd70800000000000000
+      internalID: 9069467199664195070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a0580b73d80f570800000000000000
+      internalID: 8498447767172352548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 72
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c23f25d0ad06fe00800000000000000
+      internalID: 1078064145224381128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 25
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593feb49b86a4e570800000000000000
+      internalID: 8495097915553805205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c7c65a5f55ee390800000000000000
+      internalID: -7787192192146310058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sugar-cane_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494d87e0130d02b0800000000000000
+      internalID: -5616829789121984191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sugar-cane_0: -6623295586724951948
+      sugar-cane_1: -6973142217615970584
+      sugar-cane_10: -4596796494190088523
+      sugar-cane_11: 3263069818646524177
+      sugar-cane_12: 5761133298828908971
+      sugar-cane_13: -3672586402828768290
+      sugar-cane_14: -9148741569827758783
+      sugar-cane_15: -6390469734778775464
+      sugar-cane_16: 9069467199664195070
+      sugar-cane_17: 8498447767172352548
+      sugar-cane_18: 1078064145224381128
+      sugar-cane_19: 8495097915553805205
+      sugar-cane_2: 6569622550769683587
+      sugar-cane_20: -7787192192146310058
+      sugar-cane_21: -5616829789121984191
+      sugar-cane_3: 3450713319186364848
+      sugar-cane_4: -3125782608467329584
+      sugar-cane_5: -2587308429955782296
+      sugar-cane_6: 4682199816689577857
+      sugar-cane_7: -2753164525299062221
+      sugar-cane_8: -21175245489265399
+      sugar-cane_9: -8378144126270071025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

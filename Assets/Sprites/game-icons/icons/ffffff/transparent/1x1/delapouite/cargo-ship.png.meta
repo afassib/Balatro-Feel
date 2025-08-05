@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f2de76c8deb9ca047aebfb472ea01a42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7067432346558599987
+    second: cargo-ship_0
+  - first:
+      213: 1922669289329236231
+    second: cargo-ship_1
+  - first:
+      213: -61403499545732422
+    second: cargo-ship_2
+  - first:
+      213: -883226912850012614
+    second: cargo-ship_3
+  - first:
+      213: 2613814380813168794
+    second: cargo-ship_4
+  - first:
+      213: -2174667513843299880
+    second: cargo-ship_5
+  - first:
+      213: 109988536146287234
+    second: cargo-ship_6
+  - first:
+      213: 7452140924511870805
+    second: cargo-ship_7
+  - first:
+      213: 5716731096405809747
+    second: cargo-ship_8
+  - first:
+      213: 6747823176118592829
+    second: cargo-ship_9
+  - first:
+      213: 8494933747533892661
+    second: cargo-ship_10
+  - first:
+      213: 7246434814066719125
+    second: cargo-ship_11
+  - first:
+      213: 6635531856246310759
+    second: cargo-ship_12
+  - first:
+      213: -6588082006408958337
+    second: cargo-ship_13
+  - first:
+      213: 1470460514895052963
+    second: cargo-ship_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cargo-ship_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 456
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3331bba3640941260800000000000000
+      internalID: 7067432346558599987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 232
+        width: 95
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709950b2881beaa10800000000000000
+      internalID: 1922669289329236231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 328
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba5c9da7d9d52ff0800000000000000
+      internalID: -61403499545732422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 328
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3692836dc52eb3f0800000000000000
+      internalID: -883226912850012614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 328
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903d2da452264420800000000000000
+      internalID: 2613814380813168794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 264
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9c9c40b6702d1e0800000000000000
+      internalID: -2174667513843299880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a5d5aadf1c68100800000000000000
+      internalID: 109988536146287234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5ead00b25b6760800000000000000
+      internalID: 7452140924511870805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 200
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a92b5c4a8e55f40800000000000000
+      internalID: 5716731096405809747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3562bb5d6515ad50800000000000000
+      internalID: 6747823176118592829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 232
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4c3c3c3114e570800000000000000
+      internalID: 8494933747533892661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 352
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5997874f112809460800000000000000
+      internalID: 7246434814066719125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76789531115261c50800000000000000
+      internalID: 6635531856246310759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 54
+        width: 478
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee9d0025e6294a0800000000000000
+      internalID: -6588082006408958337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cargo-ship_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 478
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ce862c00286410800000000000000
+      internalID: 1470460514895052963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cargo-ship_0: 7067432346558599987
+      cargo-ship_1: 1922669289329236231
+      cargo-ship_10: 8494933747533892661
+      cargo-ship_11: 7246434814066719125
+      cargo-ship_12: 6635531856246310759
+      cargo-ship_13: -6588082006408958337
+      cargo-ship_14: 1470460514895052963
+      cargo-ship_2: -61403499545732422
+      cargo-ship_3: -883226912850012614
+      cargo-ship_4: 2613814380813168794
+      cargo-ship_5: -2174667513843299880
+      cargo-ship_6: 109988536146287234
+      cargo-ship_7: 7452140924511870805
+      cargo-ship_8: 5716731096405809747
+      cargo-ship_9: 6747823176118592829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

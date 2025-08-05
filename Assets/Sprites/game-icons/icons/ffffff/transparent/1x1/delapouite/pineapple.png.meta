@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 666add0669cee284387ea9911a9afc16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -724105580326358498
+    second: pineapple_0
+  - first:
+      213: 8498484278366519165
+    second: pineapple_1
+  - first:
+      213: 7358780699758804066
+    second: pineapple_2
+  - first:
+      213: -6823341447386077256
+    second: pineapple_3
+  - first:
+      213: -320827062915119951
+    second: pineapple_4
+  - first:
+      213: -8599468374531181167
+    second: pineapple_5
+  - first:
+      213: 8513419471933093005
+    second: pineapple_6
+  - first:
+      213: -3249092932878871163
+    second: pineapple_7
+  - first:
+      213: 6350086792609753744
+    second: pineapple_8
+  - first:
+      213: 9167730220252366675
+    second: pineapple_9
+  - first:
+      213: 4784786507033894550
+    second: pineapple_10
+  - first:
+      213: 4979810012520928126
+    second: pineapple_11
+  - first:
+      213: -8384000575200818023
+    second: pineapple_12
+  - first:
+      213: -4564307363803251846
+    second: pineapple_13
+  - first:
+      213: 9060868574481366209
+    second: pineapple_14
+  - first:
+      213: 2448044873113025080
+    second: pineapple_15
+  - first:
+      213: -4180623197348292131
+    second: pineapple_16
+  - first:
+      213: 9104526290478938230
+    second: pineapple_17
+  - first:
+      213: 3222851169076442297
+    second: pineapple_18
+  - first:
+      213: -6000519839178993007
+    second: pineapple_19
+  - first:
+      213: -8460346380138221803
+    second: pineapple_20
+  - first:
+      213: 3078121684088171362
+    second: pineapple_21
+  - first:
+      213: 8846275239462100938
+    second: pineapple_22
+  - first:
+      213: -9000334993382867002
+    second: pineapple_23
+  - first:
+      213: -2874900474951829479
+    second: pineapple_24
+  - first:
+      213: -8215268566810166914
+    second: pineapple_25
+  - first:
+      213: 7096342357038870543
+    second: pineapple_26
+  - first:
+      213: 7966386737797972073
+    second: pineapple_27
+  - first:
+      213: -8589340752806114002
+    second: pineapple_28
+  - first:
+      213: -1478918342025651512
+    second: pineapple_29
+  - first:
+      213: 9207656557937119860
+    second: pineapple_30
+  - first:
+      213: 5673960021180341716
+    second: pineapple_31
+  - first:
+      213: 3636719998219203076
+    second: pineapple_32
+  - first:
+      213: 5758872262174206892
+    second: pineapple_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pineapple_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 261
+        width: 190
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f4c8afc573f5f0800000000000000
+      internalID: -724105580326358498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 326
+        width: 32
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f374d9c6ea0f570800000000000000
+      internalID: 8498484278366519165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 404
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cbf15de04af1660800000000000000
+      internalID: 7358780699758804066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 352
+        width: 152
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76a5fea1f9e41a0800000000000000
+      internalID: -6823341447386077256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 316
+        width: 134
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4cc907c713c8bf0800000000000000
+      internalID: -320827062915119951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 258
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fcd6431d88a880800000000000000
+      internalID: -8599468374531181167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 250
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84377857edb52670800000000000000
+      internalID: 8513419471933093005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d5852137e8e2d0800000000000000
+      internalID: -3249092932878871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a676e2b4a002850800000000000000
+      internalID: 6350086792609753744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35781c600125a3f70800000000000000
+      internalID: 9167730220252366675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 212
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e56dd2af9f66240800000000000000
+      internalID: 4784786507033894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 208
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e735e3d72d6db1540800000000000000
+      internalID: 4979810012520928126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 202
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0c7ea5eb06ab80800000000000000
+      internalID: -8384000575200818023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 195
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bbec6a2a258a0c0800000000000000
+      internalID: -4564307363803251846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 170
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc367246fbaebd70800000000000000
+      internalID: 9060868574481366209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 167
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a3e1087d339f120800000000000000
+      internalID: 2448044873113025080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91c461a517bf5c0800000000000000
+      internalID: -4180623197348292131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b3306c66c95e70800000000000000
+      internalID: 9104526290478938230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f0c8101ed9bc20800000000000000
+      internalID: 3222851169076442297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 138
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925d069ffed9bca0800000000000000
+      internalID: -6000519839178993007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 123
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6917cacfc69a80800000000000000
+      internalID: -8460346380138221803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba083fc5fa7ba20800000000000000
+      internalID: 3078121684088171362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 117
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfd871f57844ca70800000000000000
+      internalID: 8846275239462100938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf75e36203681380800000000000000
+      internalID: -9000334993382867002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 100
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f4e9ff3d4a18d0800000000000000
+      internalID: -2874900474951829479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79f8dcc3c08dfd80800000000000000
+      internalID: -8215268566810166914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003cd396c54b7260800000000000000
+      internalID: 7096342357038870543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 69
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960c4d1c78a4e8e60800000000000000
+      internalID: 7966386737797972073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d8436f7188cc880800000000000000
+      internalID: -8589340752806114002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca50c38a93d97be0800000000000000
+      internalID: -1478918342025651512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47253adeada28cf70800000000000000
+      internalID: 9207656557937119860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddd83cc394fdbe40800000000000000
+      internalID: 5673960021180341716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 24
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4023a69f199387230800000000000000
+      internalID: 3636719998219203076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapple_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6eb58fcf9bef40800000000000000
+      internalID: 5758872262174206892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pineapple_0: -724105580326358498
+      pineapple_1: 8498484278366519165
+      pineapple_10: 4784786507033894550
+      pineapple_11: 4979810012520928126
+      pineapple_12: -8384000575200818023
+      pineapple_13: -4564307363803251846
+      pineapple_14: 9060868574481366209
+      pineapple_15: 2448044873113025080
+      pineapple_16: -4180623197348292131
+      pineapple_17: 9104526290478938230
+      pineapple_18: 3222851169076442297
+      pineapple_19: -6000519839178993007
+      pineapple_2: 7358780699758804066
+      pineapple_20: -8460346380138221803
+      pineapple_21: 3078121684088171362
+      pineapple_22: 8846275239462100938
+      pineapple_23: -9000334993382867002
+      pineapple_24: -2874900474951829479
+      pineapple_25: -8215268566810166914
+      pineapple_26: 7096342357038870543
+      pineapple_27: 7966386737797972073
+      pineapple_28: -8589340752806114002
+      pineapple_29: -1478918342025651512
+      pineapple_3: -6823341447386077256
+      pineapple_30: 9207656557937119860
+      pineapple_31: 5673960021180341716
+      pineapple_32: 3636719998219203076
+      pineapple_33: 5758872262174206892
+      pineapple_4: -320827062915119951
+      pineapple_5: -8599468374531181167
+      pineapple_6: 8513419471933093005
+      pineapple_7: -3249092932878871163
+      pineapple_8: 6350086792609753744
+      pineapple_9: 9167730220252366675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
